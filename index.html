@@ -1,0 +1,860 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="css/filter.css">
+<link rel="stylesheet" href="css/nouislider.min.css">
+        <link rel="stylesheet" href="css/leaflet-measure.css">
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="js/leaflet-measure.js"></script>
+        <script src="js/tailDT.js"></script>
+<script src="js/nouislider.min.js"></script>
+<script src="js/wNumb.js"></script>
+        <script src="data/ShipDetections_1.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[39.61121949966383,25.88037720129526],[48.6108536677937,44.68960792511263]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var measureControl = new L.Control.Measure({
+            position: 'topleft',
+            primaryLengthUnit: 'meters',
+            secondaryLengthUnit: 'kilometers',
+            primaryAreaUnit: 'sqmeters',
+            secondaryAreaUnit: 'hectares'
+        });
+        measureControl.addTo(map);
+        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
+        .innerHTML = '';
+        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
+        .className += ' fas fa-ruler';
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        map.createPane('pane_GoogleSatellite_0');
+        map.getPane('pane_GoogleSatellite_0').style.zIndex = 400;
+        var layer_GoogleSatellite_0 = L.tileLayer('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+            pane: 'pane_GoogleSatellite_0',
+            opacity: 1.0,
+            attribution: '<a href="https://www.google.at/permissions/geoguidelines/attr-guide.html">Map data ©2015 Google</a>',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 20
+        });
+        layer_GoogleSatellite_0;
+        map.addLayer(layer_GoogleSatellite_0);
+        function pop_ShipDetections_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">ShipDetections</th>\
+                        <td>' + (feature.properties['ShipDetections'] !== null ? autolinker.link(feature.properties['ShipDetections'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Detected_width</th>\
+                        <td>' + (feature.properties['Detected_width'] !== null ? autolinker.link(feature.properties['Detected_width'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Detected_length</th>\
+                        <td>' + (feature.properties['Detected_length'] !== null ? autolinker.link(feature.properties['Detected_length'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Year</th>\
+                        <td>' + (feature.properties['Year'] !== null ? autolinker.link(feature.properties['Year'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Month</th>\
+                        <td>' + (feature.properties['Month'] !== null ? autolinker.link(feature.properties['Month'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Day</th>\
+                        <td>' + (feature.properties['Day'] !== null ? autolinker.link(feature.properties['Day'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Time</th>\
+                        <td>' + (feature.properties['Time'] !== null ? autolinker.link(feature.properties['Time'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Latitude</th>\
+                        <td>' + (feature.properties['Latitude'] !== null ? autolinker.link(feature.properties['Latitude'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Longitude</th>\
+                        <td>' + (feature.properties['Longitude'] !== null ? autolinker.link(feature.properties['Longitude'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_ShipDetections_1_0(feature) {
+            if (feature.properties['Date'] >= 20220201.000000 && feature.properties['Date'] <= 20220211.100000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220211.100000 && feature.properties['Date'] <= 20220221.200000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(58,44,120,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220221.200000 && feature.properties['Date'] <= 20220231.300000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(65,69,170,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220231.300000 && feature.properties['Date'] <= 20220241.400000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(69,93,209,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220241.400000 && feature.properties['Date'] <= 20220251.500000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(71,116,236,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220251.500000 && feature.properties['Date'] <= 20220261.600000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(69,138,253,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220261.600000 && feature.properties['Date'] <= 20220271.700000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(59,160,254,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220271.700000 && feature.properties['Date'] <= 20220281.800000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(44,183,241,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220281.800000 && feature.properties['Date'] <= 20220291.900000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(30,203,219,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220291.900000 && feature.properties['Date'] <= 20220302.000000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(24,220,196,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220302.000000 && feature.properties['Date'] <= 20220312.100000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(31,234,174,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220312.100000 && feature.properties['Date'] <= 20220322.200000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,244,148,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220322.200000 && feature.properties['Date'] <= 20220332.300000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(85,250,118,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220332.300000 && feature.properties['Date'] <= 20220342.400000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(120,254,90,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220342.400000 && feature.properties['Date'] <= 20220352.500000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(152,254,67,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220352.500000 && feature.properties['Date'] <= 20220362.600000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(176,250,54,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220362.600000 && feature.properties['Date'] <= 20220372.700000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(199,240,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220372.700000 && feature.properties['Date'] <= 20220382.800000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(219,226,54,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220382.800000 && feature.properties['Date'] <= 20220392.900000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(236,210,58,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220392.900000 && feature.properties['Date'] <= 20220403.000000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(248,191,57,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220403.000000 && feature.properties['Date'] <= 20220413.100000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(254,171,51,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220413.100000 && feature.properties['Date'] <= 20220423.200000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(254,146,41,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220423.200000 && feature.properties['Date'] <= 20220433.300000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(249,119,29,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220433.300000 && feature.properties['Date'] <= 20220443.400000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(241,93,19,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220443.400000 && feature.properties['Date'] <= 20220453.500000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(230,71,11,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220453.500000 && feature.properties['Date'] <= 20220463.600000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(215,53,6,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220463.600000 && feature.properties['Date'] <= 20220473.700000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(196,37,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220473.700000 && feature.properties['Date'] <= 20220483.800000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(174,23,1,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220483.800000 && feature.properties['Date'] <= 20220493.900000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(149,12,1,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['Date'] >= 20220493.900000 && feature.properties['Date'] <= 20220504.000000 ) {
+                return {
+                pane: 'pane_ShipDetections_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_ShipDetections_1');
+        map.getPane('pane_ShipDetections_1').style.zIndex = 401;
+        map.getPane('pane_ShipDetections_1').style['mix-blend-mode'] = 'normal';
+        var layer_ShipDetections_1 = new L.geoJson(json_ShipDetections_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_ShipDetections_1',
+            layerName: 'layer_ShipDetections_1',
+            pane: 'pane_ShipDetections_1',
+            onEachFeature: pop_ShipDetections_1,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_ShipDetections_1_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_ShipDetections_1);
+        map.addLayer(layer_ShipDetections_1);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'ShipDetections<br /><table><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220201202202110.png" /></td><td>20220201 - 20220211</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220211202202211.png" /></td><td>20220211 - 20220221</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220221202202312.png" /></td><td>20220221 - 20220231</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220231202202413.png" /></td><td>20220231 - 20220241</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220241202202524.png" /></td><td>20220241 - 20220252</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220252202202625.png" /></td><td>20220252 - 20220262</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220262202202726.png" /></td><td>20220262 - 20220272</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220272202202827.png" /></td><td>20220272 - 20220282</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220282202202928.png" /></td><td>20220282 - 20220292</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_20220292202203029.png" /></td><td>20220292 - 20220302</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203022022031210.png" /></td><td>20220302 - 20220312</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203122022032211.png" /></td><td>20220312 - 20220322</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203222022033212.png" /></td><td>20220322 - 20220332</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203322022034213.png" /></td><td>20220332 - 20220342</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203422022035314.png" /></td><td>20220342 - 20220353</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203532022036315.png" /></td><td>20220353 - 20220363</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203632022037316.png" /></td><td>20220363 - 20220373</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203732022038317.png" /></td><td>20220373 - 20220383</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203832022039318.png" /></td><td>20220383 - 20220393</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202203932022040319.png" /></td><td>20220393 - 20220403</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204032022041320.png" /></td><td>20220403 - 20220413</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204132022042321.png" /></td><td>20220413 - 20220423</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204232022043322.png" /></td><td>20220423 - 20220433</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204332022044323.png" /></td><td>20220433 - 20220443</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204432022045424.png" /></td><td>20220443 - 20220454</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204542022046425.png" /></td><td>20220454 - 20220464</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204642022047426.png" /></td><td>20220464 - 20220474</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204742022048427.png" /></td><td>20220474 - 20220484</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204842022049428.png" /></td><td>20220484 - 20220494</td></tr><tr><td style="text-align: center;"><img src="legend/ShipDetections_1_202204942022050429.png" /></td><td>20220494 - 20220504</td></tr></table>': layer_ShipDetections_1,"Google Satellite": layer_GoogleSatellite_0,}).addTo(map);
+        setBounds();
+        var mapDiv = document.getElementById('map');
+        var row = document.createElement('div');
+        row.className="row";
+        row.id="all";
+        row.style.height = "100%";
+        var col1 = document.createElement('div');
+        col1.className="col9";
+        col1.id = "mapWindow";
+        col1.style.height = "99%";
+        col1.style.width = "80%";
+        col1.style.display = "inline-block";
+        var col2 = document.createElement('div');
+        col2.className="col3";
+        col2.id = "menu";
+        col2.style.display = "inline-block";
+        mapDiv.parentNode.insertBefore(row, mapDiv);
+        document.getElementById("all").appendChild(col1);
+        document.getElementById("all").appendChild(col2);
+        col1.appendChild(mapDiv)
+        var Filters = {"Year": "int","Date": "int","Month": "int"};
+        function filterFunc() {
+          map.eachLayer(function(lyr){
+          if ("options" in lyr && "dataVar" in lyr["options"]){
+            features = this[lyr["options"]["dataVar"]].features.slice(0);
+            try{
+              for (key in Filters){
+                keyS = key.replace(/[^a-zA-Z0-9_]/g, "")
+                if (Filters[key] == "str" || Filters[key] == "bool"){
+                  var selection = [];
+                  var options = document.getElementById("sel_" + keyS).options
+                  for (var i=0; i < options.length; i++) {
+                    if (options[i].selected) selection.push(options[i].value);
+                  }
+                    try{
+                      if (key in features[0].properties){
+                        for (i = features.length - 1;
+                          i >= 0; --i){
+                          if (selection.indexOf(
+                          features[i].properties[key])<0
+                          && selection.length>0) {
+                          features.splice(i,1);
+                          }
+                        }
+                      }
+                    } catch(err){
+                  }
+                }
+                if (Filters[key] == "int"){
+                  sliderVals =  document.getElementById(
+                    "div_" + keyS).noUiSlider.get();
+                  try{
+                    if (key in features[0].properties){
+                    for (i = features.length - 1; i >= 0; --i){
+                      if (parseInt(features[i].properties[key])
+                          < sliderVals[0]
+                          || parseInt(features[i].properties[key])
+                          > sliderVals[1]){
+                            features.splice(i,1);
+                          }
+                        }
+                      }
+                    } catch(err){
+                    }
+                  }
+                if (Filters[key] == "real"){
+                  sliderVals =  document.getElementById(
+                    "div_" + keyS).noUiSlider.get();
+                  try{
+                    if (key in features[0].properties){
+                    for (i = features.length - 1; i >= 0; --i){
+                      if (features[i].properties[key]
+                          < sliderVals[0]
+                          || features[i].properties[key]
+                          > sliderVals[1]){
+                            features.splice(i,1);
+                          }
+                        }
+                      }
+                    } catch(err){
+                    }
+                  }
+                if (Filters[key] == "date"
+                  || Filters[key] == "datetime"
+                  || Filters[key] == "time"){
+                  try{
+                    if (key in features[0].properties){
+                      HTMLkey = key.replace(/[&\/\\#,+()$~%.'":*?<>{} ]/g, '');
+                      startdate = document.getElementById("dat_" +
+                        HTMLkey + "_date1").value.replace(" ", "T");
+                      enddate = document.getElementById("dat_" +
+                        HTMLkey + "_date2").value.replace(" ", "T");
+                      for (i = features.length - 1; i >= 0; --i){
+                        if (features[i].properties[key] < startdate
+                          || features[i].properties[key] > enddate){
+                          features.splice(i,1);
+                        }
+                      }
+                    }
+                  } catch(err){
+                  }
+                }
+              }
+            } catch(err){
+            }
+          this[lyr["options"]["layerName"]].clearLayers();
+          this[lyr["options"]["layerName"]].addData(features);
+          }
+          })
+        }
+            document.getElementById("menu").appendChild(
+                document.createElement("div"));
+            var div_Year = document.createElement("div");
+            div_Year.id = "div_Year";
+            div_Year.className = "slider";
+            document.getElementById("menu").appendChild(div_Year);
+            var lab_Year = document.createElement('div');
+            lab_Year.innerHTML  = 'Year: <span id="val_Year"></span>';
+            lab_Year.className = 'filterlabel';
+            document.getElementById("menu").appendChild(lab_Year);
+            var reset_Year = document.createElement('div');
+            reset_Year.innerHTML = 'clear filter';
+            reset_Year.className = 'filterlabel';
+            lab_Year.className = 'filterlabel';
+            reset_Year.onclick = function() {
+                sel_Year.noUiSlider.reset();
+            };
+            document.getElementById("menu").appendChild(reset_Year);
+            var sel_Year = document.getElementById('div_Year');
+            noUiSlider.create(sel_Year, {
+                connect: true,
+                start: [2022, 2023],
+                step: 1,
+                format: wNumb({
+                    decimals: 0,
+                    }),
+                range: {
+                min: 2022,
+                max: 2023
+                }
+            });
+            sel_Year.noUiSlider.on('update', function (values) {
+            filterVals =[];
+            for (value in values){
+            filterVals.push(parseInt(value))
+            }
+            val_Year = document.getElementById('val_Year');
+            val_Year.innerHTML = values.join(' - ');
+                filterFunc()
+            });
+            document.getElementById("menu").appendChild(
+                document.createElement("div"));
+            var div_Date = document.createElement("div");
+            div_Date.id = "div_Date";
+            div_Date.className = "slider";
+            document.getElementById("menu").appendChild(div_Date);
+            var lab_Date = document.createElement('div');
+            lab_Date.innerHTML  = 'Date: <span id="val_Date"></span>';
+            lab_Date.className = 'filterlabel';
+            document.getElementById("menu").appendChild(lab_Date);
+            var reset_Date = document.createElement('div');
+            reset_Date.innerHTML = 'clear filter';
+            reset_Date.className = 'filterlabel';
+            lab_Date.className = 'filterlabel';
+            reset_Date.onclick = function() {
+                sel_Date.noUiSlider.reset();
+            };
+            document.getElementById("menu").appendChild(reset_Date);
+            var sel_Date = document.getElementById('div_Date');
+            noUiSlider.create(sel_Date, {
+                connect: true,
+                start: [20220201, 20220504],
+                step: 1,
+                format: wNumb({
+                    decimals: 0,
+                    }),
+                range: {
+                min: 20220201,
+                max: 20220504
+                }
+            });
+            sel_Date.noUiSlider.on('update', function (values) {
+            filterVals =[];
+            for (value in values){
+            filterVals.push(parseInt(value))
+            }
+            val_Date = document.getElementById('val_Date');
+            val_Date.innerHTML = values.join(' - ');
+                filterFunc()
+            });
+            document.getElementById("menu").appendChild(
+                document.createElement("div"));
+            var div_Month = document.createElement("div");
+            div_Month.id = "div_Month";
+            div_Month.className = "slider";
+            document.getElementById("menu").appendChild(div_Month);
+            var lab_Month = document.createElement('div');
+            lab_Month.innerHTML  = 'Month: <span id="val_Month"></span>';
+            lab_Month.className = 'filterlabel';
+            document.getElementById("menu").appendChild(lab_Month);
+            var reset_Month = document.createElement('div');
+            reset_Month.innerHTML = 'clear filter';
+            reset_Month.className = 'filterlabel';
+            lab_Month.className = 'filterlabel';
+            reset_Month.onclick = function() {
+                sel_Month.noUiSlider.reset();
+            };
+            document.getElementById("menu").appendChild(reset_Month);
+            var sel_Month = document.getElementById('div_Month');
+            noUiSlider.create(sel_Month, {
+                connect: true,
+                start: [2, 5],
+                step: 1,
+                format: wNumb({
+                    decimals: 0,
+                    }),
+                range: {
+                min: 2,
+                max: 5
+                }
+            });
+            sel_Month.noUiSlider.on('update', function (values) {
+            filterVals =[];
+            for (value in values){
+            filterVals.push(parseInt(value))
+            }
+            val_Month = document.getElementById('val_Month');
+            val_Month.innerHTML = values.join(' - ');
+                filterFunc()
+            });
+        </script>
+    </body>
+</html>
