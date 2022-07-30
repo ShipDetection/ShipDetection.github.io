@@ -72,9 +72,6 @@
         function pop_ShipDetections_1(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
-                    </tr>\
-                    <tr>\
                         <td colspan="2">' + (feature.properties['ShipDetections'] !== null ? autolinker.link(feature.properties['ShipDetections'].toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
