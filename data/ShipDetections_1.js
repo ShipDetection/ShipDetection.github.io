@@ -3,4 +3,4 @@
 // });
 
 
-var json_ShipDetections_1 = JSON.parse($.ajax({'url': 'data/geodata.geojson', 'async': false}).responseText); 
+var json_ShipDetections_1 = JSON.parse($.ajax({'url': 'geodata.geojson', 'async': false}).responseText); 
