@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <title>Ship Detections Webmap</title>
+    <head>
+      <!-- Google tag (gtag.js) -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9HW872JXR"></script>
+     <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-Q9HW872JXR');
+      </script>
+      
+</head>
+<div style="display:flex; align-items:center; justify-content:space-between; height:5%; background-color:#333;">
+<div style="display:flex; align-items:center; height:100%;">
+  <a href="/" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">Home</a>
+  <a href="https://ShipDetection.github.io/about" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">About</a>
+  <a href="https://shipdetection.github.io/points" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">Live Results</a>
+  <a href="https://ShipDetection.github.io/contact" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">Contact</a>
+  <a href="https://shipdetection.github.io/about/presentation/" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">Presentation</a>
+</div>
+<img src="https://ShipDetection.github.io/images/Logos/geosolutions.jfif" style="height:100%;">
+</div>
+  </head>
+  <body>
+    <h1>Ship Detections Webmap</h1>
+    <p>The Ship Detections Webmap is a tool that allows users to view the locations of ships, oil rigs, and wind farms at sea. It uses satellite imagery and other data sources to plot the locations of these objects on an interactive map. The webmap also provides detailed information about each object, such as its size and the date of the detection. Currently the main site relies on vector tiles which prevents this information from being transmitted however this is an area of active development.</p>
+    <p>The Ship Detections Webmap is designed to be a useful tool for shipping companies, offshore energy operators, and other organizations that need to track the locations of objects at sea. It is also a valuable resource for researchers and others interested in studying the distribution of ocean objects.</p>
+    <h2>Methodology</h2>
+    <p>The Ship Detections Webmap program uses Sentinel-1 satellite imagery from the Alaska Satellite Facility to detect and track ships at sea. The Sentinel-1 constellation is a fleet of radar imaging satellites operated by the European Space Agency (ESA) for the Copernicus Earth observation program.
+
+        To download Sentinel-1 imagery from the ASF, the Ship Detections Webmap program uses the ASF's API to search the data catalog and select the desired imagery. The program then uses the API to download the selected Sentinel-1 data.
+        
+        Once the Sentinel-1 imagery is downloaded, the Ship Detections Webmap program uses the ESA's Sentinel Application Platform (SNAP) and its Graph Processing Tool (GPT) module to extract the ship locations from the radar images. GPT uses advanced algorithms and techniques to identify and plot the positions of ships on the interactive map.
+        
+        Overall, the Ship Detections Webmap program combines the capabilities of Sentinel-1 satellite imagery, the ASF API, SNAP GPT, and other data sources to accurately track ships at sea and provide valuable information to shipping companies and other organizations.</p>
+    <h2>Development Plan</h2>    
+    <p><iframe src="https://shipdetection.github.io/text/devPlan.txt" width="500" height="500"></iframe></p>
+    <h2>Contributors</h2>
+    <p>The Ship Detections project was created by Drew Branson. You can learn more about Drew on his website <a href="https://drewbranson.github.io">drewbranson.github.io</a>.</p>
+    <p><img src="https://media-exp1.licdn.com/dms/image/C5603AQGz43e7nDaAMw/profile-displayphoto-shrink_200_200/0/1538507695405?e=1676505600&v=beta&t=FQHj9yqR_kkpLxgq_B2TlgCAIMbIbgWRy_icf7r5it8" alt="Profile Photo of Drew Branson" /></p>
+    <p>Credit is also due to Barry Carter who developed the vector tiling feature which allows this website to function. He can be reached at sheeps@barrycarter.info</p>
+  </body>
+</html>

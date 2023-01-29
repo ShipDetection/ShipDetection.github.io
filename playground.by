@@ -1,0 +1,22 @@
+#!/usr/local/bin/bython
+
+a = 1;
+
+# the line below works in python, but not bython
+
+print(f'{a}');
+
+print("{a}");
+
+# this works in bython
+
+print("%d" % (a));
+
+# this works in python
+
+# for i in range(2): print(i)
+
+# this is bython equiv
+
+# for i in range(2) {print(i)}
+

@@ -1,0 +1,9 @@
+1. [Backend Performance] Optimize ASF data search to use low resolution versions of the Seas.shp instead of generating a bounding box from Seas.shp, which results in many unnessesary images bering downloaded
+2. [Data Coverage] Include currently neglected AOIs, The north and south (or East and West if the dateline causes problems) Pacific Ocean and the South Indian Ocean. Then includes large inland lakes and seas, The great lakes, Caspian Sea. Farther down the line, I will consider including large inland shipping routes such as rivers and canals, however this is challenging due to the low marging of error which the landmasks can have and close distance to shore in which ships are travelling. This has already been done for the Suez Canal.
+3. [User Interface] change the full point data site to only show data for the past 12 days. This will improve performance and create a "Live Results" view which won't be irrelevant after implemeting the full tiled geojson.  
+4. [User Interface] Provide tiled point data at higher zoom levels to allow the results to be queried for the date, size and other derived metadata about the detections. This was the original design of the project but preformance become unusable as the project scaled. 
+5. [User Interface] Include polygons in the webmap showing the coverage of the Sentinel-1 Satellite so users can differentiate between the absence of ships and the absense of data. 
+6. [Expanded Scope] Set up an AIS recieving station so I can gain access to AIS Hub's data. This will allow for the detection of "Dark Ships" and tagging of ancilliary data to the detected ships. This is a big can of worms.    
+7. [Data Coverage] investigate integrating other data sources such as RCM or other free imagery sources. 
+
+this list is overly ambitious and giving me anxiety just thinking about, so i'll leave it there. 

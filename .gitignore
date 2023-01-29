@@ -1,0 +1,6 @@
+*~
+/barry/TILES/
+/barry_archive/
+/barry/__pycache__/
+/points/
+*.pyc
