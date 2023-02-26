@@ -1,0 +1,2195 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <head>
+            <!-- Google tag (gtag.js) -->
+           <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9HW872JXR"></script>
+           <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-Q9HW872JXR');
+            </script>
+            
+    </head>
+    <div style="display:flex; align-items:center; justify-content:space-between; height:5%; background-color:#333;">
+      <div style="display:flex; align-items:center; height:100%;">
+        <a href="/" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">Home</a>
+        <a href="https://ShipDetection.github.io/about" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">About</a>
+        <a href="https://shipdetection.github.io/points" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">Live Results</a>
+        <a href="https://ShipDetection.github.io/contact" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">Contact</a>
+        <a href="https://shipdetection.github.io/about/presentation/" style="display:block; height:50%; padding:0 20px; color:#fff; text-decoration:none;">Presentation</a>
+      </div>
+      <img src="https://ShipDetection.github.io/images/Logos/geosolutions.jfif" style="height:100%;">
+    </div>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="css/leaflet-measure.css">
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="js/leaflet-measure.js"></script>
+        <script src="data/Pacific2_1.js"></script>
+        <script src="data/Pacific1_2.js"></script>
+        <script src="data/SouthIndian_3.js"></script>
+        <script src="data/NorthIndian_4.js"></script>
+        <script src="data/ArabianSea_5.js"></script>
+        <script src="data/BalticSea_6.js"></script>
+        <script src="data/Caribbean_7.js"></script>
+        <script src="data/SouthEastAsia_8.js"></script>
+        <script src="data/SouthAtlantic_9.js"></script>
+        <script src="data/NorthAtlantic_10.js"></script>
+        <script src="data/NortheastAtlantic_11.js"></script>
+        <script src="data/MediterraneanSeaWest_12.js"></script>
+        <script src="data/MediterraneanSeaEast_13.js"></script>
+        <script src="data/BlackSea_14.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[-79.12761092916284,-174.87834519734932],[82.26726120782493,177.44328858441452]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var measureControl = new L.Control.Measure({
+            position: 'topleft',
+            primaryLengthUnit: 'meters',
+            secondaryLengthUnit: 'kilometers',
+            primaryAreaUnit: 'sqmeters',
+            secondaryAreaUnit: 'hectares'
+        });
+        measureControl.addTo(map);
+        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
+        .innerHTML = '';
+        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
+        .className += ' fas fa-ruler';
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        map.createPane('pane_GoogleSatellite_0');
+        map.getPane('pane_GoogleSatellite_0').style.zIndex = 400;
+        var layer_GoogleSatellite_0 = L.tileLayer('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+            pane: 'pane_GoogleSatellite_0',
+            opacity: 1.0,
+            attribution: '<a href="https://www.google.at/permissions/geoguidelines/attr-guide.html">Map data ©2015 Google</a>',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 20
+        });
+        layer_GoogleSatellite_0;
+        map.addLayer(layer_GoogleSatellite_0);
+        function pop_Pacific2_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Pacific2_1_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_Pacific2_1',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_Pacific2_1');
+        map.getPane('pane_Pacific2_1').style.zIndex = 401;
+        map.getPane('pane_Pacific2_1').style['mix-blend-mode'] = 'normal';
+        var layer_Pacific2_1 = new L.geoJson(json_Pacific2_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Pacific2_1',
+            layerName: 'layer_Pacific2_1',
+            pane: 'pane_Pacific2_1',
+            onEachFeature: pop_Pacific2_1,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_Pacific2_1_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_Pacific2_1);
+        map.addLayer(layer_Pacific2_1);
+        function pop_Pacific1_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Pacific1_2_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_Pacific1_2',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_Pacific1_2');
+        map.getPane('pane_Pacific1_2').style.zIndex = 402;
+        map.getPane('pane_Pacific1_2').style['mix-blend-mode'] = 'normal';
+        var layer_Pacific1_2 = new L.geoJson(json_Pacific1_2, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Pacific1_2',
+            layerName: 'layer_Pacific1_2',
+            pane: 'pane_Pacific1_2',
+            onEachFeature: pop_Pacific1_2,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_Pacific1_2_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_Pacific1_2);
+        map.addLayer(layer_Pacific1_2);
+        function pop_SouthIndian_3(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_SouthIndian_3_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_SouthIndian_3',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_SouthIndian_3');
+        map.getPane('pane_SouthIndian_3').style.zIndex = 403;
+        map.getPane('pane_SouthIndian_3').style['mix-blend-mode'] = 'normal';
+        var layer_SouthIndian_3 = new L.geoJson(json_SouthIndian_3, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_SouthIndian_3',
+            layerName: 'layer_SouthIndian_3',
+            pane: 'pane_SouthIndian_3',
+            onEachFeature: pop_SouthIndian_3,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_SouthIndian_3_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_SouthIndian_3);
+        map.addLayer(layer_SouthIndian_3);
+        function pop_NorthIndian_4(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_NorthIndian_4_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_NorthIndian_4',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_NorthIndian_4');
+        map.getPane('pane_NorthIndian_4').style.zIndex = 404;
+        map.getPane('pane_NorthIndian_4').style['mix-blend-mode'] = 'normal';
+        var layer_NorthIndian_4 = new L.geoJson(json_NorthIndian_4, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_NorthIndian_4',
+            layerName: 'layer_NorthIndian_4',
+            pane: 'pane_NorthIndian_4',
+            onEachFeature: pop_NorthIndian_4,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_NorthIndian_4_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_NorthIndian_4);
+        map.addLayer(layer_NorthIndian_4);
+        function pop_ArabianSea_5(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_ArabianSea_5_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_ArabianSea_5',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_ArabianSea_5');
+        map.getPane('pane_ArabianSea_5').style.zIndex = 405;
+        map.getPane('pane_ArabianSea_5').style['mix-blend-mode'] = 'normal';
+        var layer_ArabianSea_5 = new L.geoJson(json_ArabianSea_5, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_ArabianSea_5',
+            layerName: 'layer_ArabianSea_5',
+            pane: 'pane_ArabianSea_5',
+            onEachFeature: pop_ArabianSea_5,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_ArabianSea_5_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_ArabianSea_5);
+        map.addLayer(layer_ArabianSea_5);
+        function pop_BalticSea_6(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_BalticSea_6_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_BalticSea_6',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_BalticSea_6');
+        map.getPane('pane_BalticSea_6').style.zIndex = 406;
+        map.getPane('pane_BalticSea_6').style['mix-blend-mode'] = 'normal';
+        var layer_BalticSea_6 = new L.geoJson(json_BalticSea_6, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_BalticSea_6',
+            layerName: 'layer_BalticSea_6',
+            pane: 'pane_BalticSea_6',
+            onEachFeature: pop_BalticSea_6,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_BalticSea_6_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_BalticSea_6);
+        map.addLayer(layer_BalticSea_6);
+        function pop_Caribbean_7(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Caribbean_7_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_Caribbean_7',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_Caribbean_7');
+        map.getPane('pane_Caribbean_7').style.zIndex = 407;
+        map.getPane('pane_Caribbean_7').style['mix-blend-mode'] = 'normal';
+        var layer_Caribbean_7 = new L.geoJson(json_Caribbean_7, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Caribbean_7',
+            layerName: 'layer_Caribbean_7',
+            pane: 'pane_Caribbean_7',
+            onEachFeature: pop_Caribbean_7,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_Caribbean_7_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_Caribbean_7);
+        map.addLayer(layer_Caribbean_7);
+        function pop_SouthEastAsia_8(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_SouthEastAsia_8_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_SouthEastAsia_8',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_SouthEastAsia_8');
+        map.getPane('pane_SouthEastAsia_8').style.zIndex = 408;
+        map.getPane('pane_SouthEastAsia_8').style['mix-blend-mode'] = 'normal';
+        var layer_SouthEastAsia_8 = new L.geoJson(json_SouthEastAsia_8, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_SouthEastAsia_8',
+            layerName: 'layer_SouthEastAsia_8',
+            pane: 'pane_SouthEastAsia_8',
+            onEachFeature: pop_SouthEastAsia_8,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_SouthEastAsia_8_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_SouthEastAsia_8);
+        map.addLayer(layer_SouthEastAsia_8);
+        function pop_SouthAtlantic_9(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_SouthAtlantic_9_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_SouthAtlantic_9',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_SouthAtlantic_9');
+        map.getPane('pane_SouthAtlantic_9').style.zIndex = 409;
+        map.getPane('pane_SouthAtlantic_9').style['mix-blend-mode'] = 'normal';
+        var layer_SouthAtlantic_9 = new L.geoJson(json_SouthAtlantic_9, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_SouthAtlantic_9',
+            layerName: 'layer_SouthAtlantic_9',
+            pane: 'pane_SouthAtlantic_9',
+            onEachFeature: pop_SouthAtlantic_9,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_SouthAtlantic_9_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_SouthAtlantic_9);
+        map.addLayer(layer_SouthAtlantic_9);
+        function pop_NorthAtlantic_10(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_NorthAtlantic_10_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_NorthAtlantic_10',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_NorthAtlantic_10');
+        map.getPane('pane_NorthAtlantic_10').style.zIndex = 410;
+        map.getPane('pane_NorthAtlantic_10').style['mix-blend-mode'] = 'normal';
+        var layer_NorthAtlantic_10 = new L.geoJson(json_NorthAtlantic_10, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_NorthAtlantic_10',
+            layerName: 'layer_NorthAtlantic_10',
+            pane: 'pane_NorthAtlantic_10',
+            onEachFeature: pop_NorthAtlantic_10,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_NorthAtlantic_10_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_NorthAtlantic_10);
+        map.addLayer(layer_NorthAtlantic_10);
+        function pop_NortheastAtlantic_11(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <th scope="row">field_1</th>\
+                        <td>' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_NortheastAtlantic_11_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_NortheastAtlantic_11',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_NortheastAtlantic_11');
+        map.getPane('pane_NortheastAtlantic_11').style.zIndex = 411;
+        map.getPane('pane_NortheastAtlantic_11').style['mix-blend-mode'] = 'normal';
+        var layer_NortheastAtlantic_11 = new L.geoJson(json_NortheastAtlantic_11, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_NortheastAtlantic_11',
+            layerName: 'layer_NortheastAtlantic_11',
+            pane: 'pane_NortheastAtlantic_11',
+            onEachFeature: pop_NortheastAtlantic_11,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_NortheastAtlantic_11_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_NortheastAtlantic_11);
+        map.addLayer(layer_NortheastAtlantic_11);
+        function pop_MediterraneanSeaWest_12(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_MediterraneanSeaWest_12_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaWest_12',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_MediterraneanSeaWest_12');
+        map.getPane('pane_MediterraneanSeaWest_12').style.zIndex = 412;
+        map.getPane('pane_MediterraneanSeaWest_12').style['mix-blend-mode'] = 'normal';
+        var layer_MediterraneanSeaWest_12 = new L.geoJson(json_MediterraneanSeaWest_12, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_MediterraneanSeaWest_12',
+            layerName: 'layer_MediterraneanSeaWest_12',
+            pane: 'pane_MediterraneanSeaWest_12',
+            onEachFeature: pop_MediterraneanSeaWest_12,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_MediterraneanSeaWest_12_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_MediterraneanSeaWest_12);
+        map.addLayer(layer_MediterraneanSeaWest_12);
+        function pop_MediterraneanSeaEast_13(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_MediterraneanSeaEast_13_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_MediterraneanSeaEast_13',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_MediterraneanSeaEast_13');
+        map.getPane('pane_MediterraneanSeaEast_13').style.zIndex = 413;
+        map.getPane('pane_MediterraneanSeaEast_13').style['mix-blend-mode'] = 'normal';
+        var layer_MediterraneanSeaEast_13 = new L.geoJson(json_MediterraneanSeaEast_13, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_MediterraneanSeaEast_13',
+            layerName: 'layer_MediterraneanSeaEast_13',
+            pane: 'pane_MediterraneanSeaEast_13',
+            onEachFeature: pop_MediterraneanSeaEast_13,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_MediterraneanSeaEast_13_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_MediterraneanSeaEast_13);
+        map.addLayer(layer_MediterraneanSeaEast_13);
+        function pop_BlackSea_14(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['field_1'] !== null ? autolinker.link(feature.properties['field_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Date</th>\
+                        <td>' + (feature.properties['Date'] !== null ? autolinker.link(feature.properties['Date'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">DaysOld</th>\
+                        <td>' + (feature.properties['DaysOld'] !== null ? autolinker.link(feature.properties['DaysOld'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_BlackSea_14_0(feature) {
+            if (feature.properties['DaysOld'] >= 1.000000 && feature.properties['DaysOld'] <= 13.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(122,4,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 13.000000 && feature.properties['DaysOld'] <= 25.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,41,3,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 25.000000 && feature.properties['DaysOld'] <= 37.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,105,23,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 37.000000 && feature.properties['DaysOld'] <= 49.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(251,185,56,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 49.000000 && feature.properties['DaysOld'] <= 61.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(201,239,52,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 61.000000 && feature.properties['DaysOld'] <= 73.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(116,254,93,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 73.000000 && feature.properties['DaysOld'] <= 85.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(26,229,182,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 85.000000 && feature.properties['DaysOld'] <= 97.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(53,171,249,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 97.000000 && feature.properties['DaysOld'] <= 109.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(70,98,216,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['DaysOld'] >= 109.000000 && feature.properties['DaysOld'] <= 121.000000 ) {
+                return {
+                pane: 'pane_BlackSea_14',
+                radius: 2,
+                stroke: false,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(48,18,59,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_BlackSea_14');
+        map.getPane('pane_BlackSea_14').style.zIndex = 414;
+        map.getPane('pane_BlackSea_14').style['mix-blend-mode'] = 'normal';
+        var layer_BlackSea_14 = new L.geoJson(json_BlackSea_14, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_BlackSea_14',
+            layerName: 'layer_BlackSea_14',
+            pane: 'pane_BlackSea_14',
+            onEachFeature: pop_BlackSea_14,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_BlackSea_14_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_BlackSea_14);
+        map.addLayer(layer_BlackSea_14);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'BlackSea<br /><table><tr><td style="text-align: center;"><img src="legend/BlackSea_14_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/BlackSea_14_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_BlackSea_14,'MediterraneanSeaEast<br /><table><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaEast_13_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_MediterraneanSeaEast_13,'MediterraneanSeaWest<br /><table><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/MediterraneanSeaWest_12_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_MediterraneanSeaWest_12,'NortheastAtlantic<br /><table><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/NortheastAtlantic_11_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_NortheastAtlantic_11,'NorthAtlantic<br /><table><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/NorthAtlantic_10_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_NorthAtlantic_10,'SouthAtlantic<br /><table><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/SouthAtlantic_9_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_SouthAtlantic_9,'SouthEastAsia<br /><table><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/SouthEastAsia_8_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_SouthEastAsia_8,'Caribbean<br /><table><tr><td style="text-align: center;"><img src="legend/Caribbean_7_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/Caribbean_7_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_Caribbean_7,'BalticSea<br /><table><tr><td style="text-align: center;"><img src="legend/BalticSea_6_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/BalticSea_6_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_BalticSea_6,'ArabianSea<br /><table><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/ArabianSea_5_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_ArabianSea_5,'NorthIndian<br /><table><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/NorthIndian_4_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_NorthIndian_4,'SouthIndian<br /><table><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/SouthIndian_3_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_SouthIndian_3,'Pacific1<br /><table><tr><td style="text-align: center;"><img src="legend/Pacific1_2_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific1_2_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_Pacific1_2,'Pacific2<br /><table><tr><td style="text-align: center;"><img src="legend/Pacific2_1_1130.png" /></td><td>1 - 13</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_13251.png" /></td><td>13 - 25</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_25372.png" /></td><td>25 - 37</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_37493.png" /></td><td>37 - 49</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_49614.png" /></td><td>49 - 61</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_61735.png" /></td><td>61 - 73</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_73856.png" /></td><td>73 - 85</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_85977.png" /></td><td>85 - 97</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_971098.png" /></td><td>97 - 109</td></tr><tr><td style="text-align: center;"><img src="legend/Pacific2_1_1091219.png" /></td><td>109 - 121</td></tr></table>': layer_Pacific2_1,"Google Satellite": layer_GoogleSatellite_0,}).addTo(map);
+        setBounds();
+        </script>
+    </body>
+</html>
