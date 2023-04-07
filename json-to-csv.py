@@ -40,7 +40,7 @@ for i in glob("points/data/*.js"):
         
         color = colors[floor((age-1)/12)]
         
-        for z in range(12):
+        for z in range(13):
             
             conv = lngLat2Tile(lng=lng, lat=lat, z=z)
             
