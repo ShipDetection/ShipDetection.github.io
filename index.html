@@ -31,7 +31,7 @@
 let map = L.map('map').setView([0,0], 3);
 
 // // L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxNativeZoom: 19, maxZoom: 25, opacity: 0.5}).addTo(map);
-L.tileLayer('TILES/{z}/{x}/{y}.png', {errorTileUrl: 'TILES/dragontile.png', maxNativeZoom: 10, maxZoom: 25}).addTo(map);
+L.tileLayer('TILES/{z}/{x}/{y}.png', {errorTileUrl: 'TILES/dragontile.png', maxNativeZoom: 12, maxZoom: 25}).addTo(map);
 
 map.createPane('pane_GoogleSatellite_0');
         map.getPane('pane_GoogleSatellite_0').style.zIndex = 400;
