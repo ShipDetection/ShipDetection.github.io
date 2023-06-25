@@ -1,6 +1,50 @@
 <html>
   <head>
     <title>Ship Detections Webmap</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+      }
+
+      h1 {
+        color: #333;
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+
+      h2 {
+        color: #555;
+        font-size: 22px;
+        font-weight: bold;
+        margin-top: 40px;
+        margin-bottom: 10px;
+      }
+
+      p {
+        color: #777;
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+      }
+
+      a {
+        color: #333;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+      }
+    </style>
     <head>
       <!-- Google tag (gtag.js) -->
      <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9HW872JXR"></script>
@@ -25,16 +69,36 @@
   </head>
   <body>
     <h1>Ship Detections Webmap</h1>
-    <p>The Ship Detections Webmap is a tool that allows users to view the locations of ships, oil rigs, and wind farms at sea. It uses satellite imagery and other data sources to plot the locations of these objects on an interactive map. The webmap also provides detailed information about each object, such as its size and the date of the detection. Currently the main site relies on vector tiles which prevents this information from being transmitted however this is an area of active development.</p>
-    <p>The Ship Detections Webmap is designed to be a useful tool for shipping companies, offshore energy operators, and other organizations that need to track the locations of objects at sea. It is also a valuable resource for researchers and others interested in studying the distribution of ocean objects.</p>
-    <h2>Methodology</h2>
-    <p>The Ship Detections Webmap program uses Sentinel-1 satellite imagery from the Alaska Satellite Facility to detect and track ships at sea. The Sentinel-1 constellation is a fleet of radar imaging satellites operated by the European Space Agency (ESA) for the Copernicus Earth observation program.
-
-        To download Sentinel-1 imagery from the ASF, the Ship Detections Webmap program uses the ASF's API to search the data catalog and select the desired imagery. The program then uses the API to download the selected Sentinel-1 data.
-        
-        Once the Sentinel-1 imagery is downloaded, the Ship Detections Webmap program uses the ESA's Sentinel Application Platform (SNAP) and its Graph Processing Tool (GPT) module to extract the ship locations from the radar images. GPT uses advanced algorithms and techniques to identify and plot the positions of ships on the interactive map.
-        
-        Overall, the Ship Detections Webmap program combines the capabilities of Sentinel-1 satellite imagery, the ASF API, SNAP GPT, and other data sources to accurately track ships at sea and provide valuable information to shipping companies and other organizations.</p>
+    <p>
+      The Ship Detection project provides up to date information on gobal maritime activities by running an object detection algorithm on global Sentinel-1 SAR imagery. Typically, imagery is processed with the detections uploaded to the website within a day of the image being acquired.The main applications of this data include monitoring global shipping activities, commercial fishing operations, identifying offshore oil and gas operations and monitoring the size, extents and construction progress of offshore wind farms.  
+      </p>
+      <p>
+      The data is visualized by colouring each detection according to the age of the image which observed it from red to blue. Each colour represents a 12 day period which matches the revisit period for the Sentinel-1 satellite. 10 colours are used for visualization with up to 120 day old detections being displayed. 
+      </p>
+      <p>
+      Each colour should usually represent one image acquired over a given location. However, this isn't always the case due to ascending and descending orbits covering overlapping areas, and once Sentinel-1C joins Sentinel-1A in orbit, the revisit time over most of the europe will be reduced to 6 days.  
+      </p>
+      
+      
+      <h2>Methodology</h2>
+      <p>
+      
+      The Ship Detections project uses Sentinel-1 satellite imagery provided by the Alaska Satellite Facility. The Sentinel-1 constellation is a fleet of radar imaging satellites operated by the European Space Agency (ESA) for the Copernicus Earth observation program.
+      </p>
+      <p>
+      The program downloads the Sentinel-1 imagery from the ASF using the ASF's API to search and download the most recent data in each of the subdivided processing AOIs. 
+      </p>
+      <p>
+      Once the Sentinel-1 imagery is downloaded, the program uses the ESA's Sentinel Application Platform (SNAP) and its Graph Processing Tool (GPT) module to extract the ship locations from the radar images using it's provided object detection algorithm. 
+      </p>
+      <p>
+      Once the detections are processed, they are extracted and formatted into a webmap compatible format and vector tiles are generated. 
+      </p>
+      
+      <p>
+      The website is hosted using github pages so commits are automatically made as the program works through each of the processing AOIs with the tiles generated once all AOIs have finished processing. 
+      
+      </p>
     <h2>Development Plan</h2>    
     <p><iframe src="https://shipdetection.github.io/text/devPlan.txt" width="500" height="500"></iframe></p>
     <h2>Contributors</h2>
