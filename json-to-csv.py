@@ -38,12 +38,8 @@ for i in glob("points/data/*.js"):
         
         age = float(j["properties"]["DaysOld"])
         
-                # Check if age is greater than 120, if so, set color to the last color in the list
-        if age > 120:
-            color = colors[-1]
-        else:
-            color = colors[floor((age - 1) / 12)]
-
+        color = colors[floor((age-1)/12)]
+        
         for z in range(13):
             
             conv = lngLat2Tile(lng=lng, lat=lat, z=z)
