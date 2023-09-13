@@ -96,7 +96,7 @@ for tile in pixels.keys():
         g = int(g)
         b = int(b)
         
-        if ((-254<x<254) and (-254<y<254) and (int(z)>=5)):
+        if ((-254<x<254) and (-254<y<254) and (int(z)>=6)):
             img.putpixel((x,y), (r,g,b))
             img.putpixel((x+1,y+1), (r,g,b))
             img.putpixel((x+1,y-1), (r,g,b))
