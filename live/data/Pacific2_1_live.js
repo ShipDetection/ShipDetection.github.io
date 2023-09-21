@@ -11,7 +11,7 @@ var json_Pacific2_1 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.07362748599502,
+          -89.07362748599501,
           13.18868147603215
         ]
       }
