@@ -6,7 +6,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "464",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "386",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "387",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "388",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "389",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "390",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "391",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "392",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "393",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "394",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "395",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "396",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "397",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "398",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "399",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "400",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "401",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "402",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "403",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "404",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "405",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "406",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "407",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "408",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "385",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "384",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "383",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "382",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "358",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "359",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "360",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "361",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "362",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "363",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "364",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "365",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "366",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "367",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "368",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "409",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "369",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "371",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "372",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "373",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "374",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "375",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -696,7 +696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "376",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "377",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "378",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "379",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "380",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "381",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "370",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "410",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "411",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "412",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -846,7 +846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "441",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "442",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "443",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "444",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -906,7 +906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "445",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "446",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "447",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "448",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "449",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "450",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "451",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "440",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "452",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "454",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1056,7 +1056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "455",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "456",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1086,7 +1086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "457",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "458",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "459",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "460",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "461",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "462",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1176,7 +1176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "463",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "465",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "453",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "357",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1236,7 +1236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "439",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "437",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1266,7 +1266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "413",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "414",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1296,7 +1296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "415",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "416",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1326,7 +1326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "417",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "418",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "419",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "420",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "421",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "422",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "423",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "438",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "424",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "426",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1476,7 +1476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "427",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "428",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1506,7 +1506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "429",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "430",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1536,7 +1536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "431",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "432",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "433",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "434",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1596,7 +1596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "435",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "436",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "425",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "356",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "355",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "354",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1686,7 +1686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "273",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "274",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "275",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1731,7 +1731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "276",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "277",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1761,7 +1761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "278",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "280",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "281",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1806,7 +1806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "282",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1821,7 +1821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "283",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1836,7 +1836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "284",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1851,7 +1851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "272",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1866,7 +1866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "285",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "287",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1896,7 +1896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "288",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +1911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "289",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1926,7 +1926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "290",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +1941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "291",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1956,7 +1956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "292",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +1971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "293",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -1986,7 +1986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "294",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2001,7 +2001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "295",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "296",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2031,7 +2031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "297",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2046,7 +2046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "286",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "298",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2076,7 +2076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "271",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2091,7 +2091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "269",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2106,7 +2106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "245",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2121,7 +2121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "246",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2136,7 +2136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "247",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "248",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2166,7 +2166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "249",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2181,7 +2181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "250",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2196,7 +2196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "251",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2211,7 +2211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "252",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2226,7 +2226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "253",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "254",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2256,7 +2256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "255",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2271,7 +2271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "270",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2286,7 +2286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "256",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "258",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "259",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2331,7 +2331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "260",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2346,7 +2346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "261",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2361,7 +2361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "262",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2376,7 +2376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "263",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "264",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "265",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2421,7 +2421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "266",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2436,7 +2436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "267",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2451,7 +2451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "268",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2466,7 +2466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "257",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2481,7 +2481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "466",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2496,7 +2496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "299",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "301",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2526,7 +2526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "330",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "331",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2556,7 +2556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "332",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2571,7 +2571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "333",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2586,7 +2586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "334",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "335",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2616,7 +2616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "336",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2631,7 +2631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "337",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2646,7 +2646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "338",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2661,7 +2661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "339",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2676,7 +2676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "340",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2691,7 +2691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "329",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2706,7 +2706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "341",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "343",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2736,7 +2736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "344",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2751,7 +2751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "345",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2766,7 +2766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "346",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2781,7 +2781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "347",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2796,7 +2796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "348",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2811,7 +2811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "349",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2826,7 +2826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "350",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +2841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "351",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2856,7 +2856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "352",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2871,7 +2871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "353",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2886,7 +2886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "342",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2901,7 +2901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "300",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2916,7 +2916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "328",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2931,7 +2931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "326",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2946,7 +2946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "302",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2961,7 +2961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "303",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2976,7 +2976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "304",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -2991,7 +2991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "305",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3006,7 +3006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "306",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3021,7 +3021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "307",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3036,7 +3036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "308",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "309",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3066,7 +3066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "310",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3081,7 +3081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "311",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3096,7 +3096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "312",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3111,7 +3111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "327",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3126,7 +3126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "313",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "315",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3156,7 +3156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "316",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3171,7 +3171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "317",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3186,7 +3186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "318",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3201,7 +3201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "319",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3216,7 +3216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "320",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3231,7 +3231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "321",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3246,7 +3246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "322",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3261,7 +3261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "323",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3276,7 +3276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "324",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3291,7 +3291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "325",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3306,7 +3306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "314",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +3321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "467",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3336,7 +3336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "468",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3351,7 +3351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "469",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3366,7 +3366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3381,7 +3381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3396,7 +3396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3426,7 +3426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3441,7 +3441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "74",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3456,7 +3456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "73",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3471,7 +3471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "72",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3486,7 +3486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "71",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3501,7 +3501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "70",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3516,7 +3516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "69",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3531,7 +3531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3546,7 +3546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "68",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3561,7 +3561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3576,7 +3576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +3591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "64",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3606,7 +3606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "63",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3621,7 +3621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3636,7 +3636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "61",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3651,7 +3651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +3666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3696,7 +3696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3711,7 +3711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3726,7 +3726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "67",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3741,7 +3741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3756,7 +3756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3771,7 +3771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3786,7 +3786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "582",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3801,7 +3801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "583",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3816,7 +3816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "584",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3831,7 +3831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "585",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3846,7 +3846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +3861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3876,7 +3876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3891,7 +3891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3906,7 +3906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3921,7 +3921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3936,7 +3936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +3951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3966,7 +3966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3981,7 +3981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -3996,7 +3996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4011,7 +4011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4026,7 +4026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4041,7 +4041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4056,7 +4056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4071,7 +4071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4086,7 +4086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4101,7 +4101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4116,7 +4116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4146,7 +4146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4161,7 +4161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "581",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4176,7 +4176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4191,7 +4191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4206,7 +4206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4221,7 +4221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4236,7 +4236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4251,7 +4251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4266,7 +4266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4281,7 +4281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4296,7 +4296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4311,7 +4311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4326,7 +4326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4341,7 +4341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4356,7 +4356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4371,7 +4371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4386,7 +4386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4401,7 +4401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4416,7 +4416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4431,7 +4431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4446,7 +4446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4461,7 +4461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4476,7 +4476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4491,7 +4491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4506,7 +4506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4521,7 +4521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4536,7 +4536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4551,7 +4551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4566,7 +4566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4581,7 +4581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4596,7 +4596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4611,7 +4611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4626,7 +4626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4641,7 +4641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4656,7 +4656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4671,7 +4671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4686,7 +4686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4701,7 +4701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4716,7 +4716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4731,7 +4731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4746,7 +4746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4761,7 +4761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4776,7 +4776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4791,7 +4791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4806,7 +4806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4821,7 +4821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4836,7 +4836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4851,7 +4851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4866,7 +4866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4881,7 +4881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4896,7 +4896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4911,7 +4911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4926,7 +4926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4941,7 +4941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4956,7 +4956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4971,7 +4971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -4986,7 +4986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5001,7 +5001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "244",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5016,7 +5016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "580",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5031,7 +5031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "578",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5046,7 +5046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "498",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5061,7 +5061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "499",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5076,7 +5076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "500",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5091,7 +5091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "501",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5106,7 +5106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "502",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5121,7 +5121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "503",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5136,7 +5136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "504",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5151,7 +5151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "505",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5166,7 +5166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "506",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5181,7 +5181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "507",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5196,7 +5196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "508",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5211,7 +5211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "497",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5226,7 +5226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "509",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5241,7 +5241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "511",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5256,7 +5256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "512",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5271,7 +5271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "513",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5286,7 +5286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "514",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5301,7 +5301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "515",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5316,7 +5316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "516",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5331,7 +5331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "517",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5346,7 +5346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "518",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5361,7 +5361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "519",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5376,7 +5376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "520",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5391,7 +5391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "521",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5406,7 +5406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "510",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5421,7 +5421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "522",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5436,7 +5436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "496",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5451,7 +5451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "494",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5466,7 +5466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "470",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5481,7 +5481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "471",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5496,7 +5496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "472",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5511,7 +5511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "473",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5526,7 +5526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "474",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5541,7 +5541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "475",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5556,7 +5556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "476",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5571,7 +5571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "477",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5586,7 +5586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "478",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5601,7 +5601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "479",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5616,7 +5616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "480",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5631,7 +5631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "495",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5646,7 +5646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "481",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5661,7 +5661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "483",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5676,7 +5676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "484",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5691,7 +5691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "485",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5706,7 +5706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "486",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5721,7 +5721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "487",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5736,7 +5736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "488",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5751,7 +5751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "489",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5766,7 +5766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "490",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5781,7 +5781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "491",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5796,7 +5796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "492",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5811,7 +5811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "493",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5826,7 +5826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "482",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5841,7 +5841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "579",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5856,7 +5856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "523",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5871,7 +5871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "525",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5886,7 +5886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "554",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5901,7 +5901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "555",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5916,7 +5916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "556",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5931,7 +5931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "557",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5946,7 +5946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "558",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5961,7 +5961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "559",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5976,7 +5976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "560",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -5991,7 +5991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "561",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6006,7 +6006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "562",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6021,7 +6021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "563",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6036,7 +6036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "564",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6051,7 +6051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "553",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6066,7 +6066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "565",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6081,7 +6081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "567",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6096,7 +6096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "568",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6111,7 +6111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "569",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6126,7 +6126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "570",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6141,7 +6141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "571",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6156,7 +6156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "572",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6171,7 +6171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "573",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6186,7 +6186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "574",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6201,7 +6201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "575",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6216,7 +6216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "576",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6231,7 +6231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "577",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6246,7 +6246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "566",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6261,7 +6261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "524",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6276,7 +6276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "552",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6291,7 +6291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "550",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6306,7 +6306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "526",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6321,7 +6321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "527",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6336,7 +6336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "528",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6351,7 +6351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "529",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6366,7 +6366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "530",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6381,7 +6381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "531",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6396,7 +6396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "532",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6411,7 +6411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "533",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6426,7 +6426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "534",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6441,7 +6441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "535",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6456,7 +6456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "536",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6471,7 +6471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "551",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6486,7 +6486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "537",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6501,7 +6501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "539",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6516,7 +6516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "540",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6531,7 +6531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "541",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6546,7 +6546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "542",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6561,7 +6561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "543",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6576,7 +6576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "544",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6591,7 +6591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "545",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6606,7 +6606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "546",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6621,7 +6621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "547",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6636,7 +6636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "548",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6651,7 +6651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "549",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6666,7 +6666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "538",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6681,7 +6681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "243",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6696,7 +6696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "279",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6711,7 +6711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "241",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6726,7 +6726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6741,7 +6741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6756,7 +6756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6771,7 +6771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6786,7 +6786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6801,7 +6801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6816,7 +6816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6831,7 +6831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6846,7 +6846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6861,7 +6861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6876,7 +6876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6891,7 +6891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6906,7 +6906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6921,7 +6921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6936,7 +6936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6951,7 +6951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6966,7 +6966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6981,7 +6981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -6996,7 +6996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7011,7 +7011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7026,7 +7026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7041,7 +7041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7056,7 +7056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7071,7 +7071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7086,7 +7086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7101,7 +7101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7116,7 +7116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7131,7 +7131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7146,7 +7146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7161,7 +7161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "242",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7176,7 +7176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7191,7 +7191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7206,7 +7206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7221,7 +7221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7236,7 +7236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7251,7 +7251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7266,7 +7266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7281,7 +7281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7296,7 +7296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7311,7 +7311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7326,7 +7326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7341,7 +7341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7356,7 +7356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7371,7 +7371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7386,7 +7386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7401,7 +7401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7416,7 +7416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7431,7 +7431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7446,7 +7446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "61",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7461,7 +7461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7476,7 +7476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "63",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7491,7 +7491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "64",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7506,7 +7506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7521,7 +7521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7536,7 +7536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "67",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7551,7 +7551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "68",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7566,7 +7566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "69",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7581,7 +7581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "70",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7596,7 +7596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "71",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7611,7 +7611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7626,7 +7626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7641,7 +7641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7656,7 +7656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7671,7 +7671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7686,7 +7686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7701,7 +7701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7716,7 +7716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7731,7 +7731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7746,7 +7746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7761,7 +7761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7776,7 +7776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7791,7 +7791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7806,7 +7806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7821,7 +7821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7836,7 +7836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7851,7 +7851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7866,7 +7866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7881,7 +7881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7896,7 +7896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7911,7 +7911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7926,7 +7926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7941,7 +7941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7956,7 +7956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "72",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7971,7 +7971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -7986,7 +7986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8001,7 +8001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8016,7 +8016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8031,7 +8031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8046,7 +8046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8061,7 +8061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8076,7 +8076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8091,7 +8091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8106,7 +8106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8121,7 +8121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8136,7 +8136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8151,7 +8151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8166,7 +8166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8181,7 +8181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8196,7 +8196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8211,7 +8211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8226,7 +8226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8241,7 +8241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8256,7 +8256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8271,7 +8271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8286,7 +8286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8301,7 +8301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8316,7 +8316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8331,7 +8331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8346,7 +8346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8361,7 +8361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8376,7 +8376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8391,7 +8391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8406,7 +8406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8421,7 +8421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8436,7 +8436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8451,7 +8451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8466,7 +8466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8481,7 +8481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8496,7 +8496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8511,7 +8511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8526,7 +8526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8541,7 +8541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8556,7 +8556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8571,7 +8571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8586,7 +8586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8601,7 +8601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8616,7 +8616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8631,7 +8631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8646,7 +8646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8661,7 +8661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8676,7 +8676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8691,7 +8691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8706,7 +8706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8721,7 +8721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8736,7 +8736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8751,7 +8751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8766,7 +8766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8781,7 +8781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8796,7 +8796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8811,7 +8811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8826,7 +8826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8841,7 +8841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8856,7 +8856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8871,7 +8871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8886,7 +8886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8901,7 +8901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8916,7 +8916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8931,7 +8931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8946,7 +8946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8961,7 +8961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8976,7 +8976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -8991,7 +8991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9006,7 +9006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9021,7 +9021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9036,7 +9036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9051,7 +9051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9066,7 +9066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9081,7 +9081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9096,7 +9096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9111,7 +9111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9126,7 +9126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9141,7 +9141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9156,7 +9156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9171,7 +9171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9186,7 +9186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9201,7 +9201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9216,7 +9216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9231,7 +9231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "73",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9246,7 +9246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9261,7 +9261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "75",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9276,7 +9276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "175",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9291,7 +9291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "176",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9306,7 +9306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "177",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9321,7 +9321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "178",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9336,7 +9336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "179",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9351,7 +9351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "180",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9366,7 +9366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "181",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9381,7 +9381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "182",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9396,7 +9396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "183",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9411,7 +9411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "184",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9426,7 +9426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "185",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9441,7 +9441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "186",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9456,7 +9456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "187",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9471,7 +9471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "188",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9486,7 +9486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "189",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9501,7 +9501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "190",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9516,7 +9516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "191",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9531,7 +9531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "192",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9546,7 +9546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "193",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9561,7 +9561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "174",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9576,7 +9576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "173",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9591,7 +9591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "172",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9606,7 +9606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "171",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9621,7 +9621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "151",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9636,7 +9636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "152",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9651,7 +9651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "153",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9666,7 +9666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "154",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9681,7 +9681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "74",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9696,7 +9696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "156",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9711,7 +9711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "157",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9726,7 +9726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "158",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9741,7 +9741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "159",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9756,7 +9756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "194",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9771,7 +9771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "160",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9786,7 +9786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "162",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9801,7 +9801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "163",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9816,7 +9816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "164",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9831,7 +9831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "165",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9846,7 +9846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "166",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9861,7 +9861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "167",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9876,7 +9876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "168",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9891,7 +9891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "169",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9906,7 +9906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "170",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9921,7 +9921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "161",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9936,7 +9936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "150",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9951,7 +9951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "195",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9966,7 +9966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "197",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9981,7 +9981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "222",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -9996,7 +9996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "223",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10011,7 +10011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "224",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10026,7 +10026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "225",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10041,7 +10041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "226",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10056,7 +10056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "227",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10071,7 +10071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "228",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10086,7 +10086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "229",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10101,7 +10101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "230",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10116,7 +10116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "231",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10131,7 +10131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "232",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10146,7 +10146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "233",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10161,7 +10161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "234",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10176,7 +10176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "235",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10191,7 +10191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "236",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10206,7 +10206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "237",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10221,7 +10221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "238",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10236,7 +10236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "239",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10251,7 +10251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "240",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10266,7 +10266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "221",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10281,7 +10281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "220",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10296,7 +10296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "219",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10311,7 +10311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "218",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10326,7 +10326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "198",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10341,7 +10341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "199",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10356,7 +10356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "200",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10371,7 +10371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "201",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10386,7 +10386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "202",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10401,7 +10401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "203",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10416,7 +10416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "204",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10431,7 +10431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "205",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10446,7 +10446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "206",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10461,7 +10461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "196",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10476,7 +10476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "207",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10491,7 +10491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "209",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10506,7 +10506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "210",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10521,7 +10521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "211",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10536,7 +10536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "212",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10551,7 +10551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "213",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10566,7 +10566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "214",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10581,7 +10581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "215",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10596,7 +10596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "216",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10611,7 +10611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "217",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10626,7 +10626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "208",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10641,7 +10641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "149",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10656,7 +10656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "155",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10671,7 +10671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10686,7 +10686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "129",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10701,7 +10701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "130",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10716,7 +10716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "131",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10731,7 +10731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "132",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10746,7 +10746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "133",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10761,7 +10761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "134",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10776,7 +10776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "135",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10791,7 +10791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "136",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10806,7 +10806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "137",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10821,7 +10821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "138",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10836,7 +10836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "139",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10851,7 +10851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "141",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10866,7 +10866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "142",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10881,7 +10881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "143",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10896,7 +10896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "144",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10911,7 +10911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "128",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10926,7 +10926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "145",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10941,7 +10941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "127",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10956,7 +10956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "110",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10971,7 +10971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "112",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -10986,7 +10986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "113",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11001,7 +11001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "114",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11016,7 +11016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "115",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11031,7 +11031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "116",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11046,7 +11046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "117",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11061,7 +11061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "111",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11076,7 +11076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "118",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11091,7 +11091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "119",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11106,7 +11106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "120",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11121,7 +11121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "121",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11136,7 +11136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "122",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11151,7 +11151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "123",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11166,7 +11166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "124",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11181,7 +11181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "125",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11196,7 +11196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "126",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11211,7 +11211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "146",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11226,7 +11226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "140",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11241,7 +11241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "109",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11256,7 +11256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "90",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11271,7 +11271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "89",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11286,7 +11286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "88",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11301,7 +11301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "147",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11316,7 +11316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "86",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11331,7 +11331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "85",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11346,7 +11346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "84",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11361,7 +11361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "83",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11376,7 +11376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "82",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11391,7 +11391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "81",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11406,7 +11406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "80",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11421,7 +11421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "79",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11436,7 +11436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "78",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11451,7 +11451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "77",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11466,7 +11466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "76",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11481,7 +11481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "91",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11496,7 +11496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "92",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11511,7 +11511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "87",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11526,7 +11526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "148",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11541,7 +11541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "107",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11556,7 +11556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "106",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11571,7 +11571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "105",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11586,7 +11586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "104",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11601,7 +11601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "93",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11616,7 +11616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "108",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11631,7 +11631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "102",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11646,7 +11646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "103",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11661,7 +11661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "100",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11676,7 +11676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "99",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11691,7 +11691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "98",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11706,7 +11706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "97",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11721,7 +11721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "96",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11736,7 +11736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "95",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11751,7 +11751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "94",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11766,7 +11766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "101",
         "Date": "20231026",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -11781,7 +11781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11796,7 +11796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11811,7 +11811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11826,7 +11826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11841,7 +11841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11856,7 +11856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11871,7 +11871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11886,7 +11886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11901,7 +11901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11916,7 +11916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11931,7 +11931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11946,7 +11946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "181",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11961,7 +11961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11976,7 +11976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -11991,7 +11991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "202",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12006,7 +12006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12021,7 +12021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "195",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12036,7 +12036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "196",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12051,7 +12051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "197",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12066,7 +12066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "198",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12081,7 +12081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "199",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12096,7 +12096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "200",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12111,7 +12111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "218",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12126,7 +12126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "217",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12141,7 +12141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "216",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12156,7 +12156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "215",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12171,7 +12171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "194",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12186,7 +12186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "214",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12201,7 +12201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "212",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12216,7 +12216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "211",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12231,7 +12231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "210",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12246,7 +12246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "209",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12261,7 +12261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "208",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12276,7 +12276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "207",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12291,7 +12291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "206",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12306,7 +12306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "205",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12321,7 +12321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "204",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12336,7 +12336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "203",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12351,7 +12351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "213",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12366,7 +12366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "193",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12381,7 +12381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "192",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12396,7 +12396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "191",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12411,7 +12411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12426,7 +12426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12441,7 +12441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12456,7 +12456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12471,7 +12471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12486,7 +12486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12501,7 +12501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12516,7 +12516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12531,7 +12531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12546,7 +12546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12561,7 +12561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "201",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12576,7 +12576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12591,7 +12591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12606,7 +12606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12621,7 +12621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "182",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12636,7 +12636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "183",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12651,7 +12651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "184",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12666,7 +12666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "185",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12681,7 +12681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "186",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12696,7 +12696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "187",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12711,7 +12711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "188",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12726,7 +12726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "189",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12741,7 +12741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "190",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12756,7 +12756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12771,7 +12771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12786,7 +12786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12801,7 +12801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "92",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12816,7 +12816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12831,7 +12831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12846,7 +12846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12861,7 +12861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12876,7 +12876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12891,7 +12891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12906,7 +12906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "96",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12921,7 +12921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "97",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12936,7 +12936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "98",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12951,7 +12951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "99",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12966,7 +12966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "100",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12981,7 +12981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "101",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -12996,7 +12996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "102",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13011,7 +13011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "103",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13026,7 +13026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "104",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13041,7 +13041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "105",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13056,7 +13056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "106",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13071,7 +13071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "107",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13086,7 +13086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "108",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13101,7 +13101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "109",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13116,7 +13116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "110",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13131,7 +13131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "111",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13146,7 +13146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "112",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13161,7 +13161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "113",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13176,7 +13176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "114",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13191,7 +13191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13206,7 +13206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "115",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13221,7 +13221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13236,7 +13236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13251,7 +13251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "180",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13266,7 +13266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13281,7 +13281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13296,7 +13296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13311,7 +13311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13326,7 +13326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13341,7 +13341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13356,7 +13356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13371,7 +13371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13386,7 +13386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13401,7 +13401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13416,7 +13416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13431,7 +13431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13446,7 +13446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13461,7 +13461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13476,7 +13476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13491,7 +13491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13506,7 +13506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13521,7 +13521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13536,7 +13536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13551,7 +13551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13566,7 +13566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13581,7 +13581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13596,7 +13596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13611,7 +13611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13626,7 +13626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13641,7 +13641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "91",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13656,7 +13656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "116",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13671,7 +13671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "118",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13686,7 +13686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13701,7 +13701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13716,7 +13716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13731,7 +13731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13746,7 +13746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13761,7 +13761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13776,7 +13776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13791,7 +13791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13806,7 +13806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13821,7 +13821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13836,7 +13836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13851,7 +13851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13866,7 +13866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13881,7 +13881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13896,7 +13896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13911,7 +13911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13926,7 +13926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13941,7 +13941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13956,7 +13956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13971,7 +13971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -13986,7 +13986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14001,7 +14001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14016,7 +14016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "95",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14031,7 +14031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "94",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14046,7 +14046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "93",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14061,7 +14061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14076,7 +14076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "117",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14091,7 +14091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14106,7 +14106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14121,7 +14121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "119",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14136,7 +14136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "120",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14151,7 +14151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "121",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14166,7 +14166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "122",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14181,7 +14181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "123",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14196,7 +14196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "124",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14211,7 +14211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "125",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14226,7 +14226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "126",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14241,7 +14241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "127",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14256,7 +14256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "128",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14271,7 +14271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "129",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14286,7 +14286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "130",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14301,7 +14301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "131",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14316,7 +14316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "132",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14331,7 +14331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "133",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14346,7 +14346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "134",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14361,7 +14361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "135",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14376,7 +14376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "136",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14391,7 +14391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "137",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14406,7 +14406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "138",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14421,7 +14421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "139",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14436,7 +14436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "140",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14451,7 +14451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14466,7 +14466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14481,7 +14481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14496,7 +14496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14511,7 +14511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "179",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14526,7 +14526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14541,7 +14541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "177",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14556,7 +14556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14571,7 +14571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14586,7 +14586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14601,7 +14601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14616,7 +14616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14631,7 +14631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "61",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14646,7 +14646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14661,7 +14661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "63",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14676,7 +14676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "64",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14691,7 +14691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14706,7 +14706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14721,7 +14721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "67",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14736,7 +14736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "68",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14751,7 +14751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "69",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14766,7 +14766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "70",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14781,7 +14781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14796,7 +14796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14811,7 +14811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14826,7 +14826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14841,7 +14841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14856,7 +14856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14871,7 +14871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14886,7 +14886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14901,7 +14901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14916,7 +14916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14931,7 +14931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14946,7 +14946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "71",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14961,7 +14961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14976,7 +14976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -14991,7 +14991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15006,7 +15006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15021,7 +15021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15036,7 +15036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15051,7 +15051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15066,7 +15066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15081,7 +15081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15096,7 +15096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15111,7 +15111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "72",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15126,7 +15126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "74",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15141,7 +15141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15156,7 +15156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15171,7 +15171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15186,7 +15186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15201,7 +15201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15216,7 +15216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15231,7 +15231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15246,7 +15246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15261,7 +15261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15276,7 +15276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15291,7 +15291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15306,7 +15306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15321,7 +15321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15336,7 +15336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15351,7 +15351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15366,7 +15366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15381,7 +15381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15396,7 +15396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15411,7 +15411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15426,7 +15426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "75",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15441,7 +15441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "76",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15456,7 +15456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "77",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15471,7 +15471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "78",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15486,7 +15486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "79",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15501,7 +15501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "80",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15516,7 +15516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "81",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15531,7 +15531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "73",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15546,7 +15546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "82",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15561,7 +15561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "84",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15576,7 +15576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "178",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15591,7 +15591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "86",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15606,7 +15606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "87",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15621,7 +15621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "88",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15636,7 +15636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "89",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15651,7 +15651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15666,7 +15666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "83",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15681,7 +15681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15696,7 +15696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15711,7 +15711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15726,7 +15726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15741,7 +15741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15756,7 +15756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15771,7 +15771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15786,7 +15786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15801,7 +15801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15816,7 +15816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15831,7 +15831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15846,7 +15846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15861,7 +15861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15876,7 +15876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15891,7 +15891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15906,7 +15906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15921,7 +15921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15936,7 +15936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15951,7 +15951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15966,7 +15966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15981,7 +15981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -15996,7 +15996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16011,7 +16011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16026,7 +16026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16041,7 +16041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16056,7 +16056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16071,7 +16071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16086,7 +16086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16101,7 +16101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16116,7 +16116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16131,7 +16131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16146,7 +16146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16161,7 +16161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16176,7 +16176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16191,7 +16191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16206,7 +16206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16221,7 +16221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16236,7 +16236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16251,7 +16251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16266,7 +16266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16281,7 +16281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16296,7 +16296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16311,7 +16311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16326,7 +16326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16341,7 +16341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16356,7 +16356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16371,7 +16371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16386,7 +16386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16401,7 +16401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16416,7 +16416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16431,7 +16431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16446,7 +16446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16461,7 +16461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16476,7 +16476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16491,7 +16491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16506,7 +16506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16521,7 +16521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16536,7 +16536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16551,7 +16551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16566,7 +16566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16581,7 +16581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16596,7 +16596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16611,7 +16611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16626,7 +16626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16641,7 +16641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16656,7 +16656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16671,7 +16671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16686,7 +16686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16701,7 +16701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16716,7 +16716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16731,7 +16731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16746,7 +16746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16761,7 +16761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16776,7 +16776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16791,7 +16791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16806,7 +16806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16821,7 +16821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16836,7 +16836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16851,7 +16851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16866,7 +16866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "85",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16881,7 +16881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16896,7 +16896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "122",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16911,7 +16911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "123",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16926,7 +16926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "124",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16941,7 +16941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "125",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16956,7 +16956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "126",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16971,7 +16971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -16986,7 +16986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "128",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17001,7 +17001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "129",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17016,7 +17016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "130",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17031,7 +17031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "131",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17046,7 +17046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "132",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17061,7 +17061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "133",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17076,7 +17076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "134",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17091,7 +17091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "135",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17106,7 +17106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "136",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17121,7 +17121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "121",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17136,7 +17136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "120",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17151,7 +17151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "119",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17166,7 +17166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "118",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17181,7 +17181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "102",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17196,7 +17196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "103",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17211,7 +17211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "104",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17226,7 +17226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "105",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17241,7 +17241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "106",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17256,7 +17256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "107",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17271,7 +17271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "108",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17286,7 +17286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "137",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17301,7 +17301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "109",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17316,7 +17316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "111",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17331,7 +17331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "112",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17346,7 +17346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "113",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17361,7 +17361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "114",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17376,7 +17376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "115",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17391,7 +17391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "116",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17406,7 +17406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "117",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17421,7 +17421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "110",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17436,7 +17436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "138",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17451,7 +17451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "139",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17466,7 +17466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "140",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17481,7 +17481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "161",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17496,7 +17496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "162",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17511,7 +17511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "163",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17526,7 +17526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "164",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17541,7 +17541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "165",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17556,7 +17556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "166",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17571,7 +17571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "167",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17586,7 +17586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "160",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17601,7 +17601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "168",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17616,7 +17616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "170",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17631,7 +17631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "171",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17646,7 +17646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "172",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17661,7 +17661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "173",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17676,7 +17676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "174",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17691,7 +17691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "175",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17706,7 +17706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "176",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17721,7 +17721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "169",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17736,7 +17736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "101",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17751,7 +17751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "159",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17766,7 +17766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "157",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17781,7 +17781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "141",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17796,7 +17796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "142",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17811,7 +17811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "143",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17826,7 +17826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "144",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17841,7 +17841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "145",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17856,7 +17856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "146",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17871,7 +17871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "147",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17886,7 +17886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "158",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17901,7 +17901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "148",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17916,7 +17916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "150",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17931,7 +17931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "151",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17946,7 +17946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "152",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17961,7 +17961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "153",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17976,7 +17976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "154",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -17991,7 +17991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "155",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18006,7 +18006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "156",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18021,7 +18021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "149",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18036,7 +18036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "100",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18051,7 +18051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "127",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18066,7 +18066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "98",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18081,7 +18081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18096,7 +18096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18111,7 +18111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18126,7 +18126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18141,7 +18141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18156,7 +18156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18171,7 +18171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18186,7 +18186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18201,7 +18201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18216,7 +18216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18231,7 +18231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18246,7 +18246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18261,7 +18261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18276,7 +18276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18291,7 +18291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18306,7 +18306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18321,7 +18321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "99",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18336,7 +18336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18351,7 +18351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18366,7 +18366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18381,7 +18381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18396,7 +18396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18411,7 +18411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18426,7 +18426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18441,7 +18441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18456,7 +18456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18471,7 +18471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18486,7 +18486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18501,7 +18501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18516,7 +18516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18531,7 +18531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18546,7 +18546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18561,7 +18561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18576,7 +18576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18591,7 +18591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18606,7 +18606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18621,7 +18621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18636,7 +18636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18651,7 +18651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18666,7 +18666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "78",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18681,7 +18681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "79",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18696,7 +18696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "80",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18711,7 +18711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "81",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18726,7 +18726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "82",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18741,7 +18741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "84",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18756,7 +18756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "85",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18771,7 +18771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "86",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18786,7 +18786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "87",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18801,7 +18801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "77",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18816,7 +18816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "88",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18831,7 +18831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "90",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18846,7 +18846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "91",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18861,7 +18861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "92",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18876,7 +18876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "93",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18891,7 +18891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "94",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18906,7 +18906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "95",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18921,7 +18921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "96",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18936,7 +18936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "97",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18951,7 +18951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "61",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18966,7 +18966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "89",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18981,7 +18981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "76",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -18996,7 +18996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "83",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19011,7 +19011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "90",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19026,7 +19026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "74",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19041,7 +19041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "73",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19056,7 +19056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "72",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19071,7 +19071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "71",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19086,7 +19086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "70",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19101,7 +19101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "63",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19116,7 +19116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "64",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19131,7 +19131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19146,7 +19146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "75",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19161,7 +19161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "67",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19176,7 +19176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "68",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19191,7 +19191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "69",
         "Date": "20231027",
-        "DaysOld": "10.0"
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
@@ -19206,7 +19206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19221,7 +19221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19236,7 +19236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19251,7 +19251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19266,7 +19266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19281,7 +19281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19296,7 +19296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19311,7 +19311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19326,7 +19326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19341,7 +19341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19356,7 +19356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19371,7 +19371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19386,7 +19386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19401,7 +19401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19416,7 +19416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19431,7 +19431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19446,7 +19446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19461,7 +19461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19476,7 +19476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19491,7 +19491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19506,7 +19506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19521,7 +19521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19536,7 +19536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19551,7 +19551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19566,7 +19566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19581,7 +19581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19596,7 +19596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19611,7 +19611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19626,7 +19626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19641,7 +19641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19656,7 +19656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19671,7 +19671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19686,7 +19686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19701,7 +19701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19716,7 +19716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19731,7 +19731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19746,7 +19746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19761,7 +19761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19776,7 +19776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19791,7 +19791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19806,7 +19806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19821,7 +19821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19836,7 +19836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19851,7 +19851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19866,7 +19866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19881,7 +19881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19896,7 +19896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19911,7 +19911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19926,7 +19926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19941,7 +19941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19956,7 +19956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19971,7 +19971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -19986,7 +19986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20001,7 +20001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20016,7 +20016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20031,7 +20031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20046,7 +20046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20061,7 +20061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20076,7 +20076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20091,7 +20091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20106,7 +20106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20121,7 +20121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20136,7 +20136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20151,7 +20151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20166,7 +20166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20181,7 +20181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20196,7 +20196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20211,7 +20211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20226,7 +20226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20241,7 +20241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20256,7 +20256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20271,7 +20271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20286,7 +20286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20301,7 +20301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20316,7 +20316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20331,7 +20331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20346,7 +20346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20361,7 +20361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20376,7 +20376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20391,7 +20391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20406,7 +20406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20421,7 +20421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20436,7 +20436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20451,7 +20451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20466,7 +20466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20481,7 +20481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20496,7 +20496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20511,7 +20511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20526,7 +20526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20541,7 +20541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20556,7 +20556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20571,7 +20571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20586,7 +20586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20601,7 +20601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20616,7 +20616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20631,7 +20631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20646,7 +20646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20661,7 +20661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20676,7 +20676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20691,7 +20691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20706,7 +20706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20721,7 +20721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20736,7 +20736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20751,7 +20751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20766,7 +20766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20781,7 +20781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20796,7 +20796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20811,7 +20811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20826,7 +20826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20841,7 +20841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20856,7 +20856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20871,7 +20871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20886,7 +20886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20901,7 +20901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20916,7 +20916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20931,7 +20931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20946,7 +20946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20961,7 +20961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20976,7 +20976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -20991,7 +20991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21006,7 +21006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21021,7 +21021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21036,7 +21036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21051,7 +21051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21066,7 +21066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21081,7 +21081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21096,7 +21096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21111,7 +21111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "75",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21126,7 +21126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "96",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21141,7 +21141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "97",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21156,7 +21156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "98",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21171,7 +21171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "99",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21186,7 +21186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "100",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21201,7 +21201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "76",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21216,7 +21216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "74",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21231,7 +21231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "73",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21246,7 +21246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "72",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21261,7 +21261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "71",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21276,7 +21276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "70",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21291,7 +21291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "69",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21306,7 +21306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "95",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21321,7 +21321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "68",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21336,7 +21336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21351,7 +21351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21366,7 +21366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "64",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21381,7 +21381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "63",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21396,7 +21396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "104",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21411,7 +21411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "103",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21426,7 +21426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "102",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21441,7 +21441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "101",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21456,7 +21456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21471,7 +21471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "61",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21486,7 +21486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21501,7 +21501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21516,7 +21516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "67",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21531,7 +21531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "77",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21546,7 +21546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "78",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21561,7 +21561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "93",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21576,7 +21576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "94",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21591,7 +21591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "79",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21606,7 +21606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "92",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21621,7 +21621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "91",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21636,7 +21636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "90",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21651,7 +21651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "88",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21666,7 +21666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "87",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21681,7 +21681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "89",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21696,7 +21696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "85",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21711,7 +21711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "84",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21726,7 +21726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "83",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21741,7 +21741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "82",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21756,7 +21756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "81",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21771,7 +21771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "80",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21786,7 +21786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "86",
         "Date": "20231028",
-        "DaysOld": "9.0"
+        "DaysOld": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -21801,7 +21801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "611",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21816,7 +21816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "616",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21831,7 +21831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "612",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21846,7 +21846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "613",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21861,7 +21861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "614",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21876,7 +21876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "615",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21891,7 +21891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "617",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21906,7 +21906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "625",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21921,7 +21921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "619",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21936,7 +21936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "620",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21951,7 +21951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "621",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21966,7 +21966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "622",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21981,7 +21981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "623",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -21996,7 +21996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "624",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22011,7 +22011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "618",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22026,7 +22026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "626",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22041,7 +22041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22056,7 +22056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "628",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22071,7 +22071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22086,7 +22086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22101,7 +22101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22116,7 +22116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22131,7 +22131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22146,7 +22146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22161,7 +22161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "627",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22176,7 +22176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22191,7 +22191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22206,7 +22206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22221,7 +22221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22236,7 +22236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22251,7 +22251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22266,7 +22266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "610",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22281,7 +22281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22296,7 +22296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "609",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22311,7 +22311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "607",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22326,7 +22326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22341,7 +22341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "553",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22356,7 +22356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "554",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22371,7 +22371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "555",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22386,7 +22386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "556",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22401,7 +22401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "557",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22416,7 +22416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "558",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22431,7 +22431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "559",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22446,7 +22446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "560",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22461,7 +22461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "561",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22476,7 +22476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "562",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22491,7 +22491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "563",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22506,7 +22506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "564",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22521,7 +22521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "565",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22536,7 +22536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "566",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22551,7 +22551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "567",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22566,7 +22566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "552",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22581,7 +22581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "568",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22596,7 +22596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "551",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22611,7 +22611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "549",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22626,7 +22626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "534",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22641,7 +22641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "535",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22656,7 +22656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "536",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22671,7 +22671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "537",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22686,7 +22686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "538",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22701,7 +22701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "539",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22716,7 +22716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "540",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22731,7 +22731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "541",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22746,7 +22746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "542",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22761,7 +22761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "543",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22776,7 +22776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "544",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22791,7 +22791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "545",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22806,7 +22806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "546",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22821,7 +22821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "547",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22836,7 +22836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "548",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22851,7 +22851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "550",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22866,7 +22866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "569",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22881,7 +22881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "570",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22896,7 +22896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "571",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22911,7 +22911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "592",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22926,7 +22926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "593",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22941,7 +22941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "594",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22956,7 +22956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "595",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22971,7 +22971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "596",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -22986,7 +22986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "597",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23001,7 +23001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "598",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23016,7 +23016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "599",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23031,7 +23031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "600",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23046,7 +23046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "601",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23061,7 +23061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "602",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23076,7 +23076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "603",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23091,7 +23091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "604",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23106,7 +23106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "605",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23121,7 +23121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "606",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23136,7 +23136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "591",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23151,7 +23151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "590",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23166,7 +23166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "589",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23181,7 +23181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "588",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23196,7 +23196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "572",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23211,7 +23211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "573",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23226,7 +23226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "574",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23241,7 +23241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "575",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23256,7 +23256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "576",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23271,7 +23271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "577",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23286,7 +23286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "578",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23301,7 +23301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "608",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23316,7 +23316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "579",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23331,7 +23331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "581",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23346,7 +23346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "582",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23361,7 +23361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "583",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23376,7 +23376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "584",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23391,7 +23391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "585",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23406,7 +23406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "586",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23421,7 +23421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "587",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23436,7 +23436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "580",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23451,7 +23451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23466,7 +23466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23481,7 +23481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23496,7 +23496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23511,7 +23511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23526,7 +23526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23541,7 +23541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23556,7 +23556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23571,7 +23571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23586,7 +23586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23601,7 +23601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23616,7 +23616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23631,7 +23631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23646,7 +23646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23661,7 +23661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23676,7 +23676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23691,7 +23691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23706,7 +23706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23721,7 +23721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23736,7 +23736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23751,7 +23751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23766,7 +23766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23781,7 +23781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23796,7 +23796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23811,7 +23811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23826,7 +23826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23841,7 +23841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23856,7 +23856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23871,7 +23871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23886,7 +23886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23901,7 +23901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23916,7 +23916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23931,7 +23931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23946,7 +23946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23961,7 +23961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "533",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23976,7 +23976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -23991,7 +23991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24006,7 +24006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24021,7 +24021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24036,7 +24036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24051,7 +24051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24066,7 +24066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24081,7 +24081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24096,7 +24096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24111,7 +24111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24126,7 +24126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24141,7 +24141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24156,7 +24156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24171,7 +24171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24186,7 +24186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24201,7 +24201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24216,7 +24216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24231,7 +24231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24246,7 +24246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24261,7 +24261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24276,7 +24276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24291,7 +24291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24306,7 +24306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24321,7 +24321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24336,7 +24336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24351,7 +24351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24366,7 +24366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24381,7 +24381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24396,7 +24396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24411,7 +24411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24426,7 +24426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24441,7 +24441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24456,7 +24456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24471,7 +24471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24486,7 +24486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24501,7 +24501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24516,7 +24516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24531,7 +24531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24546,7 +24546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24561,7 +24561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24576,7 +24576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24591,7 +24591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24606,7 +24606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24621,7 +24621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24636,7 +24636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24651,7 +24651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24666,7 +24666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24681,7 +24681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24696,7 +24696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24711,7 +24711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24726,7 +24726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24741,7 +24741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24756,7 +24756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24771,7 +24771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24786,7 +24786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24801,7 +24801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24816,7 +24816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24831,7 +24831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24846,7 +24846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24861,7 +24861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24876,7 +24876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24891,7 +24891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24906,7 +24906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24921,7 +24921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24936,7 +24936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24951,7 +24951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24966,7 +24966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24981,7 +24981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -24996,7 +24996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25011,7 +25011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25026,7 +25026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25041,7 +25041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25056,7 +25056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25071,7 +25071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25086,7 +25086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25101,7 +25101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25116,7 +25116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25131,7 +25131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25146,7 +25146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25161,7 +25161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25176,7 +25176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25191,7 +25191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25206,7 +25206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25221,7 +25221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25236,7 +25236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25251,7 +25251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25266,7 +25266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25281,7 +25281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25296,7 +25296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25311,7 +25311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25326,7 +25326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25341,7 +25341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25356,7 +25356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25371,7 +25371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25386,7 +25386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25401,7 +25401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25416,7 +25416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25431,7 +25431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25446,7 +25446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25461,7 +25461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25476,7 +25476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25491,7 +25491,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25506,7 +25506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25521,7 +25521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25536,7 +25536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25551,7 +25551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25566,7 +25566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25581,7 +25581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25596,7 +25596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25611,7 +25611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25626,7 +25626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25641,7 +25641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25656,7 +25656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25671,7 +25671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25686,7 +25686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "532",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25699,15 +25699,15 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "145",
+        "field_1": "272",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.07038958579566,
-          40.066045136895376
+          49.66221890545985,
+          40.08083465993015
         ]
       }
     },
@@ -25716,7 +25716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "530",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25731,7 +25731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "115",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25746,7 +25746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "114",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25761,7 +25761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "113",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25776,7 +25776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "112",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25791,7 +25791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "111",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25806,7 +25806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "110",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25821,7 +25821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "109",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25836,7 +25836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "108",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25851,7 +25851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "107",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25866,7 +25866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "106",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25881,7 +25881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "105",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25896,7 +25896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "104",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25911,7 +25911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "103",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25926,7 +25926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "102",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25941,7 +25941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "101",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25956,7 +25956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "100",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25971,7 +25971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "99",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -25986,7 +25986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "98",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26001,7 +26001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "97",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26016,7 +26016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "116",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26031,7 +26031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "96",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26046,7 +26046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "117",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26061,7 +26061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "119",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26076,7 +26076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "138",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26089,15 +26089,15 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "531",
+        "field_1": "137",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.09165035440737,
-          40.53990336112931
+          49.670674240926026,
+          40.02065467923395
         ]
       }
     },
@@ -26106,7 +26106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "136",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26121,7 +26121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "135",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26136,7 +26136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "134",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26151,7 +26151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "133",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26166,7 +26166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "132",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26181,7 +26181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "131",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26196,7 +26196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "130",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26211,7 +26211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "129",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26226,7 +26226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "128",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26241,7 +26241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "127",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26256,7 +26256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "126",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26271,7 +26271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "125",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26286,7 +26286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "124",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26301,7 +26301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "123",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26316,7 +26316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "122",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26331,7 +26331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "121",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26346,7 +26346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "120",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26361,7 +26361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "118",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26376,7 +26376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "95",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26391,7 +26391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "94",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26406,7 +26406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "93",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26421,7 +26421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "68",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26436,7 +26436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "67",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26451,7 +26451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26466,7 +26466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26481,7 +26481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "64",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26496,7 +26496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "63",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26511,7 +26511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26526,7 +26526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "61",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26541,7 +26541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26556,7 +26556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26571,7 +26571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26586,7 +26586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26601,7 +26601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26616,7 +26616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26631,7 +26631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26646,7 +26646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26661,7 +26661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26676,7 +26676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26691,7 +26691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26706,7 +26706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "69",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26721,7 +26721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "70",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26736,7 +26736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "71",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26751,7 +26751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "72",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26766,7 +26766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "92",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26781,7 +26781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "91",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26796,7 +26796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "90",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26811,7 +26811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "89",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26826,7 +26826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "88",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26841,7 +26841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "87",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26856,7 +26856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "86",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26871,7 +26871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "85",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26886,7 +26886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "84",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26901,7 +26901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "139",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26916,7 +26916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "83",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26931,7 +26931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "81",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26946,7 +26946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "80",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26961,7 +26961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "79",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26976,7 +26976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "78",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -26991,7 +26991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "77",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27006,7 +27006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "76",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27021,7 +27021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "75",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27036,7 +27036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "74",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27051,7 +27051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "73",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27066,7 +27066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "82",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27081,7 +27081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27096,7 +27096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "140",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27111,7 +27111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "142",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27126,7 +27126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "208",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27141,7 +27141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "207",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27156,7 +27156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "206",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27171,7 +27171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "205",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27186,7 +27186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "204",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27201,7 +27201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "203",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27216,7 +27216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "202",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27231,7 +27231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "201",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27246,7 +27246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "200",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27261,7 +27261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "199",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27276,7 +27276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "198",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27291,7 +27291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "197",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27306,7 +27306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "196",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27321,7 +27321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "195",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27336,7 +27336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "194",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27351,7 +27351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "193",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27366,7 +27366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "192",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27381,7 +27381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "191",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27396,7 +27396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "190",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27411,7 +27411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "209",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27426,7 +27426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "189",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27441,7 +27441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "210",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27456,7 +27456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "212",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27471,7 +27471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "231",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27486,7 +27486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "230",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27501,7 +27501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "229",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27516,7 +27516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "228",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27531,7 +27531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "227",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27546,7 +27546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "226",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27561,7 +27561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "225",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27576,7 +27576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "224",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27591,7 +27591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "223",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27606,7 +27606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "222",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27621,7 +27621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "221",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27636,7 +27636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "220",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27651,7 +27651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "219",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27666,7 +27666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "218",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27681,7 +27681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "217",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27696,7 +27696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "216",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27711,7 +27711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "215",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27726,7 +27726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "214",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27741,7 +27741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "213",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27756,7 +27756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "211",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27771,7 +27771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "188",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27786,7 +27786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "187",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27801,7 +27801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "186",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27816,7 +27816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "161",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27831,7 +27831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "160",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27846,7 +27846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "159",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27861,7 +27861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "158",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27876,7 +27876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "157",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27891,7 +27891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "156",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27906,7 +27906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "155",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27921,7 +27921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "154",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27936,7 +27936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "153",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27951,7 +27951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "152",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27966,7 +27966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "151",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27981,7 +27981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "150",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -27996,7 +27996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "149",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28011,7 +28011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "148",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28026,7 +28026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "147",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28041,7 +28041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "146",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28054,15 +28054,15 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "145",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.88908707286099,
-          36.577468828006175
+          50.07038958579566,
+          40.066045136895376
         ]
       }
     },
@@ -28071,7 +28071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "144",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28086,7 +28086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "143",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28101,7 +28101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "162",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28116,7 +28116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "163",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28131,7 +28131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "164",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28146,7 +28146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "165",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28161,7 +28161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "185",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28176,7 +28176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "184",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28191,7 +28191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "183",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28206,7 +28206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "182",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28221,7 +28221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "181",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28236,7 +28236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "180",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28251,7 +28251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "179",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28266,7 +28266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "178",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28281,7 +28281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "177",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28296,7 +28296,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "141",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28311,7 +28311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "176",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28326,7 +28326,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "174",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28341,7 +28341,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "173",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28356,7 +28356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "172",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28371,7 +28371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "171",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28386,7 +28386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "170",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28401,7 +28401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "169",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28416,7 +28416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "168",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28431,7 +28431,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "167",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28446,7 +28446,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "166",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28461,7 +28461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "175",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28476,7 +28476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28489,15 +28489,15 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "47",
+        "field_1": "531",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.54179117417812,
-          39.82283902425242
+          50.09165035440737,
+          40.53990336112931
         ]
       }
     },
@@ -28506,7 +28506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28521,7 +28521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28536,7 +28536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "64",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28551,7 +28551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "63",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28566,7 +28566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28581,7 +28581,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "61",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28596,7 +28596,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28611,7 +28611,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28626,7 +28626,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28641,7 +28641,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28656,7 +28656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28671,7 +28671,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28686,7 +28686,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28701,7 +28701,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28716,7 +28716,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28731,7 +28731,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28746,7 +28746,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28761,7 +28761,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28776,7 +28776,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28791,7 +28791,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28806,7 +28806,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28821,7 +28821,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28836,7 +28836,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "67",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28851,7 +28851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28866,7 +28866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28881,7 +28881,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28896,7 +28896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28911,7 +28911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28926,7 +28926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28941,7 +28941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28956,7 +28956,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28971,7 +28971,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -28986,7 +28986,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29001,7 +29001,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29016,7 +29016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29031,7 +29031,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29046,7 +29046,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29061,7 +29061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29076,7 +29076,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29091,7 +29091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29106,7 +29106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29121,7 +29121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29136,7 +29136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29151,7 +29151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "68",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29166,7 +29166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29181,7 +29181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29196,7 +29196,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29211,7 +29211,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29226,7 +29226,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29241,7 +29241,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29256,7 +29256,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29271,7 +29271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29286,7 +29286,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29301,7 +29301,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29316,7 +29316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29331,7 +29331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29346,7 +29346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29361,7 +29361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29376,7 +29376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29391,7 +29391,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29406,7 +29406,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29421,7 +29421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29436,7 +29436,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29451,7 +29451,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29466,7 +29466,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29481,7 +29481,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29496,7 +29496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29511,7 +29511,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29526,7 +29526,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29541,7 +29541,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29556,7 +29556,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29571,7 +29571,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29586,7 +29586,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29601,7 +29601,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29616,7 +29616,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29631,7 +29631,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29646,7 +29646,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29661,7 +29661,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29676,7 +29676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29691,7 +29691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29706,7 +29706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29721,7 +29721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29736,7 +29736,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29751,7 +29751,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29766,7 +29766,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29781,7 +29781,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29796,7 +29796,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29811,7 +29811,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29826,7 +29826,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29841,7 +29841,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29856,7 +29856,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29871,7 +29871,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29886,7 +29886,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29901,7 +29901,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29916,7 +29916,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29931,7 +29931,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29946,7 +29946,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29961,7 +29961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29976,7 +29976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -29991,7 +29991,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "16",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30006,7 +30006,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "15",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30021,7 +30021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "14",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30036,7 +30036,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "13",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30051,7 +30051,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30066,7 +30066,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "11",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30081,7 +30081,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "10",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30096,7 +30096,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "9",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30111,7 +30111,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30126,7 +30126,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "7",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30141,7 +30141,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "6",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30156,7 +30156,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "5",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30171,7 +30171,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30186,7 +30186,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30201,7 +30201,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30216,7 +30216,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30231,7 +30231,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30246,7 +30246,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30261,7 +30261,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30276,7 +30276,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30291,7 +30291,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30306,7 +30306,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30321,7 +30321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30336,7 +30336,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30351,7 +30351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30366,7 +30366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30381,7 +30381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30396,7 +30396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30411,7 +30411,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30426,7 +30426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30441,7 +30441,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30456,7 +30456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30471,7 +30471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30486,7 +30486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30501,7 +30501,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30516,7 +30516,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30531,7 +30531,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30546,7 +30546,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30561,7 +30561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30576,7 +30576,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "232",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30591,7 +30591,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30606,7 +30606,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "67",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30621,7 +30621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "42",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30636,7 +30636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30651,7 +30651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30666,7 +30666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30681,7 +30681,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "38",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30696,7 +30696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30711,7 +30711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30726,7 +30726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "35",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30741,7 +30741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "34",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30756,7 +30756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "33",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30771,7 +30771,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30786,7 +30786,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "31",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30801,7 +30801,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30816,7 +30816,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30831,7 +30831,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30846,7 +30846,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30861,7 +30861,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "26",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30876,7 +30876,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30891,7 +30891,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30906,7 +30906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "43",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30921,7 +30921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30936,7 +30936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30951,7 +30951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30966,7 +30966,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30981,7 +30981,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -30996,7 +30996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "64",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31011,7 +31011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "63",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31026,7 +31026,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31041,7 +31041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "61",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31056,7 +31056,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "60",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31071,7 +31071,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31086,7 +31086,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31101,7 +31101,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31116,7 +31116,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31131,7 +31131,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "55",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31146,7 +31146,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "54",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31161,7 +31161,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "53",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31176,7 +31176,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "52",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31191,7 +31191,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "51",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31206,7 +31206,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "50",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31221,7 +31221,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "49",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31236,7 +31236,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31251,7 +31251,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31266,7 +31266,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31281,7 +31281,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "233",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31294,15 +31294,15 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "137",
+        "field_1": "47",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.670674240926026,
-          40.02065467923395
+          49.54179117417812,
+          39.82283902425242
         ]
       }
     },
@@ -31311,7 +31311,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "235",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31324,129 +31324,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "433",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.67878445399761,
-          40.25739276360022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "432",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.696724884027454,
-          40.25143138120305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "431",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.67277038842859,
-          40.25880019392844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "430",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.6783040813391,
-          40.258994846298606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "429",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.67878445399761,
-          40.25739276360022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "428",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.67431342974242,
-          40.24854296134667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "427",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.66901576626224,
-          40.24708026570343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "426",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.636406754160674,
-          40.24115609093253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "425",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31459,15 +31339,15 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "234",
+        "field_1": "424",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.86702016563381,
-          40.23237311315675
+          50.581524274857856,
+          40.35701427686689
         ]
       }
     },
@@ -31476,7 +31356,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "423",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31491,7 +31371,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "422",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31506,7 +31386,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "421",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31521,7 +31401,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "420",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31536,7 +31416,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "419",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31549,24 +31429,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "434",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.71055757134258,
-          40.264778662238776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "418",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31579,279 +31444,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "435",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.735708105155375,
-          40.27492864008586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "437",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.77412322550422,
-          40.26566422349623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "452",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.77471089482026,
-          40.29398126839434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "451",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5095359094129,
-          40.37322792914366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "450",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.50568559981412,
-          40.36733596231032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "449",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5281451752503,
-          40.35959653194359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "448",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5292317643901,
-          40.3584435202505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "447",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.489186758498406,
-          40.38220760097295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "446",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.40677550814395,
-          40.35225165200691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "445",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.12543007596869,
-          40.30617954475605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "444",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.016131918785376,
-          40.30427036839494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "443",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.98662594291502,
-          40.28557528388242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "442",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.961699702745946,
-          40.2919744783139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "441",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.79750228470729,
-          40.2872860983795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "440",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.75129159211669,
-          40.28026996717899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "439",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.735218019814056,
-          40.27578848020712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "438",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.735708105155375,
-          40.27492864008586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "436",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.735218019814056,
-          40.27578848020712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "417",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31866,7 +31461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "416",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31881,7 +31476,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "415",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -31894,294 +31489,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "394",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.61246464799338,
-          40.32739992810496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "393",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.627172487049066,
-          40.31676409845332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "392",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6290598003049,
-          40.31603471160471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "391",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5879935600817,
-          40.30902678715761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "390",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.29416779382199,
-          40.260925131553456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "389",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.27567173063323,
-          40.28946216500533
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "388",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.26836061839104,
-          40.27644720671949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "387",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.04685390199015,
-          40.23957285956519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "386",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.05825703333056,
-          40.23608709309117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "385",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.06875740902316,
-          40.23474778845231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "384",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.04749635556748,
-          40.23170463947612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "383",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.03142808525982,
-          40.255844156434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "382",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.99168846643512,
-          40.236347259169335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "381",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.04749635556748,
-          40.23170463947612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "380",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.96588337025382,
-          40.24775350381183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "395",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.62787946316037,
-          40.33032192913471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "396",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.63775768875183,
-          40.31690659782473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "397",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.63360224473077,
-          40.32454374455862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "398",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.52659645475269,
-          40.20042559220207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "414",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32196,7 +31506,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "413",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32211,7 +31521,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "412",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32226,7 +31536,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "411",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32241,7 +31551,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "410",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32256,7 +31566,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "409",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32269,9 +31579,24 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "426",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.636406754160674,
+          40.24115609093253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "408",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32284,15 +31609,315 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "453",
+        "field_1": "427",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.76313108422848,
-          40.29306865551524
+          49.66901576626224,
+          40.24708026570343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "429",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.67878445399761,
+          40.25739276360022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "446",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.40677550814395,
+          40.35225165200691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "445",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.12543007596869,
+          40.30617954475605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "444",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.016131918785376,
+          40.30427036839494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "443",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.98662594291502,
+          40.28557528388242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "442",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.961699702745946,
+          40.2919744783139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "441",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.79750228470729,
+          40.2872860983795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "440",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.75129159211669,
+          40.28026996717899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "439",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.735218019814056,
+          40.27578848020712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "438",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.735708105155375,
+          40.27492864008586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "437",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.77412322550422,
+          40.26566422349623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "436",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.735218019814056,
+          40.27578848020712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "435",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.735708105155375,
+          40.27492864008586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "434",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.71055757134258,
+          40.264778662238776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "433",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.67878445399761,
+          40.25739276360022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "432",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.696724884027454,
+          40.25143138120305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "431",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.67277038842859,
+          40.25880019392844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "430",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6783040813391,
+          40.258994846298606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "428",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.67431342974242,
+          40.24854296134667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "447",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.489186758498406,
+          40.38220760097295
         ]
       }
     },
@@ -32301,7 +31926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "407",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32316,7 +31941,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "405",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32329,105 +31954,60 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "404",
+        "field_1": "383",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.63983769481612,
-          40.23694516337916
+          50.03142808525982,
+          40.255844156434
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "403",
+        "field_1": "382",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.65677647575847,
-          40.23063754513371
+          49.99168846643512,
+          40.236347259169335
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "402",
+        "field_1": "381",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6188342890108,
-          40.22542160182444
+          50.04749635556748,
+          40.23170463947612
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "401",
+        "field_1": "380",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.61136661801407,
-          40.22357031591415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "400",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.60265079679373,
-          40.22066878074607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "399",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.59337864460549,
-          40.21759872289795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "406",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.783487741862274,
-          40.22554177444692
+          49.96588337025382,
+          40.24775350381183
         ]
       }
     },
@@ -32436,7 +32016,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "379",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -32449,1149 +32029,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "454",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.76400582756101,
-          40.29448272293196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "456",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83087444631407,
-          40.30366552403952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "510",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.2536765330324,
-          40.51635294556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "509",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.23400459680718,
-          40.48969941076977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "508",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.21039350264098,
-          40.50930540216749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "507",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.20924865617772,
-          40.50744687321818
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "506",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.22769560170404,
-          40.49414356442824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "505",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.32870549697159,
-          40.48493142868069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "504",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.283930301774056,
-          40.46493174531319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "503",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.28419630468738,
-          40.46399630733217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "502",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.348547816588784,
-          40.44358171547339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "501",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.28364696781401,
-          40.44369861428923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "500",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.28610887800511,
-          40.44392409526228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "499",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.28126647907091,
-          40.43632560950756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "498",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.866864009323216,
-          40.36981590390777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "497",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.54706840315316,
-          40.43907581192021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "496",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.54706840315316,
-          40.43907581192021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "511",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.319351086998864,
-          40.49619159450362
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "495",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.45297450472641,
-          40.42275742772921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "512",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.32033834273879,
-          40.49687301508661
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "514",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.33284965899348,
-          40.50421204353621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "529",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.30199179542163,
-          40.551208806235536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "528",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.30317909669375,
-          40.54498990417285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "527",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.3125810919798,
-          40.54444681781087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "526",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.2484990689272,
-          40.53194099173123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "525",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.245237427908606,
-          40.523115831510566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "524",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.113411160140735,
-          40.52480863697672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "523",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.1499963662034,
-          40.51866959856165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "522",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.32205044127037,
-          40.51496277997239
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "521",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.316987240225416,
-          40.51403292496155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "520",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.32865891618353,
-          40.5123981188141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "519",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.31285958678515,
-          40.5093912677982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "518",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.32354447696235,
-          40.509522368049225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "517",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.33715785963012,
-          40.51021585162472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "516",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.33117656443746,
-          40.50829026446535
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "515",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.318086265194495,
-          40.50249278270667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "513",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.31690860373753,
-          40.50077099840614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "494",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.376753860419136,
-          40.4138886100314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "493",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.38031019162735,
-          40.4077456380541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "492",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.357034206368965,
-          40.41471130067141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "471",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.15911722813379,
-          40.35471664911883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "470",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.152916466482495,
-          40.34531164405828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "469",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.094901019794406,
-          40.36400253120499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "468",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.08149173602851,
-          40.3489645414507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "467",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.09446593310115,
-          40.34545328309199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "466",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.06900341320545,
-          40.34791698651078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "465",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.08149173602851,
-          40.3489645414507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "464",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.92894919258625,
-          40.33973996241995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "463",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.91086764660465,
-          40.33649616167632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "462",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.96015089434103,
-          40.33441786491475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "461",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83804508698029,
-          40.32225105668451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "460",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83826707614215,
-          40.31247139763083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "459",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83669801383619,
-          40.311012812533065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "458",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83239945197029,
-          40.30585861994356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "457",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83227175159975,
-          40.30510124573734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "472",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.15619590392908,
-          40.35923326626632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "473",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.210175596965634,
-          40.350758866045545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "474",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.38151439366615,
-          40.39492681119914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "475",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.37853477209861,
-          40.3986972413654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "491",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.35784401179198,
-          40.410475602730926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "490",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.30075747259736,
-          40.42221781487923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "489",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.91606711556568,
-          40.35481513613027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "488",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.93470319868178,
-          40.35040675493033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "487",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.91351631467123,
-          40.3467956040224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "486",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.8538026969448,
-          40.36529931759943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "485",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83855088215585,
-          40.35822347187285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "455",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7650233933303,
-          40.294990197900376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "484",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.84971259282543,
-          40.35142917125138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "482",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.853493022853,
-          40.344530260596095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "481",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.84272541207761,
-          40.33911567307955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "480",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83664972989599,
-          40.35824770154473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "479",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83084481923414,
-          40.353633668728165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "478",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.83697319338215,
-          40.348898210118605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "477",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.48139707130358,
-          40.39847095576646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "476",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.48191300547207,
-          40.397475511224094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "483",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.8476011161808,
-          40.34517911765138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "378",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -33604,1800 +32044,45 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "424",
+        "field_1": "377",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.581524274857856,
-          40.35701427686689
+          49.783632995919206,
+          40.22435775494344
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "301",
+        "field_1": "376",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.57552502882578,
-          40.10189058252974
+          49.78650529875272,
+          40.21840318801027
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "320",
+        "field_1": "375",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.5560332763169,
-          40.25693914246755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "319",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.56193260099106,
-          40.25178898888296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "318",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.57298594099726,
-          40.25302203789661
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "317",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.54776366203115,
-          40.24900267417025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "316",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.541893280516106,
-          40.24317343700107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "315",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.57738641056155,
-          40.24518810192288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "314",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.29081810677579,
-          40.22121809055681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "313",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.06477527078003,
-          40.19713772678952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "312",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.06691456714151,
-          40.18664702566002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "311",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.65480105630037,
-          40.139626146150384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "310",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.65055917676092,
-          40.13367384583752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "309",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.66249331912382,
-          40.13456118922653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "308",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.6521338791548,
-          40.12962696276729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "307",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.66245125640821,
-          40.12663429215682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "306",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.67401327407128,
-          40.124182256289714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "305",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.6523385945306,
-          40.1153871353734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "304",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.66423797686939,
-          40.11511214120511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "303",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.64130372076783,
-          40.12022744620638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "302",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.53466592979409,
-          40.09947964623749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "300",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.54687036485012,
-          40.09606376870822
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "299",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.49952968480616,
-          40.10664122636527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "298",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.50756259097277,
-          40.09996122358231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "297",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.49739197358344,
-          40.09211597832466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "296",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.52346718763818,
-          40.092512635593415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "295",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.89389313194032,
-          40.24754818169012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "321",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.55068578600826,
-          40.25740707023234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "322",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.53785940529772,
-          40.25746979958088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "323",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.59634901467163,
-          40.23996079196024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "324",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6037451203676,
-          40.24427803220981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "350",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.06473476440272,
-          40.19731732405187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "349",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.97148006346034,
-          40.19641081599459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "348",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.793099513495925,
-          40.18350843826189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "347",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.473998569654505,
-          40.130517781218586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "346",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.485409497747526,
-          40.131626405062256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "345",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.48346977957412,
-          40.13103468547087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "344",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.47345457444472,
-          40.12923762611271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "343",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.78022612629907,
-          40.27982709861577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "342",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.767075076044215,
-          40.27476508127633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "341",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.77739894229335,
-          40.270852017171855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "340",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.77173184632517,
-          40.27004836502687
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "339",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.80015525124372,
-          40.2725564986894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "294",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.91501881676203,
-          40.24623620598285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "338",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.77960478662992,
-          40.27002260552545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "336",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.78465884573091,
-          40.26263623072812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "335",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7986609774266,
-          40.26347246286304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "334",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.811879662009424,
-          40.26379552958353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "333",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.81410391042356,
-          40.26315294089253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "332",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.741865618976064,
-          40.28440522818969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "331",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.73421844401807,
-          40.28366562355379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "330",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.72886213247829,
-          40.28252493306441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "329",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.72184299213748,
-          40.28108103679483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "328",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.72804941989736,
-          40.28131505784653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "327",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.75208659939757,
-          40.279014876336966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "326",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.74609751516092,
-          40.27475101678322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "325",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.75296133903999,
-          40.26755213984387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "337",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7947792791497,
-          40.270129936856094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "351",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.0589298741609,
-          40.21486000729002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "293",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.82895710629069,
-          40.2556151297644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "291",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.85933121151244,
-          40.25122587307003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "260",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.57200271037854,
-          40.08968752590954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "259",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.57398300162868,
-          40.0885679068417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "258",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.56509519240328,
-          40.07929225948935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "257",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.57156283127549,
-          40.07753440983354
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "256",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5512055596242,
-          40.071864538573216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "255",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.5806242657612,
-          40.07483352527717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "254",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.582960604962615,
-          40.07371627476934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "253",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.59269411230908,
-          40.070412388386366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "252",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.59373335812519,
-          40.06976668559087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "251",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.56834242290841,
-          40.066623057935296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "250",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.59551211804275,
-          40.069268324038575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "249",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.51304015436212,
-          40.08449292597451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "248",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.535753455303606,
-          40.08743941038384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "247",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.906787282178165,
-          40.23852230502436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "246",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.90505586915766,
-          40.236323043516464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "245",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.91637092370798,
-          40.23603814166316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "244",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.90218283732389,
-          40.23195249314161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "243",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.89796738233984,
-          40.22773577009518
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "242",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.923161214420105,
-          40.23103105182109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "241",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.90509348799616,
-          40.22199489278472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "240",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.89796330314321,
-          40.22109867670543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "239",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.89907138870835,
-          40.216214417025135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "238",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.90654637630029,
-          40.2135592823515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "237",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9156032522589,
-          40.20907534581923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "236",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.88955757564296,
-          40.23806254793651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "261",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.6240246382677,
-          40.07228244406531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "262",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.62000417963794,
-          40.077663447161406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "263",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.63318429081558,
-          40.080112085666784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "264",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.60910033266742,
-          40.0785371129079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "290",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.83253557995788,
-          40.2467538066879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "289",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.85500918446629,
-          40.243354551173816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "288",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.86627917112694,
-          40.24467820272811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "287",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.87977054591793,
-          40.24287039470995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "286",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.88110431691168,
-          40.24303796556522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "285",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.84051159157878,
-          40.23544901845492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "284",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.868587304539,
-          40.23865389783998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "283",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.88955757564296,
-          40.23806254793651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "282",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.82895710629069,
-          40.2556151297644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "281",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.82401748555879,
-          40.25255179207657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "280",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.80054637578152,
-          40.24729905996631
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "279",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.82543969524514,
-          40.248443714758864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "292",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.83829651709219,
-          40.250703924447215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "278",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.82993868424337,
-          40.23338310806116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "276",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.525444350815945,
-          40.20501947936011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "275",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.11119901767808,
-          40.15404009131942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "274",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.07463113765535,
-          40.13458465396619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "273",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.08086919607324,
-          40.13517984987122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "272",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.66221890545985,
-          40.08083465993015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "271",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.64787021402484,
-          40.10574385059908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "270",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.637387438967615,
-          40.09796604448744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "269",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.60615032878916,
-          40.093052527889306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "268",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.62918442556007,
-          40.0919353517946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "267",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.620400599746525,
-          40.08401832130262
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "266",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.61518713780958,
-          40.082101812362566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "265",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.61548670647012,
-          40.08130879345618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "277",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8312144817607,
-          40.23326684218692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "352",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.05259050694945,
-          40.22419403827651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.824579689117854,
-          36.58468939434765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "354",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.281847302949664,
-          40.23718456253352
+          49.72067419009534,
+          40.21340889590403
         ]
       }
     },
@@ -35406,7 +32091,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "374",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35421,7 +32106,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "373",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35436,7 +32121,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "372",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35451,7 +32136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "371",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35466,7 +32151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "370",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35481,7 +32166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "369",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35496,7 +32181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "368",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35509,54 +32194,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "377",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.783632995919206,
-          40.22435775494344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "353",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.17564521415396,
-          40.24181239780014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "375",
-        "Date": "20231101",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.72067419009534,
-          40.21340889590403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "367",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35569,9 +32209,339 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "384",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.04749635556748,
+          40.23170463947612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "406",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.783487741862274,
+          40.22554177444692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "385",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.06875740902316,
+          40.23474778845231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "387",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.04685390199015,
+          40.23957285956519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "404",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.63983769481612,
+          40.23694516337916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "403",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.65677647575847,
+          40.23063754513371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "402",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6188342890108,
+          40.22542160182444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "401",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.61136661801407,
+          40.22357031591415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "400",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.60265079679373,
+          40.22066878074607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "399",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.59337864460549,
+          40.21759872289795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "398",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.52659645475269,
+          40.20042559220207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "397",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.63360224473077,
+          40.32454374455862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "396",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.63775768875183,
+          40.31690659782473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "395",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.62787946316037,
+          40.33032192913471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "394",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61246464799338,
+          40.32739992810496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "393",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.627172487049066,
+          40.31676409845332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "392",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6290598003049,
+          40.31603471160471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "391",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5879935600817,
+          40.30902678715761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "390",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.29416779382199,
+          40.260925131553456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "389",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.27567173063323,
+          40.28946216500533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "388",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.26836061839104,
+          40.27644720671949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "386",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.05825703333056,
+          40.23608709309117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "366",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35584,9 +32554,1254 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "448",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5292317643901,
+          40.3584435202505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "450",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50568559981412,
+          40.36733596231032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "508",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.21039350264098,
+          40.50930540216749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "507",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.20924865617772,
+          40.50744687321818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "506",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.22769560170404,
+          40.49414356442824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "505",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.32870549697159,
+          40.48493142868069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "504",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.283930301774056,
+          40.46493174531319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "503",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.28419630468738,
+          40.46399630733217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "502",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.348547816588784,
+          40.44358171547339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "501",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.28364696781401,
+          40.44369861428923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "500",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.28610887800511,
+          40.44392409526228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "499",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.28126647907091,
+          40.43632560950756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "498",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.866864009323216,
+          40.36981590390777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "497",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.54706840315316,
+          40.43907581192021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "496",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.54706840315316,
+          40.43907581192021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "495",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.45297450472641,
+          40.42275742772921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "494",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.376753860419136,
+          40.4138886100314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "493",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.38031019162735,
+          40.4077456380541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "492",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.357034206368965,
+          40.41471130067141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "509",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.23400459680718,
+          40.48969941076977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "491",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.35784401179198,
+          40.410475602730926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "510",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2536765330324,
+          40.51635294556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "512",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.32033834273879,
+          40.49687301508661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "529",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.30199179542163,
+          40.551208806235536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "528",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.30317909669375,
+          40.54498990417285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "527",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3125810919798,
+          40.54444681781087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "526",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2484990689272,
+          40.53194099173123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "525",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.245237427908606,
+          40.523115831510566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "524",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.113411160140735,
+          40.52480863697672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "523",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1499963662034,
+          40.51866959856165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "522",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.32205044127037,
+          40.51496277997239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "521",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.316987240225416,
+          40.51403292496155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "520",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.32865891618353,
+          40.5123981188141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "519",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.31285958678515,
+          40.5093912677982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "518",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.32354447696235,
+          40.509522368049225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "517",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.33715785963012,
+          40.51021585162472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "516",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.33117656443746,
+          40.50829026446535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "515",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.318086265194495,
+          40.50249278270667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "514",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.33284965899348,
+          40.50421204353621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "513",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.31690860373753,
+          40.50077099840614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "511",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.319351086998864,
+          40.49619159450362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "449",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5281451752503,
+          40.35959653194359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "490",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.30075747259736,
+          40.42221781487923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "488",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.93470319868178,
+          40.35040675493033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "466",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.06900341320545,
+          40.34791698651078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "465",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.08149173602851,
+          40.3489645414507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "464",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.92894919258625,
+          40.33973996241995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "463",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.91086764660465,
+          40.33649616167632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "462",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.96015089434103,
+          40.33441786491475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "461",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83804508698029,
+          40.32225105668451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "460",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83826707614215,
+          40.31247139763083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "459",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83669801383619,
+          40.311012812533065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "458",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83239945197029,
+          40.30585861994356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "457",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83227175159975,
+          40.30510124573734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "456",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83087444631407,
+          40.30366552403952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "234",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.86702016563381,
+          40.23237311315675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "455",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7650233933303,
+          40.294990197900376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "454",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.76400582756101,
+          40.29448272293196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "453",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.76313108422848,
+          40.29306865551524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "452",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.77471089482026,
+          40.29398126839434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "451",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5095359094129,
+          40.37322792914366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "467",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.09446593310115,
+          40.34545328309199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "489",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.91606711556568,
+          40.35481513613027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "468",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.08149173602851,
+          40.3489645414507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "470",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.152916466482495,
+          40.34531164405828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "487",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.91351631467123,
+          40.3467956040224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "486",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8538026969448,
+          40.36529931759943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "485",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83855088215585,
+          40.35822347187285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "484",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.84971259282543,
+          40.35142917125138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "483",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8476011161808,
+          40.34517911765138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "482",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.853493022853,
+          40.344530260596095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "481",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.84272541207761,
+          40.33911567307955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "480",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83664972989599,
+          40.35824770154473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "479",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83084481923414,
+          40.353633668728165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "478",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83697319338215,
+          40.348898210118605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "477",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.48139707130358,
+          40.39847095576646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "476",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.48191300547207,
+          40.397475511224094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "475",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.37853477209861,
+          40.3986972413654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "474",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.38151439366615,
+          40.39492681119914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "473",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.210175596965634,
+          40.350758866045545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "472",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.15619590392908,
+          40.35923326626632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "471",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.15911722813379,
+          40.35471664911883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "469",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.094901019794406,
+          40.36400253120499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "365",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35599,9 +33814,969 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "1",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.824579689117854,
+          36.58468939434765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "363",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.69222101116077,
+          40.28719241330176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "313",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.06477527078003,
+          40.19713772678952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "312",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.06691456714151,
+          40.18664702566002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "311",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.65480105630037,
+          40.139626146150384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "310",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.65055917676092,
+          40.13367384583752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "309",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.66249331912382,
+          40.13456118922653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "308",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6521338791548,
+          40.12962696276729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "307",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.66245125640821,
+          40.12663429215682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "306",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.67401327407128,
+          40.124182256289714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "305",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6523385945306,
+          40.1153871353734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "304",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.66423797686939,
+          40.11511214120511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "303",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.64130372076783,
+          40.12022744620638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "302",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.53466592979409,
+          40.09947964623749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "301",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.57552502882578,
+          40.10189058252974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "300",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.54687036485012,
+          40.09606376870822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "299",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.49952968480616,
+          40.10664122636527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "298",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.50756259097277,
+          40.09996122358231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "297",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.49739197358344,
+          40.09211597832466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "296",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.52346718763818,
+          40.092512635593415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "295",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.89389313194032,
+          40.24754818169012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "294",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.91501881676203,
+          40.24623620598285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "293",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82895710629069,
+          40.2556151297644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "292",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83829651709219,
+          40.250703924447215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "291",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.85933121151244,
+          40.25122587307003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "314",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.29081810677579,
+          40.22121809055681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "315",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.57738641056155,
+          40.24518810192288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "316",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.541893280516106,
+          40.24317343700107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "317",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.54776366203115,
+          40.24900267417025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "341",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.77739894229335,
+          40.270852017171855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "340",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.77173184632517,
+          40.27004836502687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "339",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.80015525124372,
+          40.2725564986894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "338",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.77960478662992,
+          40.27002260552545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "337",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7947792791497,
+          40.270129936856094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "336",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.78465884573091,
+          40.26263623072812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "335",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7986609774266,
+          40.26347246286304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "334",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.811879662009424,
+          40.26379552958353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "333",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.81410391042356,
+          40.26315294089253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "332",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.741865618976064,
+          40.28440522818969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "331",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.73421844401807,
+          40.28366562355379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "290",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83253557995788,
+          40.2467538066879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "330",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.72886213247829,
+          40.28252493306441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "328",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.72804941989736,
+          40.28131505784653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "327",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.75208659939757,
+          40.279014876336966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "326",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.74609751516092,
+          40.27475101678322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "325",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.75296133903999,
+          40.26755213984387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "324",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6037451203676,
+          40.24427803220981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "323",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.59634901467163,
+          40.23996079196024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "322",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.53785940529772,
+          40.25746979958088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "321",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.55068578600826,
+          40.25740707023234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "320",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5560332763169,
+          40.25693914246755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "319",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.56193260099106,
+          40.25178898888296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "318",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.57298594099726,
+          40.25302203789661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "329",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.72184299213748,
+          40.28108103679483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "342",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.767075076044215,
+          40.27476508127633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "289",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.85500918446629,
+          40.243354551173816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "287",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87977054591793,
+          40.24287039470995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "258",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.56509519240328,
+          40.07929225948935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "257",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.57156283127549,
+          40.07753440983354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "256",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5512055596242,
+          40.071864538573216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "255",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5806242657612,
+          40.07483352527717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "254",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.582960604962615,
+          40.07371627476934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "253",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.59269411230908,
+          40.070412388386366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "252",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.59373335812519,
+          40.06976668559087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "364",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35614,45 +34789,705 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "376",
+        "field_1": "250",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.78650529875272,
-          40.21840318801027
+          49.59551211804275,
+          40.069268324038575
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "362",
+        "field_1": "249",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.56724804186429,
-          40.268391072000696
+          49.51304015436212,
+          40.08449292597451
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "361",
+        "field_1": "248",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.56230032607736,
-          40.26318815623607
+          49.535753455303606,
+          40.08743941038384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "247",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.906787282178165,
+          40.23852230502436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "246",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.90505586915766,
+          40.236323043516464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "245",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.91637092370798,
+          40.23603814166316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "244",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.90218283732389,
+          40.23195249314161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "243",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.89796738233984,
+          40.22773577009518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "242",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.923161214420105,
+          40.23103105182109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "241",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.90509348799616,
+          40.22199489278472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "240",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.89796330314321,
+          40.22109867670543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "239",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.89907138870835,
+          40.216214417025135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "238",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.90654637630029,
+          40.2135592823515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "237",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9156032522589,
+          40.20907534581923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "236",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88955757564296,
+          40.23806254793651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "259",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.57398300162868,
+          40.0885679068417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "260",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.57200271037854,
+          40.08968752590954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "261",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6240246382677,
+          40.07228244406531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "262",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.62000417963794,
+          40.077663447161406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "286",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88110431691168,
+          40.24303796556522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "285",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.84051159157878,
+          40.23544901845492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "284",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.868587304539,
+          40.23865389783998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "283",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88955757564296,
+          40.23806254793651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "282",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82895710629069,
+          40.2556151297644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "281",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82401748555879,
+          40.25255179207657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "280",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.80054637578152,
+          40.24729905996631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "279",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82543969524514,
+          40.248443714758864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "278",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82993868424337,
+          40.23338310806116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "277",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8312144817607,
+          40.23326684218692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "276",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.525444350815945,
+          40.20501947936011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "288",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.86627917112694,
+          40.24467820272811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "275",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11119901767808,
+          40.15404009131942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "273",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.08086919607324,
+          40.13517984987122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.88908707286099,
+          36.577468828006175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "271",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.64787021402484,
+          40.10574385059908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "270",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.637387438967615,
+          40.09796604448744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "269",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.60615032878916,
+          40.093052527889306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "268",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.62918442556007,
+          40.0919353517946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "267",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.620400599746525,
+          40.08401832130262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "266",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.61518713780958,
+          40.082101812362566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "265",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.61548670647012,
+          40.08130879345618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "264",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.60910033266742,
+          40.0785371129079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "263",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.63318429081558,
+          40.080112085666784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "274",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.07463113765535,
+          40.13458465396619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "343",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.78022612629907,
+          40.27982709861577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "251",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.56834242290841,
+          40.066623057935296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "349",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.97148006346034,
+          40.19641081599459
         ]
       }
     },
@@ -35661,7 +35496,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "355",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35674,9 +35509,159 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "354",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.281847302949664,
+          40.23718456253352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "353",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.17564521415396,
+          40.24181239780014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "352",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.05259050694945,
+          40.22419403827651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "351",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0589298741609,
+          40.21486000729002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "350",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.06473476440272,
+          40.19731732405187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "348",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.793099513495925,
+          40.18350843826189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "347",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.473998569654505,
+          40.130517781218586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "346",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.485409497747526,
+          40.131626405062256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "345",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.48346977957412,
+          40.13103468547087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "344",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.47345457444472,
+          40.12923762611271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "356",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35691,7 +35676,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "357",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35706,7 +35691,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "358",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35721,7 +35706,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "359",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35736,7 +35721,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "360",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -35749,15 +35734,225 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "363",
+        "field_1": "361",
         "Date": "20231101",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.69222101116077,
-          40.28719241330176
+          50.56230032607736,
+          40.26318815623607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "362",
+        "Date": "20231101",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.56724804186429,
+          40.268391072000696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.690710367225385,
+          39.47699112562811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.456211211148016,
+          41.22371010403204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.48862842827972,
+          41.20984588746989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51114835063533,
+          41.15911852669283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.53394005759103,
+          41.13258789093784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.65640857499373,
+          39.4752059302897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.924782007826025,
+          39.50138986847143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.888743041241504,
+          39.50134467211016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.86821562420048,
+          41.0254362456092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.90329497622382,
+          39.4975614294339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.69289285931657,
+          41.07422216167454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.88767664869731,
+          39.49322970878803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.98006976718737,
+          39.48190368505399
         ]
       }
     },
@@ -35766,7 +35961,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -35781,7 +35976,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -35794,114 +35989,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "83",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.71300294455147,
-          39.50613544460936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.73842373637194,
-          39.50511186084413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.80153916469071,
-          39.51750777374172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.826283629860754,
-          39.49899894225725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.852790878498745,
-          39.506432522125365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.87029502275049,
-          39.5098437047917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.83466528784423,
-          39.50837338640174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "96",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -35914,339 +36004,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "91",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.83513100886279,
-          39.51007024562861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "95",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.92494065708385,
-          39.50959901717435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "94",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.83236646299208,
-          39.52022501714142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.819064148004514,
-          39.51324464622555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.86921354904446,
-          39.50442763347207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.855953307440345,
-          39.51466694886544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.67376153808157,
-          39.478712269024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.86821562420048,
-          41.0254362456092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.96356508009562,
-          39.47805590603984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.91683665523804,
-          39.476316842197086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.91949096573823,
-          39.4840086144359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.93504519497121,
-          39.49195150123016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.91816492540059,
-          39.49367930524296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.88767664869731,
-          39.49322970878803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.90329497622382,
-          39.4975614294339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.66573483701313,
-          39.4925119322302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.924782007826025,
-          39.50138986847143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.98006976718737,
-          39.48190368505399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.65640857499373,
-          39.4752059302897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.6435037548526,
-          39.484138710560366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.64768076579269,
-          39.492719707241854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.690710367225385,
-          39.47699112562811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "79",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36261,7 +36021,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "80",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36274,120 +36034,255 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "73",
+        "field_1": "81",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.888743041241504,
-          39.50134467211016
+          52.67376153808157,
+          39.478712269024
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "37",
+        "field_1": "82",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.456211211148016,
-          41.22371010403204
+          52.66573483701313,
+          39.4925119322302
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "26",
+        "field_1": "83",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.84284259954214,
-          40.74965065863884
+          52.71300294455147,
+          39.50613544460936
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "35",
+        "field_1": "84",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.51114835063533,
-          41.15911852669283
+          52.73842373637194,
+          39.50511186084413
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "85",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.93368074512495,
-          39.82223935367268
+          52.80153916469071,
+          39.51750777374172
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
+        "field_1": "86",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.67580735394261,
-          39.83127714690568
+          52.86921354904446,
+          39.50442763347207
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
+        "field_1": "87",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.780305978194455,
-          39.84638685434976
+          52.826283629860754,
+          39.49899894225725
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
+        "field_1": "88",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.97166392718533,
-          39.88014226663231
+          52.852790878498745,
+          39.506432522125365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.87029502275049,
+          39.5098437047917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6435037548526,
+          39.484138710560366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.83513100886279,
+          39.51007024562861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.855953307440345,
+          39.51466694886544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.819064148004514,
+          39.51324464622555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.83236646299208,
+          39.52022501714142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.92494065708385,
+          39.50959901717435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.64768076579269,
+          39.492719707241854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.83466528784423,
+          39.50837338640174
         ]
       }
     },
@@ -36396,58 +36291,28 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "8",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.05548256187327,
-          39.98384671464203
+          53.09208090063776,
+          37.84080910495799
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
+        "field_1": "69",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.96393143998696,
-          39.99558861286936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.766933008566944,
-          39.99955004187664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.71783087161703,
-          40.13055905004324
+          52.91816492540059,
+          39.49367930524296
         ]
       }
     },
@@ -36456,7 +36321,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "12",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36469,90 +36334,120 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "13",
+        "field_1": "11",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.75866707602418,
-          40.17969564196379
+          52.71783087161703,
+          40.13055905004324
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "14",
+        "field_1": "10",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.73887690802307,
-          40.17944460063151
+          52.766933008566944,
+          39.99955004187664
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "15",
+        "field_1": "9",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.75414942422495,
-          40.19127776523958
+          52.96393143998696,
+          39.99558861286936
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "16",
+        "field_1": "8",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.73985683678228,
-          40.22633652421069
+          53.05548256187327,
+          39.98384671464203
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "17",
+        "field_1": "7",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.73456375006577,
-          40.243389130469616
+          52.97166392718533,
+          39.88014226663231
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "18",
+        "field_1": "6",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.00478321196143,
-          40.71178262916533
+          52.780305978194455,
+          39.84638685434976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.67580735394261,
+          39.83127714690568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.93368074512495,
+          39.82223935367268
         ]
       }
     },
@@ -36561,7 +36456,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36574,24 +36469,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "36",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.48862842827972,
-          41.20984588746989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "2",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36604,9 +36484,24 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "1",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.07285034412195,
+          39.77617523057756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "0",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36619,30 +36514,45 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "7",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.53394005759103,
-          41.13258789093784
+          53.81007349891849,
+          37.86557598367536
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "33",
+        "field_1": "97",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.69289285931657,
-          41.07422216167454
+          52.64295840259008,
+          39.54588414154631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.75866707602418,
+          40.17969564196379
         ]
       }
     },
@@ -36651,7 +36561,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "32",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36664,9 +36574,39 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "14",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.73887690802307,
+          40.17944460063151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.73985683678228,
+          40.22633652421069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "31",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36681,7 +36621,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "30",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36696,7 +36636,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36711,7 +36651,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "28",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36726,7 +36666,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36739,15 +36679,15 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "64",
+        "field_1": "26",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.84881853186423,
-          39.49598523859099
+          52.84284259954214,
+          40.74965065863884
         ]
       }
     },
@@ -36756,7 +36696,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36771,7 +36711,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36786,7 +36726,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "23",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36801,7 +36741,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "22",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36816,7 +36756,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -36829,225 +36769,45 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "97",
+        "field_1": "20",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.64295840259008,
-          39.54588414154631
+          53.69792400903569,
+          40.73946577379942
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "19",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.07285034412195,
-          39.77617523057756
+          53.709316138420256,
+          40.71700331046778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "63",
+        "field_1": "18",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.86790719605615,
-          39.49372011641805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.78513197643274,
-          39.46008482155173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.8279489220059,
-          39.47136450614657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.97788994279991,
-          39.10546392091532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.94974146504722,
-          39.12746572451567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.99955007766326,
-          39.13201306288256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.96226373154277,
-          39.17242274268144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.98970851949564,
-          39.24513723470785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.28228313591099,
-          39.27685443749499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.066187976469045,
-          39.34280587378614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.22320790894356,
-          39.35885551419216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.05687756811062,
-          39.39489886460527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.9485657927261,
-          39.42669071177504
+          54.00478321196143,
+          40.71178262916533
         ]
       }
     },
@@ -37056,7 +36816,82 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "17",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.73456375006577,
+          40.243389130469616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.75414942422495,
+          40.19127776523958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.93504519497121,
+          39.49195150123016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.91949096573823,
+          39.4840086144359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.91683665523804,
+          39.476316842197086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20231103",
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37071,7 +36906,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "18",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37086,7 +36921,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "19",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37101,7 +36936,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "20",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37116,7 +36951,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "21",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37129,24 +36964,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.08230881170175,
-          39.09895457668663
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "22",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37159,279 +36979,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.01847081143077,
-          36.90286613920613
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.27769834077877,
-          36.88931568674051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.03442971709179,
-          38.68146618090661
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.43749956351051,
-          38.75704956283455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.6109386968657,
-          38.82754257288786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.58359966851,
-          38.886102632057366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.0100409019762,
-          38.81068217054412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.56228278119626,
-          38.923417680422574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.8216654962861,
-          38.05227730719623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.31462850531306,
-          37.994170540833046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.31462850531306,
-          37.994170540833046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.09208090063776,
-          37.84080910495799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.81007349891849,
-          37.86557598367536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.35619549621256,
-          36.9151141389894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.36013113611816,
-          36.907421101638654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.351203758629616,
-          36.903207611695066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.27769834077877,
-          36.88931568674051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.01990090639743,
-          36.903355639743886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "23",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37446,7 +36996,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "24",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37461,7 +37011,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "25",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37474,294 +37024,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "46",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.752810875395205,
-          39.44187339841703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.78597863116818,
-          39.44624266343728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.81027456992441,
-          39.453215831008364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.79528632666746,
-          39.45329185119916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.81198640382692,
-          39.4622662725024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.709316138420256,
-          40.71700331046778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.79753496251863,
-          39.462793918625216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.76231657346329,
-          39.46827471252482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.784924195787,
-          39.47136718037556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.7450387463108,
-          39.470387060300965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.77391603889785,
-          39.48157319525826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.828080903596806,
-          39.459885648163805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.84753746474848,
-          39.46349288493137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.85588752349543,
-          39.46560576661172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.886687230242345,
-          39.47739816493786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.69883369279985,
-          39.47363450655414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.71594119490864,
-          39.47268167962784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.71834279862716,
-          39.4713614144619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20231103",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.69324539784471,
-          39.46404975095668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "26",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37776,7 +37041,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "27",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37789,9 +37054,399 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "6",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.35619549621256,
+          36.9151141389894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.36013113611816,
+          36.907421101638654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.351203758629616,
+          36.903207611695066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.27769834077877,
+          36.88931568674051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9485657927261,
+          39.42669071177504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.05687756811062,
+          39.39489886460527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.22320790894356,
+          39.35885551419216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.066187976469045,
+          39.34280587378614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.31462850531306,
+          37.994170540833046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.31462850531306,
+          37.994170540833046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8216654962861,
+          38.05227730719623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03442971709179,
+          38.68146618090661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.43749956351051,
+          38.75704956283455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.6109386968657,
+          38.82754257288786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.58359966851,
+          38.886102632057366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.27769834077877,
+          36.88931568674051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0100409019762,
+          38.81068217054412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.08230881170175,
+          39.09895457668663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.97788994279991,
+          39.10546392091532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.94974146504722,
+          39.12746572451567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.99955007766326,
+          39.13201306288256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.96226373154277,
+          39.17242274268144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.98970851949564,
+          39.24513723470785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.28228313591099,
+          39.27685443749499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.56228278119626,
+          38.923417680422574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.01990090639743,
+          36.903355639743886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "28",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37806,7 +37461,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "29",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37819,45 +37474,180 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "30",
+        "field_1": "50",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.96546304673195,
-          39.47084209040261
+          52.81198640382692,
+          39.4622662725024
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "51",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.97293334555489,
-          39.456624502705424
+          52.78513197643274,
+          39.46008482155173
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "52",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.97981990145141,
-          39.4608386878957
+          52.79753496251863,
+          39.462793918625216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.76231657346329,
+          39.46827471252482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.01847081143077,
+          36.90286613920613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7450387463108,
+          39.470387060300965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.77391603889785,
+          39.48157319525826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.79528632666746,
+          39.45329185119916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.828080903596806,
+          39.459885648163805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85588752349543,
+          39.46560576661172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.886687230242345,
+          39.47739816493786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8279489220059,
+          39.47136450614657
         ]
       }
     },
@@ -37866,7 +37656,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37879,9 +37669,144 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "63",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.86790719605615,
+          39.49372011641805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.84881853186423,
+          39.49598523859099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.96356508009562,
+          39.47805590603984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.84753746474848,
+          39.46349288493137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.81027456992441,
+          39.453215831008364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.784924195787,
+          39.47136718037556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.752810875395205,
+          39.44187339841703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.97981990145141,
+          39.4608386878957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.78597863116818,
+          39.44624266343728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "33",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37894,15 +37819,30 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "35",
+        "field_1": "34",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.66783986551858,
-          39.4667066532752
+          52.9741832334873,
+          39.47290409841836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20231103",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.97293334555489,
+          39.456624502705424
         ]
       }
     },
@@ -37911,7 +37851,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "36",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37926,7 +37866,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "37",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37939,15 +37879,15 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "38",
+        "field_1": "35",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.740971695337294,
-          39.46037538258008
+          52.66783986551858,
+          39.4667066532752
         ]
       }
     },
@@ -37956,7 +37896,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "39",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37971,7 +37911,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37986,7 +37926,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "41",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -37999,165 +37939,75 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "42",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.9741832334873,
-          39.47290409841836
+          52.69324539784471,
+          39.46404975095668
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "20",
+        "field_1": "43",
         "Date": "20231103",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.69792400903569,
-          40.73946577379942
+          52.71834279862716,
+          39.4713614144619
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "63",
-        "Date": "20231105",
-        "DaysOld": "1.0"
+        "field_1": "44",
+        "Date": "20231103",
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.87175018405701,
-          42.53502356814071
+          52.71594119490864,
+          39.47268167962784
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "68",
-        "Date": "20231105",
-        "DaysOld": "1.0"
+        "field_1": "45",
+        "Date": "20231103",
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.98251794421124,
-          42.423338060558194
+          52.69883369279985,
+          39.47363450655414
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
-        "Date": "20231105",
-        "DaysOld": "1.0"
+        "field_1": "38",
+        "Date": "20231103",
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.75070645785226,
-          44.8466630419246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.75684407126837,
-          44.79781780341862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.769501361637175,
-          44.79483850215957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.759937717263696,
-          44.77775102198855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.46824163550325,
-          44.76298013141104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.90547189982662,
-          44.59949174070236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.12943354704903,
-          44.58871822694
+          52.740971695337294,
+          39.46037538258008
         ]
       }
     },
@@ -38165,224 +38015,44 @@ var json_CaspianSea_15 = {
       "type": "Feature",
       "properties": {
         "field_1": "30",
-        "Date": "20231105",
-        "DaysOld": "1.0"
+        "Date": "20231103",
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.12943354704903,
-          44.58871822694
+          52.96546304673195,
+          39.47084209040261
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "69",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.113564605752345,
-          44.57911591700573
+          47.98433289374004,
+          42.41744691807884
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "70",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.11378131739336,
-          44.57844134261319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.57258872590887,
-          44.45703697113851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.06993941719795,
-          44.309727084208376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.07140710820874,
-          44.30871155053758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.908369004304674,
-          43.75365040435259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.10256961062258,
-          42.32120815007284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.08139799031508,
-          42.3389058094095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.92309523115867,
-          42.46822070597768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.50546025772837,
-          43.364023840073926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.634191519043966,
-          43.26913461945811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.53705786135382,
-          43.26191605110321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.49284465413719,
-          43.18614497718929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.793768501720685,
-          43.13324991095779
+          47.93863560702948,
+          42.47497344797655
         ]
       }
     },
@@ -38391,7 +38061,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "71",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -38404,90 +38074,60 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
+        "field_1": "72",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.773429767832624,
-          43.12594176213496
+          47.92309523115867,
+          42.46822070597768
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
+        "field_1": "73",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.59415377987357,
-          43.07708146082093
+          48.08139799031508,
+          42.3389058094095
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "22",
+        "field_1": "74",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.78661266363454,
-          44.8040869056469
+          48.10256961062258,
+          42.32120815007284
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "21",
+        "field_1": "4",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.77487382088317,
-          44.80764319314266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.76538045795995,
-          44.81118785366652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.7755794826089,
-          44.81483463902288
+          48.55305985565064,
+          44.995212293309415
         ]
       }
     },
@@ -38496,7 +38136,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "0",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -38511,7 +38151,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "1",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -38526,7 +38166,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "2",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -38541,7 +38181,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "3",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -38554,24 +38194,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.55305985565064,
-          44.995212293309415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "5",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -38584,9 +38209,24 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "68",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.98251794421124,
+          42.423338060558194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "75",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -38599,60 +38239,30 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "67",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.47072856959957,
-          44.96602105099294
+          47.95159755341784,
+          42.4333298989184
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "35",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.7012715133533,
-          45.04214495857983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.70326882721407,
-          45.036375034307376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.74797805598564,
-          44.84073752599237
+          47.07140710820874,
+          44.30871155053758
         ]
       }
     },
@@ -38661,7 +38271,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "4",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -38674,315 +38284,30 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
+        "field_1": "1",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.48737509489332,
-          43.1096961269489
+          47.7012715133533,
+          45.04214495857983
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
+        "field_1": "0",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.71606029948688,
-          45.00118752909618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.72724849526429,
-          44.96462491014515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.768846456932906,
-          44.876280524539816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.76113276284521,
-          44.86535512568459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.76218629105264,
-          44.8545049166768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.75023330960768,
-          44.90706563592168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.76218629105264,
-          44.8545049166768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.76291576800137,
-          44.843649983454064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.77284007514303,
-          44.835040878381726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.76574096923859,
-          44.83493644261887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.76994008674002,
-          44.82706590420339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.76301812107312,
-          44.81845043598414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.75392257778455,
-          44.8190677467725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.71869826773115,
-          45.00066648660359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.21051247424808,
-          42.947634019765566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.61117017270065,
-          43.04229304275293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.60992773260266,
-          43.02698650080229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.8838843194555,
-          42.5730365665324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.87619532823256,
-          42.57173327031884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.86446657905378,
-          42.569409968943205
+          48.47072856959957,
+          44.96602105099294
         ]
       }
     },
@@ -38991,7 +38316,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "44",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39006,7 +38331,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "45",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39021,7 +38346,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "46",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39036,7 +38361,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "47",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39051,7 +38376,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "48",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39064,60 +38389,30 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "49",
+        "field_1": "42",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.876182673400784,
-          42.54776468223899
+          47.87619532823256,
+          42.57173327031884
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "50",
+        "field_1": "41",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.82615214952279,
-          42.589730510203154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.00739339054247,
-          42.47129858443616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.89652402527645,
-          42.534924739558406
+          47.8838843194555,
+          42.5730365665324
         ]
       }
     },
@@ -39126,7 +38421,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "40",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39139,9 +38434,879 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "39",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.87339065953998,
+          42.57742972230289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.87125241883574,
+          42.57879789588132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.876182673400784,
+          42.54776468223899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.85246608743269,
+          42.58336797261849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.84356792949335,
+          42.59023823550477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.89652402527645,
+          42.534924739558406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75720253518764,
+          42.63315691308741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75127014937052,
+          42.642253218276544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.796766249635546,
+          42.6054559371736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.83617810126011,
+          42.60313487336524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.85733956374168,
+          42.63490931265792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.73345847435206,
+          42.66777569138698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71393583878834,
+          42.7593401359955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.23623803035497,
+          42.68546974587974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.712901154114896,
+          42.777387041617416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70800485128163,
+          42.8388401379373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.282619414650185,
+          42.813206009229376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.50085540000904,
+          42.99772479668037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.47504648200397,
+          43.01270663931323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70326882721407,
+          45.036375034307376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.74797805598564,
+          44.84073752599237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71606029948688,
+          45.00118752909618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71869826773115,
+          45.00066648660359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76218629105264,
+          44.8545049166768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76291576800137,
+          44.843649983454064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.77284007514303,
+          44.835040878381726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76574096923859,
+          44.83493644261887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76994008674002,
+          44.82706590420339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76301812107312,
+          44.81845043598414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75392257778455,
+          44.8190677467725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7755794826089,
+          44.81483463902288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76538045795995,
+          44.81118785366652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.77487382088317,
+          44.80764319314266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.78661266363454,
+          44.8040869056469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75070645785226,
+          44.8466630419246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75684407126837,
+          44.79781780341862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.769501361637175,
+          44.79483850215957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.47446721710082,
+          43.01413123210544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.759937717263696,
+          44.77775102198855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.90547189982662,
+          44.59949174070236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.12943354704903,
+          44.58871822694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.12943354704903,
+          44.58871822694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.113564605752345,
+          44.57911591700573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.11378131739336,
+          44.57844134261319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.57258872590887,
+          44.45703697113851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.06993941719795,
+          44.309727084208376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.86446657905378,
+          42.569409968943205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.908369004304674,
+          43.75365040435259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75023330960768,
+          44.90706563592168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76218629105264,
+          44.8545049166768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76113276284521,
+          44.86535512568459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.768846456932906,
+          44.876280524539816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72724849526429,
+          44.96462491014515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.46824163550325,
+          44.76298013141104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.90696393713771,
+          42.916079677667945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71424541715656,
+          42.74204367642058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45711886527965,
+          43.04084101504373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.89652402527645,
+          42.534924739558406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "53",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39154,9 +39319,24 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "54",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9134333218663,
+          42.51399746467831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "55",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39171,7 +39351,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "56",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39186,7 +39366,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "57",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39201,7 +39381,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "58",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39216,7 +39396,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "59",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39229,24 +39409,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "60",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.91495248208489,
-          42.49293107884934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "61",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39261,7 +39426,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "62",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39274,9 +39439,24 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "63",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.87175018405701,
+          42.53502356814071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "64",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39291,7 +39471,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "65",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39306,7 +39486,7 @@ var json_CaspianSea_15 = {
       "properties": {
         "field_1": "66",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39319,189 +39499,9 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "67",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.95159755341784,
-          42.4333298989184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.9134333218663,
-          42.51399746467831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.98433289374004,
-          42.41744691807884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.87339065953998,
-          42.57742972230289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.85246608743269,
-          42.58336797261849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.58119432435491,
-          43.04774756514321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.590101053611306,
-          43.031719495920775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.570323916620936,
-          43.029278005289214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.54480474278175,
-          43.01231039240776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.46211165419986,
-          43.06515637638514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.46011326223258,
-          43.06486707777774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20231105",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.45711886527965,
-          43.04084101504373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "18",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -39514,285 +39514,330 @@ var json_CaspianSea_15 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
+        "field_1": "51",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.90696393713771,
-          42.916079677667945
+          48.00739339054247,
+          42.47129858443616
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "20",
+        "field_1": "50",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.47446721710082,
-          43.01413123210544
+          47.82615214952279,
+          42.589730510203154
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "21",
+        "field_1": "60",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.47504648200397,
-          43.01270663931323
+          47.91495248208489,
+          42.49293107884934
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "22",
+        "field_1": "1",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.50085540000904,
-          42.99772479668037
+          47.634191519043966,
+          43.26913461945811
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "38",
+        "field_1": "16",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.87125241883574,
-          42.57879789588132
+          47.46011326223258,
+          43.06486707777774
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
+        "field_1": "0",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.282619414650185,
-          42.813206009229376
+          47.50546025772837,
+          43.364023840073926
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "25",
+        "field_1": "15",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.712901154114896,
-          42.777387041617416
+          47.46211165419986,
+          43.06515637638514
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "26",
+        "field_1": "14",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.23623803035497,
-          42.68546974587974
+          47.54480474278175,
+          43.01231039240776
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "27",
+        "field_1": "13",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.71393583878834,
-          42.7593401359955
+          47.570323916620936,
+          43.029278005289214
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "28",
+        "field_1": "11",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.71424541715656,
-          42.74204367642058
+          47.58119432435491,
+          43.04774756514321
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "29",
+        "field_1": "10",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.73345847435206,
-          42.66777569138698
+          47.60992773260266,
+          43.02698650080229
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "30",
+        "field_1": "12",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.85733956374168,
-          42.63490931265792
+          47.590101053611306,
+          43.031719495920775
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "4",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.83617810126011,
-          42.60313487336524
+          47.793768501720685,
+          43.13324991095779
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "8",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.796766249635546,
-          42.6054559371736
+          48.21051247424808,
+          42.947634019765566
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "33",
+        "field_1": "7",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.75127014937052,
-          42.642253218276544
+          47.48737509489332,
+          43.1096961269489
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "2",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.75720253518764,
-          42.63315691308741
+          47.53705786135382,
+          43.26191605110321
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "35",
+        "field_1": "6",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.89652402527645,
-          42.534924739558406
+          47.59415377987357,
+          43.07708146082093
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "36",
+        "field_1": "5",
         "Date": "20231105",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.84356792949335,
-          42.59023823550477
+          47.773429767832624,
+          43.12594176213496
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "24",
+        "field_1": "9",
         "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.61117017270065,
+          43.04229304275293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231105",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.49284465413719,
+          43.18614497718929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20231106",
         "DaysOld": "1.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.70800485128163,
-          42.8388401379373
+          47.71626234777434,
+          42.7678963430108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71405656583363,
+          42.77177460936012
         ]
       }
     },
@@ -39800,14 +39845,3779 @@ var json_CaspianSea_15 = {
       "type": "Feature",
       "properties": {
         "field_1": "70",
-        "Date": "20231105",
+        "Date": "20231106",
         "DaysOld": "1.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.93863560702948,
-          42.47497344797655
+          47.71331884527277,
+          42.77274421536711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.42534643851047,
+          42.90665017462304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.07390371150536,
+          42.8263280517368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.09433679152649,
+          42.8107880151718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71659695485545,
+          42.7615729348935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71259301360299,
+          42.80890534200162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.715145586356286,
+          42.77712091639113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71617981564533,
+          42.73693817284981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.532309215267205,
+          43.04870351888291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72030490378205,
+          42.70068804712295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71467781523444,
+          42.69464113164117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.16497822642712,
+          42.74646782338409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.730718336215546,
+          42.68043704886168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.737026773690495,
+          42.66770376962536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.188482087417086,
+          42.71212761963064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "102",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.52934426501022,
+          43.04953425098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "103",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45116952724977,
+          43.05291225908289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.705523118615744,
+          42.84852571573165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "104",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45120848130546,
+          43.05411699784122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71902431354936,
+          42.701129175315366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70424870323192,
+          42.85288811253765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.50312970431786,
+          42.99869471388185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.886613135330414,
+          42.92312528971795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "105",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45637918106841,
+          43.07349669696139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.47750041587559,
+          43.013501156403166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.47228809781859,
+          43.01257528168318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.47971969297926,
+          43.00773190951491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.99004808874247,
+          43.04165910848898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53669876774196,
+          42.995169387235066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.49668199526081,
+          42.99710715809706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.54265600422804,
+          43.00680145946597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53991827175827,
+          43.00752182208443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.503039689358246,
+          43.01054343121071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.57162258735188,
+          43.02992642301977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.59094092300093,
+          43.03270062905224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.467041799053895,
+          43.03102814284904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.46870775294764,
+          43.03557352486112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.46090677262368,
+          43.03898683352506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45116952724977,
+          43.05291225908289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.52642226126107,
+          43.03712714722645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.552393640957085,
+          42.967407435721256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.60787437943058,
+          42.94728369148978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.552393640957085,
+          42.967407435721256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.38346672866406,
+          42.979947560732576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.46728158571647,
+          42.95945621668656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "106",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.59482953871962,
+          43.07752230432005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87600247770916,
+          38.86028323703679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "108",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.470551670182985,
+          43.10626964943887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.230854046699086,
+          37.554222469931865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.23216646513405,
+          37.55370479557806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.23323710292531,
+          37.55324724299663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.48055004923624,
+          37.54310679609463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.47490690751436,
+          37.53125181864544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.42418088662632,
+          37.52846344981642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.43075293623514,
+          37.52651719469397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.39022435513381,
+          37.54146606545039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.50157067508162,
+          37.51924349898655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.49383707752805,
+          37.516662817623306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.49746560965836,
+          37.51151051456559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.47078147287378,
+          37.51876477560011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.46919495390301,
+          37.51002330923383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.61299130766464,
+          37.51019920559579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.46565862493613,
+          37.48105208922991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.65165035454164,
+          37.47091205141578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6563195261877,
+          37.460776978748406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.65868264479259,
+          37.45965466636779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7953149302449,
+          37.4473905603861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.807613701451,
+          37.44648427095208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.84568623132892,
+          37.445529883042944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2228114136447,
+          37.557306184315074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.46728683955816,
+          37.562912945833816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.139753588500575,
+          37.60761320904734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.12222573475784,
+          37.61991344944019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "109",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.47073124972805,
+          43.10698415362724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "110",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.33491930077735,
+          43.22808947410321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "111",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.49036965347734,
+          43.17651801136277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "112",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.494809554056594,
+          43.18588252599061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "113",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.44719680970685,
+          43.40493148429074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "114",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.25666952600884,
+          43.41657677880038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "115",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.25163868036482,
+          43.43350891081368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "116",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.240346133525584,
+          43.44037701917903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "117",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.50645645788836,
+          43.364218956680304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "118",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.48101858907216,
+          43.380814712738434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "107",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.46949615371424,
+          43.09644783929115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "119",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.24389343095556,
+          43.44497485094108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "121",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.43070711662215,
+          43.48339396583674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "122",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.58642322752485,
+          43.57531784195013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "123",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17970103363866,
+          43.80593031203865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "124",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.16933261519668,
+          43.80693586140018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "125",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.223586036789634,
+          43.885649165088616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75600129487171,
+          42.641964657240685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.98520720301279,
+          37.774520316421466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.062202813442205,
+          37.66807027011812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.062202813442205,
+          37.66807027011812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.11573772089645,
+          37.62453866177429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "120",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.23691842910804,
+          43.449771543581015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37625954119199,
+          42.70285784649276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.87259094838359,
+          42.54942616978513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7955052599049,
+          42.60516660538053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.303873378050206,
+          42.05823891171159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30275054091844,
+          42.04653864796793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.31555880365518,
+          42.046266088705565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.32643167790144,
+          42.0269532673954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.33216433720893,
+          42.02700371050159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2970572577019,
+          42.03754861028931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.29934292367194,
+          42.03045801955934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.29888493325378,
+          42.02860521323431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30592302446954,
+          42.02076166181897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.33711263220115,
+          42.010979485810246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.34680867086436,
+          41.98162410106766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.31886393138299,
+          41.991208235936966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.34680867086436,
+          41.98162410106766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37490735018781,
+          41.966200735082886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.34830609321934,
+          41.94436562305584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2862902372453,
+          42.05917061753906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.38585547578391,
+          41.9349737625734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30674994027687,
+          42.065961912313085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27677048051316,
+          42.07509545825826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7025603366554,
+          45.04138704927757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1175848215577,
+          42.33649838945984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.129820581003976,
+          42.25178758406667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.19841789974885,
+          42.18118991245036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.212546565823295,
+          42.177802848709504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2568884022643,
+          42.16737603737384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.26285443670489,
+          42.15456220146972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.23877913618303,
+          42.13876458705001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.26898418291954,
+          42.116984878859085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27755218766989,
+          42.11199888582065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.274384023097575,
+          42.1044707152952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.274384023097575,
+          42.1044707152952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.285761954398815,
+          42.10549515475931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27341318135444,
+          42.10329231407477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.28983947909232,
+          42.08673889733437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.31555880365518,
+          42.046266088705565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.39275814220608,
+          41.92835255049132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51299521315195,
+          41.922685899481095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.38620510747406,
+          41.91572144483942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.89484964691458,
+          38.18399604904933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.95649822414919,
+          38.19991078789885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88313962093265,
+          38.22350512495196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8830866320627,
+          38.24428504430741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.880538508134606,
+          38.25757330169439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8790615675943,
+          38.26481407537018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87612539950158,
+          38.30479571868047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86850528760697,
+          38.30586280778088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.872981784742095,
+          38.31412474988215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88054586673979,
+          38.46675890373371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88171243207393,
+          38.52029916808398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87516831901674,
+          38.659445213899765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.14271544715216,
+          38.71506190574396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.06804014023738,
+          38.774920054994695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.11938362297707,
+          38.87373299809086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.89393511856384,
+          38.18336624788394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.90418296227927,
+          38.13724199514451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.89918434935223,
+          38.13195688077157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8966600981132,
+          38.11614492080909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.66924202734895,
+          41.91825187204399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.57754131091031,
+          41.84903439210844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.58308261954553,
+          41.848458705011446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.58319258694373,
+          41.847643588320345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.59098850192319,
+          41.84356574606877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.78125986066565,
+          41.667177337962464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2974101389861,
+          39.21529865635473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70461177638861,
+          45.03587398157229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.29840567513974,
+          39.20713378189389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.26509493962449,
+          39.04149364960144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.91560189877051,
+          38.04512249652121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.91013236844695,
+          38.04684170373381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.90581871281943,
+          38.08207034404491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.90409937561783,
+          38.085629435215175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.91219067108425,
+          38.10296878463407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.90340376483807,
+          38.10346129253541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.33247270852181,
+          39.01571822512174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71700479582794,
+          45.001518390359735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.71979964926603,
+          45.00055055385891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72857488540367,
+          44.96375872527402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.84900578339847,
+          42.57066423576558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.332577983867246,
+          39.015224819002185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.88346163293978,
+          42.539569619519696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.895992062503765,
+          42.53613656868184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.910918936939545,
+          42.52271030852458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.18971765303248,
+          42.54283230331136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.90153237967572,
+          42.51685563773067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.88632959184073,
+          42.509350647116285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9238086932435,
+          42.50350283226064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.886759693254525,
+          42.49764416982983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.93352710069966,
+          42.48930005516262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.886759693254525,
+          42.49764416982983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.55986765604865,
+          42.56361234266174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.00987684969187,
+          42.470842188369794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.01099454191223,
+          42.46646271026373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8920834843309,
+          42.554557527811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.897003202449646,
+          42.56382768471307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.89804556067234,
+          42.564139962960105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8975943285495,
+          42.56472997276476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.78093664593848,
+          42.61632058657485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.78909416932643,
+          42.61069034819728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.86632427958996,
+          42.59227391970535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.81393360903743,
+          42.604361592861416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.84035050866306,
+          42.60288725577173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.830537182483575,
+          42.59507540829886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.83076817357159,
+          42.588647477998784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.93352710069966,
+          42.48930005516262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.833107783956535,
+          42.58700071169623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.86200529049277,
+          42.58754167711111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.36693264314843,
+          42.63495971948101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.88732436361801,
+          42.57757615076698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.88020825835938,
+          42.5756889139495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.89224481218622,
+          42.57283232037649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.88896726991803,
+          42.5675899260949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.897596179784536,
+          42.56602094092233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.84058720360724,
+          42.58691390590556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.85438651415223,
+          42.64161173457849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.93469733240812,
+          42.4724800351897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.91273948666026,
+          42.465632446227495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.94372252718519,
+          44.5658719759622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.130364838287306,
+          44.58850241886188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30146496235929,
+          44.71389323096462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.78074035324551,
+          44.76309680515465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76084943046818,
+          44.77382506639817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75751311821426,
+          44.79877959532645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75441637554502,
+          44.82215190990999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.77657147271511,
+          44.815268357108586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.76382593860948,
+          44.81913934541364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75047919396674,
+          44.85471608661848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.766439333257566,
+          44.83751029948071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.771357119252336,
+          44.84952379398317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75047919396674,
+          44.85471608661848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75174140921639,
+          44.90332578301369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75072377778524,
+          44.92298091202388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.07250186371697,
+          44.30865227869254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.38248832016983,
+          44.32652209228926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.77690510538336,
+          44.10902203863174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30042848874283,
+          44.05969026326766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.92646714740654,
+          42.46745797943334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.94944821931199,
+          42.46051005285299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.38260505012997,
+          42.4811278504855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.17107982747695,
+          42.46650673030853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.13864028750835,
+          42.45289044888455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.95891626224892,
+          42.45425249519816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.95311868946997,
+          42.43284205508396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.91283917640492,
+          42.46679720012005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27741611379432,
+          42.43866026144521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0397997816997,
+          42.43290258353361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.987621564309215,
+          42.41703444270571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.99686875745209,
+          42.40540402071269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.96997914872052,
+          42.42279242932568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.02877343772641,
+          42.37678926026443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.04844899128332,
+          42.36091379312335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.049427454740496,
+          42.3601124850618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.19386256591192,
+          42.44638441597528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20231106",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.22846266150749,
+          42.15031005629972
         ]
       }
     }
