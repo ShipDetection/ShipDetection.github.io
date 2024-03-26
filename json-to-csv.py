@@ -26,7 +26,7 @@ debugcount = 0
 for i in glob("points/data/*.js"):
     
     data = open(i).read()
-    
+    print(i)
     # remove var ... =
     data = re.sub("var [a-zA-Z0-9_]+\s*\=\s*", "", data)
     
