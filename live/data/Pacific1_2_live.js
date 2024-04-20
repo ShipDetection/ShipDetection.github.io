@@ -6,7 +6,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "0",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "1",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "2",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "3",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "4",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "5",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "6",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "7",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "8",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "9",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@ var json_Pacific1_2 = {
       "properties": {
         "field_1": "10",
         "Date": "20240408",
-        "DaysOld": "11.0"
+        "DaysOld": "12.0"
       },
       "geometry": {
         "type": "Point",
