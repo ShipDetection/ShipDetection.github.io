@@ -6,7 +6,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20240704",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
