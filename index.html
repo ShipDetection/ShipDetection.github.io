@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
         <!-- Google tag (gtag.js) -->
        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9HW872JXR"></script>
@@ -26,7 +28,6 @@
 <link rel="stylesheet" href="MAPS/leaflet.css" />
 
 <script src="MAPS/leaflet.js"></script>
-
 <script src="js/leaflet.js"></script>
 <script src="js/leaflet.rotatedMarker.js"></script>
 <script src="js/leaflet.pattern.js"></script>
@@ -36,43 +37,62 @@
 <script src="js/labelgun.min.js"></script>
 <script src="js/labels.js"></script>
 <script src="js/leaflet-measure.js"></script>
-<div id="map" style="width:100%; height:94%; position: absolute; bottom: 0px; left: 0px;"></div>
 
-<script>
+<body>
+        <div id="map" style="width:100%; height:94%; position: absolute; bottom: 0px; left: 0px;"></div>
 
-let map = L.map('map').setView([0,0], 3);
+        <script>
 
-// // L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxNativeZoom: 19, maxZoom: 25, opacity: 0.5}).addTo(map);
-L.tileLayer('TILES/{z}/{x}/{y}.png', {errorTileUrl: 'TILES/dragontile.png', maxNativeZoom: 12, maxZoom: 25}).addTo(map);
-var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
-        var measureControl = new L.Control.Measure({
-            position: 'topleft',
-            primaryLengthUnit: 'meters',
-            secondaryLengthUnit: 'kilometers',
-            primaryAreaUnit: 'sqmeters',
-            secondaryAreaUnit: 'hectares'
-        });
-        measureControl.addTo(map);
-        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
-        .innerHTML = '';
-        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
-        .className += ' fas fa-ruler';
-        var bounds_group = new L.featureGroup([]);
-        function setBounds() {
-        }
-map.createPane('pane_GoogleSatellite_0');
-        map.getPane('pane_GoogleSatellite_0').style.zIndex = 400;
-        var layer_GoogleSatellite_0 = L.tileLayer('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
-            pane: 'pane_GoogleSatellite_0',
-            opacity: 0.45,
-            attribution: '<a href="https://www.google.at/permissions/geoguidelines/attr-guide.html">Map data ©2015 Google</a>',
-            minZoom: 1,
-            maxZoom: 28,
-            minNativeZoom: 0,
-            maxNativeZoom: 20
-        });
-        layer_GoogleSatellite_0;
-        map.addLayer(layer_GoogleSatellite_0);
+                let map = L.map('map').setView([0,0], 3);
+
+                // // L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxNativeZoom: 19, maxZoom: 25, opacity: 0.5}).addTo(map);
+                L.tileLayer('TILES/{z}/{x}/{y}.png', {errorTileUrl: 'TILES/dragontile.png', maxNativeZoom: 12, maxZoom: 25}).addTo(map);
+                var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+                        var measureControl = new L.Control.Measure({
+                        position: 'topleft',
+                        primaryLengthUnit: 'meters',
+                        secondaryLengthUnit: 'kilometers',
+                        primaryAreaUnit: 'sqmeters',
+                        secondaryAreaUnit: 'hectares'
+                        });
+                        measureControl.addTo(map);
+                        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
+                        .innerHTML = '';
+                        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
+                        .className += ' fas fa-ruler';
+                        var bounds_group = new L.featureGroup([]);
+                        function setBounds() {
+                        }
+                // Load the GeoJSON polyline
+                fetch('data/EEZ.geojson')
+                .then(response => response.json())
+                .then(data => {
+                        L.geoJSON(data, {
+                        style: function(feature) {
+                                return {
+                                color: '#ff7800', // Line color
+                                weight: 5,       // Line thickness
+                                opacity: 0.65    // Line opacity
+                                };
+                        }
+                        }).addTo(map);
+                });
+
+                map.createPane('pane_GoogleSatellite_0');
+                        map.getPane('pane_GoogleSatellite_0').style.zIndex = 400;
+                        var layer_GoogleSatellite_0 = L.tileLayer('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
+                        pane: 'pane_GoogleSatellite_0',
+                        opacity: 0.45,
+                        attribution: '<a href="https://www.google.at/permissions/geoguidelines/attr-guide.html">Map data ©2015 Google</a>',
+                        minZoom: 1,
+                        maxZoom: 28,
+                        minNativeZoom: 0,
+                        maxNativeZoom: 20
+                        });
+                        layer_GoogleSatellite_0;
+                        map.addLayer(layer_GoogleSatellite_0);
 
 
-</script>
+        </script>
+</body>
+</html>
