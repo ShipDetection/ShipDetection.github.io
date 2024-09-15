@@ -16714,6 +16714,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "48",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5007120310217,
+          21.80189592000545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "47",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -16768,21 +16783,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           88.6643346553881,
           22.01988357178006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.71565562346687,
-          22.0064652339121
         ]
       }
     },
@@ -17104,15 +17104,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "42",
+        "field_1": "43",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.52406509107838,
-          21.828053277161725
+          88.71565562346687,
+          22.0064652339121
         ]
       }
     },
@@ -17134,15 +17134,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "41",
+        "field_1": "42",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.55924403487414,
-          21.83965801242189
+          89.52406509107838,
+          21.828053277161725
         ]
       }
     },
@@ -18994,15 +18994,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "48",
+        "field_1": "41",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.5007120310217,
-          21.80189592000545
+          89.55924403487414,
+          21.83965801242189
         ]
       }
     },
@@ -19024,120 +19024,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "124",
+        "field_1": "131",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.71753324983816,
-          22.864541173571247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "125",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.72486510097914,
-          22.860749147627264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "126",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.72653794665337,
-          22.85974789547508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "127",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.72846380048075,
-          22.851495195591667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "128",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.72554381439308,
-          22.846121826147243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "129",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.64940982418504,
-          22.88272024242987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "123",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.39265756856918,
-          22.95235164160337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "130",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.63785698046767,
-          22.895735086990747
+          90.63435978753316,
+          22.884009689764834
         ]
       }
     },
@@ -19219,6 +19114,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "130",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.63785698046767,
+          22.895735086990747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "137",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -19234,165 +19144,150 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "131",
+        "field_1": "139",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.63435978753316,
-          22.884009689764834
+          90.73082686998514,
+          22.768244974937925
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "122",
+        "field_1": "140",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.39257872463946,
-          22.952926578342904
+          90.69587145899293,
+          22.78700004711284
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "121",
+        "field_1": "141",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.36715443409918,
-          22.961247211574985
+          90.72262049099724,
+          22.779308027246685
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "120",
+        "field_1": "142",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.6335837452905,
-          22.908990469084205
+          90.69086055942331,
+          22.821026256719577
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "105",
+        "field_1": "143",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.64170853346867,
-          22.99024306561739
+          90.64141755058124,
+          22.804004807268427
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "106",
+        "field_1": "144",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.64245574856332,
-          22.985011742753947
+          90.50123874246736,
+          22.82382311227804
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "107",
+        "field_1": "138",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.60388597617516,
-          23.01988904835072
+          90.74930696607964,
+          22.764920548358
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "108",
+        "field_1": "129",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.60827188941292,
-          23.014244887422517
+          90.64940982418504,
+          22.88272024242987
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "109",
+        "field_1": "128",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.61197762603868,
-          23.00512024489956
+          90.72554381439308,
+          22.846121826147243
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "110",
+        "field_1": "127",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.6100425692649,
-          23.004201638395564
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "111",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.61557005581136,
-          22.996155895179783
+          90.72846380048075,
+          22.851495195591667
         ]
       }
     },
@@ -19519,180 +19414,180 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "138",
+        "field_1": "120",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.74930696607964,
-          22.764920548358
+          90.6335837452905,
+          22.908990469084205
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "104",
+        "field_1": "121",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.63488035902296,
-          22.995667393218987
+          90.36715443409918,
+          22.961247211574985
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "139",
+        "field_1": "122",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.73082686998514,
-          22.768244974937925
+          90.39257872463946,
+          22.952926578342904
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "141",
+        "field_1": "123",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.72262049099724,
-          22.779308027246685
+          90.39265756856918,
+          22.95235164160337
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "161",
+        "field_1": "124",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.69238759885576,
-          22.69693639778912
+          90.71753324983816,
+          22.864541173571247
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "162",
+        "field_1": "125",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.69600515190848,
-          22.6855246646488
+          90.72486510097914,
+          22.860749147627264
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "163",
+        "field_1": "126",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.534921348357,
-          22.72562960651872
+          90.72653794665337,
+          22.85974789547508
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "164",
+        "field_1": "145",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.54017281287534,
-          22.719640894553567
+          90.45034607420088,
+          22.826784675398937
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "165",
+        "field_1": "111",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.53482551946053,
-          22.725646704432783
+          90.61557005581136,
+          22.996155895179783
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "166",
+        "field_1": "146",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.5169936133426,
-          22.70656410549508
+          90.77370692160152,
+          22.711661799493218
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "160",
+        "field_1": "148",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.68989249035528,
-          22.70267162108428
+          90.68641737021144,
+          22.720842759713
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "167",
+        "field_1": "168",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.80072552251072,
-          22.63699929841975
+          90.77393491199506,
+          22.61228678715236
         ]
       }
     },
@@ -19774,6 +19669,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "167",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.80072552251072,
+          22.63699929841975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "174",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -19789,165 +19699,150 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "168",
+        "field_1": "176",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.77393491199506,
-          22.61228678715236
+          90.8350375031341,
+          22.555142082116596
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "159",
+        "field_1": "177",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.68740901962516,
-          22.71523681636655
+          90.85509390813618,
+          22.54293958127819
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "158",
+        "field_1": "178",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.73167560855474,
-          22.693812430325632
+          90.8153141549582,
+          22.563537049635105
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "157",
+        "field_1": "179",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.7311006660832,
-          22.6941499944911
+          90.8155696067852,
+          22.56218008486997
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "142",
+        "field_1": "180",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.69086055942331,
-          22.821026256719577
+          90.82996338609242,
+          22.558542973580625
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "143",
+        "field_1": "181",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.64141755058124,
-          22.804004807268427
+          90.82332205380985,
+          22.537924254099853
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "144",
+        "field_1": "175",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.50123874246736,
-          22.82382311227804
+          90.51331045794248,
+          22.64253184566694
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "145",
+        "field_1": "166",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.45034607420088,
-          22.826784675398937
+          90.5169936133426,
+          22.70656410549508
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "146",
+        "field_1": "165",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.77370692160152,
-          22.711661799493218
+          90.53482551946053,
+          22.725646704432783
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "147",
+        "field_1": "164",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.72437772763848,
-          22.753208640131646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "148",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.68641737021144,
-          22.720842759713
+          90.54017281287534,
+          22.719640894553567
         ]
       }
     },
@@ -20074,60 +19969,165 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "140",
+        "field_1": "157",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.69587145899293,
-          22.78700004711284
+          90.7311006660832,
+          22.6941499944911
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "175",
+        "field_1": "158",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.51331045794248,
-          22.64253184566694
+          90.73167560855474,
+          22.693812430325632
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "103",
+        "field_1": "159",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.68497307744786,
-          23.214712371915414
+          90.68740901962516,
+          22.71523681636655
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "101",
+        "field_1": "160",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.52654563071331,
-          23.058092009882923
+          90.68989249035528,
+          22.70267162108428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "161",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.69238759885576,
+          22.69693639778912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "162",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.69600515190848,
+          22.6855246646488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "163",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.534921348357,
+          22.72562960651872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "147",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.72437772763848,
+          22.753208640131646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "182",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52312825331688,
+          22.62220782041385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "110",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6100425692649,
+          23.004201638395564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "108",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.60827188941292,
+          23.014244887422517
         ]
       }
     },
@@ -20644,15 +20644,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "102",
+        "field_1": "109",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.50505600615276,
-          23.04221249594761
+          90.61197762603868,
+          23.00512024489956
         ]
       }
     },
@@ -20689,120 +20689,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "87",
+        "field_1": "94",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.61750144586208,
-          23.15618209328963
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.61291481354372,
-          23.134642692354376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.58238984597962,
-          23.11990982994815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.57949379011644,
-          23.111024803585185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "91",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.56882405574244,
-          23.12437766126627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.56440215742153,
-          23.119130908136405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.61985335829928,
-          23.21080670048481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.56756832048652,
-          23.114079088663477
+          90.5467076191168,
+          23.10983465186258
         ]
       }
     },
@@ -20884,6 +20779,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "93",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.56756832048652,
+          23.114079088663477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "100",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -20899,60 +20809,150 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "94",
+        "field_1": "102",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.5467076191168,
-          23.10983465186258
+          90.50505600615276,
+          23.04221249594761
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "85",
+        "field_1": "103",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.62238128306802,
-          23.21769995830851
+          89.68497307744786,
+          23.214712371915414
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "84",
+        "field_1": "104",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.62495003255606,
-          23.2238377755162
+          90.63488035902296,
+          22.995667393218987
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "83",
+        "field_1": "105",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.62619025291066,
-          23.2245529501785
+          90.64170853346867,
+          22.99024306561739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "106",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.64245574856332,
+          22.985011742753947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "107",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.60388597617516,
+          23.01988904835072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52654563071331,
+          23.058092009882923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.56440215742153,
+          23.119130908136405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.56882405574244,
+          23.12437766126627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.57949379011644,
+          23.111024803585185
         ]
       }
     },
@@ -20983,111 +20983,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           74.21479966161185,
           14.126335278125383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.26099715322003,
-          14.120620737115006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.29179410099987,
-          14.14036648251736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.46991018523178,
-          14.084346754421585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.0475663585901,
-          14.26059808908638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.16274716097249,
-          14.213897794822344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.20403901131169,
-          14.2037179212444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.18401740048914,
-          14.236760996270483
         ]
       }
     },
@@ -21184,6 +21079,111 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "83",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.62619025291066,
+          23.2245529501785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.62495003255606,
+          23.2238377755162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.62238128306802,
+          23.21769995830851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.61985335829928,
+          23.21080670048481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.61750144586208,
+          23.15618209328963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.61291481354372,
+          23.134642692354376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.58238984597962,
+          23.11990982994815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "10",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -21199,45 +21199,345 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "176",
+        "field_1": "183",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.8350375031341,
-          22.555142082116596
+          90.5143017859275,
+          22.62200700338704
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "177",
+        "field_1": "184",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.85509390813618,
-          22.54293958127819
+          89.55460008929855,
+          22.755090485436483
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "178",
+        "field_1": "185",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.8153141549582,
-          22.563537049635105
+          90.9005706902326,
+          22.49095858422397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.72871583173296,
+          24.225867655972984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.70243389358983,
+          24.17192938328621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.75787247842011,
+          24.131657185462867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.49628589519392,
+          23.830420091590245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.70172101366576,
+          23.802933054709484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.79998550718166,
+          23.790617368277648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.75062047305993,
+          24.257816537317183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.92200807980541,
+          23.721636682207496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.94348072388927,
+          23.720095609490457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.93756511339188,
+          23.723301635499293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.61371818939652,
+          23.60465930238959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.62603888561412,
+          23.61108776954427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.628429768342,
+          23.62753175692728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.75674602502774,
+          24.13128863677823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.92165020323753,
+          23.72281676473187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.77491639932899,
+          24.260756104233685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.74372406927166,
+          24.267591043373187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.18401740048914,
+          14.236760996270483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "261",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0215978407758,
+          22.183183167483477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "262",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.70191497221371,
+          22.1987828442903
         ]
       }
     },
@@ -21334,21 +21634,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "262",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.70191497221371,
-          22.1987828442903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "269",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -21364,60 +21649,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "6",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.77491639932899,
-          24.260756104233685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.75062047305993,
-          24.257816537317183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.72871583173296,
-          24.225867655972984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.70243389358983,
-          24.17192938328621
+          74.26099715322003,
+          14.120620737115006
         ]
       }
     },
@@ -21431,308 +21671,68 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.75787247842011,
-          24.131657185462867
+          74.29179410099987,
+          14.14036648251736
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
+        "field_1": "4",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.75674602502774,
-          24.13128863677823
+          74.46991018523178,
+          14.084346754421585
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "3",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.74372406927166,
-          24.267591043373187
+          74.0475663585901,
+          14.26059808908638
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "261",
+        "field_1": "2",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.0215978407758,
-          22.183183167483477
+          74.16274716097249,
+          14.213897794822344
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "260",
+        "field_1": "1",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.15735513602472,
-          22.12338179413653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "259",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.39362408739544,
-          22.130590771414692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "254",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.58984068530275,
-          22.28296152017009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "255",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.92571776877499,
-          22.39071303233916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "256",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.91278344212891,
-          22.42827187701283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.49628589519392,
-          23.830420091590245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.70172101366576,
-          23.802933054709484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.79998550718166,
-          23.790617368277648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.92200807980541,
-          23.721636682207496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.92165020323753,
-          23.72281676473187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.94348072388927,
-          23.720095609490457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.93756511339188,
-          23.723301635499293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.61371818939652,
-          23.60465930238959
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.62603888561412,
-          23.61108776954427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.628429768342,
-          23.62753175692728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "257",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.90909958124055,
-          22.423360822225195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "258",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.87663096388496,
-          22.40240115649695
+          74.20403901131169,
+          14.2037179212444
         ]
       }
     },
@@ -21754,15 +21754,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "253",
+        "field_1": "260",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.5905769588254,
-          22.28367285648748
+          90.15735513602472,
+          22.12338179413653
         ]
       }
     },
@@ -22309,165 +22309,60 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "252",
+        "field_1": "259",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.58971144619453,
-          22.28867323960914
+          90.39362408739544,
+          22.130590771414692
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "251",
+        "field_1": "258",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.59985502654403,
-          22.290733026525164
+          88.87663096388496,
+          22.40240115649695
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "250",
+        "field_1": "257",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.61397300584132,
-          22.310242690594645
+          88.90909958124055,
+          22.423360822225195
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "198",
+        "field_1": "205",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.64547929762152,
-          22.40626115800266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "199",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.64506174398868,
-          22.405446977271364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "200",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.62587708242263,
-          22.38928669170002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "201",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.62548743016774,
-          22.388607936484803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "202",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.44691035188636,
-          22.45625663757512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "203",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.44519171777426,
-          22.455628662688703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "197",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.64375808350184,
-          22.419628677927918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "204",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.42064833709036,
-          22.473024544718136
+          90.34104811251078,
+          22.467380426686617
         ]
       }
     },
@@ -22549,6 +22444,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "204",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42064833709036,
+          22.473024544718136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "211",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -22564,165 +22474,150 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "205",
+        "field_1": "213",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.34104811251078,
-          22.467380426686617
+          89.78402880920785,
+          22.51571450362032
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "196",
+        "field_1": "214",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.90268256067556,
-          22.439617897953827
+          89.58052996359956,
+          22.5138689973768
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "195",
+        "field_1": "215",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.05485408473211,
-          22.63066713101278
+          89.58110755256935,
+          22.51232270567779
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "194",
+        "field_1": "216",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.59433846388032,
-          22.52173212686697
+          89.58198919727276,
+          22.506898473498403
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "179",
+        "field_1": "217",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.8155696067852,
-          22.56218008486997
+          89.56386960877035,
+          22.56433773880165
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "180",
+        "field_1": "218",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.82996338609242,
-          22.558542973580625
+          89.56808469816599,
+          22.552878503465173
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "181",
+        "field_1": "212",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.82332205380985,
-          22.537924254099853
+          89.7625156289903,
+          22.53155001597826
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "182",
+        "field_1": "203",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.52312825331688,
-          22.62220782041385
+          90.44519171777426,
+          22.455628662688703
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "183",
+        "field_1": "202",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.5143017859275,
-          22.62200700338704
+          90.44691035188636,
+          22.45625663757512
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "184",
+        "field_1": "201",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.55460008929855,
-          22.755090485436483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "185",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.9005706902326,
-          22.49095858422397
+          90.62548743016774,
+          22.388607936484803
         ]
       }
     },
@@ -22849,165 +22744,165 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "212",
+        "field_1": "194",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.7625156289903,
-          22.53155001597826
+          90.59433846388032,
+          22.52173212686697
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "213",
+        "field_1": "195",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.78402880920785,
-          22.51571450362032
+          90.05485408473211,
+          22.63066713101278
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "214",
+        "field_1": "196",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.58052996359956,
-          22.5138689973768
+          90.90268256067556,
+          22.439617897953827
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "215",
+        "field_1": "197",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.58110755256935,
-          22.51232270567779
+          90.64375808350184,
+          22.419628677927918
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "235",
+        "field_1": "198",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.89217288375603,
-          22.55553243625601
+          90.64547929762152,
+          22.40626115800266
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "236",
+        "field_1": "199",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.87403703526887,
-          22.54225886785082
+          90.64506174398868,
+          22.405446977271364
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "237",
+        "field_1": "200",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.87255378032762,
-          22.53673879051257
+          90.62587708242263,
+          22.38928669170002
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "238",
+        "field_1": "219",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.60968489747682,
-          22.191371913164325
+          89.40675524084301,
+          22.582216619084544
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "239",
+        "field_1": "220",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.10608502138231,
-          22.276812261808647
+          90.61325189329816,
+          22.27548587403389
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "240",
+        "field_1": "221",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.62597699444615,
-          22.37227776088059
+          89.58483351889113,
+          22.49968757398021
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "241",
+        "field_1": "222",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.62196440606986,
-          22.36514057284665
+          89.58454548457497,
+          22.4857893441936
         ]
       }
     },
@@ -23134,15 +23029,120 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "234",
+        "field_1": "250",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.59105957453465,
-          22.442952884388284
+          89.61397300584132,
+          22.310242690594645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "251",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.59985502654403,
+          22.290733026525164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "252",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.58971144619453,
+          22.28867323960914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "253",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5905769588254,
+          22.28367285648748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "254",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.58984068530275,
+          22.28296152017009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "255",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.92571776877499,
+          22.39071303233916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "256",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91278344212891,
+          22.42827187701283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "241",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.62196440606986,
+          22.36514057284665
         ]
       }
     },
@@ -23164,135 +23164,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "233",
+        "field_1": "240",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.62003621826408,
-          22.402977531368425
+          89.62597699444615,
+          22.37227776088059
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "231",
+        "field_1": "238",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.60868716899947,
-          22.41087375601641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "216",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.58198919727276,
-          22.506898473498403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "217",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.56386960877035,
-          22.56433773880165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "218",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.56808469816599,
-          22.552878503465173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "219",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.40675524084301,
-          22.582216619084544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "220",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.61325189329816,
-          22.27548587403389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "221",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.58483351889113,
-          22.49968757398021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "222",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.58454548457497,
-          22.4857893441936
+          90.60968489747682,
+          22.191371913164325
         ]
       }
     },
@@ -23419,6 +23314,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "231",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.60868716899947,
+          22.41087375601641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "232",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -23428,6 +23338,96 @@ var json_NorthIndian_4 = {
         "coordinates": [
           89.62130483940255,
           22.40289717036444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "233",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.62003621826408,
+          22.402977531368425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "234",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.59105957453465,
+          22.442952884388284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "235",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.89217288375603,
+          22.55553243625601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "236",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.87403703526887,
+          22.54225886785082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "237",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.87255378032762,
+          22.53673879051257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "239",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.10608502138231,
+          22.276812261808647
         ]
       }
     },
@@ -23479,201 +23479,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "91",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.21726642328012,
-          16.672621769771368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22520517097192,
-          16.67207785830926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.22161942052084,
-          23.45953691538281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.22332281870976,
-          23.459100835500735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.08866434514168,
-          23.512207553490107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.62531728555656,
-          23.3143509500481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.63205998098934,
-          23.30768441475328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.60593070981456,
-          23.33910995666753
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.52913598236444,
-          23.334622614559496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.52228616315892,
-          23.33400831761629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.25085719578163,
-          23.43151473771542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.23704041258212,
-          23.43206013729309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.23259618303032,
-          23.432696333278518
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "60",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -23704,21 +23509,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "92",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.2507851983455,
-          16.654929718383386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "62",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -23734,15 +23524,180 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "93",
+        "field_1": "63",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.24020777225772,
-          16.6596126003767
+          90.65080764263033,
+          23.27045663238677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.66125003085612,
+          23.262291069740527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6556550296119,
+          23.24743015586235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.22926356014698,
+          8.510375857759385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.62601244581036,
+          23.257459169497665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.55793438435448,
+          23.30369006149373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.56836704718232,
+          23.30096043019005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.55713164743726,
+          23.291256708579475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.55071790927104,
+          23.29224868034195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.55832298032108,
+          23.283847237546013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.57032797573424,
+          23.281026599436764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.59356219373755,
+          23.287764787493558
         ]
       }
     },
@@ -23758,6 +23713,66 @@ var json_NorthIndian_4 = {
         "coordinates": [
           98.22654152033954,
           8.515482581961246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.22354278415112,
+          8.562101499760914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.21889237896168,
+          8.564580859522467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.33829714415472,
+          8.981165584213029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.21440764690416,
+          8.907187150024226
         ]
       }
     },
@@ -23959,105 +23974,120 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "74",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.21889237896168,
-          8.564580859522467
+          90.57119399056748,
+          23.280406217407773
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "2",
+        "field_1": "19",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.22354278415112,
-          8.562101499760914
+          98.3617040033595,
+          8.991927773334188
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "75",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.22926356014698,
-          8.510375857759385
+          90.64511313559336,
+          23.24135050141509
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "17",
+        "field_1": "10",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.21440764690416,
-          8.907187150024226
+          90.5955154057703,
+          23.493535065609517
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "63",
+        "field_1": "84",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.65080764263033,
-          23.27045663238677
+          95.17841374439408,
+          16.38930941815828
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "65",
+        "field_1": "83",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.6556550296119,
-          23.24743015586235
+          96.2607596754019,
+          16.52694321167164
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "81",
+        "field_1": "82",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.30649150626184,
-          16.347384704538513
+          95.84246838583076,
+          16.465058846641334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80406864828235,
+          13.862572289032729
         ]
       }
     },
@@ -24094,6 +24124,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "85",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.31475094255686,
+          16.414421217307073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "78",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -24103,21 +24148,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           96.4865572414314,
           16.479771321798143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.39183532834612,
-          16.483337598389642
         ]
       }
     },
@@ -24169,15 +24199,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "49",
+        "field_1": "73",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.80406864828235,
-          13.862572289032729
+          96.04168023238157,
+          16.371086700984147
         ]
       }
     },
@@ -24214,330 +24244,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "70",
+        "field_1": "77",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.23276943443294,
-          16.3515349465731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.23011952798312,
-          16.30669751460794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.29574685122596,
-          16.30223232104368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.91861427924265,
-          16.212470823151214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.84246838583076,
-          16.465058846641334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.66125003085612,
-          23.262291069740527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.2607596754019,
-          16.52694321167164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.31475094255686,
-          16.414421217307073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.62601244581036,
-          23.257459169497665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.59356219373755,
-          23.287764787493558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.55793438435448,
-          23.30369006149373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.56836704718232,
-          23.30096043019005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.55713164743726,
-          23.291256708579475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.55071790927104,
-          23.29224868034195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.55832298032108,
-          23.283847237546013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.57032797573424,
-          23.281026599436764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.57119399056748,
-          23.280406217407773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.64511313559336,
-          23.24135050141509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.65186805941632,
-          23.239497219959432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22877719178516,
-          16.667830232474884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.2770616217624,
-          16.459714251297747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.2483061732116,
-          16.57390112557991
+          96.39183532834612,
+          16.483337598389642
         ]
       }
     },
@@ -24559,45 +24274,270 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "84",
+        "field_1": "87",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.17841374439408,
-          16.38930941815828
+          96.2483061732116,
+          16.57390112557991
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "18",
+        "field_1": "88",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.33829714415472,
-          8.981165584213029
+          95.2770616217624,
+          16.459714251297747
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
+        "field_1": "9",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.3617040033595,
-          8.991927773334188
+          90.60060632536737,
+          23.495022397891876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5904709432858,
+          23.498069480954832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.58880495541288,
+          23.49869008735151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.589665824512,
+          23.4992396226116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.70044399663696,
+          23.526990469096443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.92108120569883,
+          23.71904648153317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.58012701571928,
+          23.55135338066572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.57273426996724,
+          23.56700361039099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.59330344549625,
+          23.593017217565883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.70044399663696,
+          23.526990469096443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.24020777225772,
+          16.6596126003767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2507851983455,
+          16.654929718383386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.21726642328012,
+          16.672621769771368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22520517097192,
+          16.67207785830926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22877719178516,
+          16.667830232474884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.65186805941632,
+          23.239497219959432
         ]
       }
     },
@@ -24613,6 +24553,36 @@ var json_NorthIndian_4 = {
         "coordinates": [
           98.34253679572124,
           8.992228673431025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.39359261815017,
+          9.031720073689655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.13709974113254,
+          9.01632143862632
         ]
       }
     },
@@ -24709,6 +24679,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "25",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.83511859908565,
+          8.814746848579247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "44",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -24718,21 +24703,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           90.2660854900396,
           23.46033182035629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.27579806853409,
-          23.462792402863613
         ]
       }
     },
@@ -24829,45 +24799,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "36",
+        "field_1": "43",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.59394404163648,
-          23.40723981890532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.83511859908565,
-          8.814746848579247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.59184351171216,
-          23.41340664831186
+          90.27579806853409,
+          23.462792402863613
         ]
       }
     },
@@ -24883,6 +24823,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           97.05473885196292,
           8.87697914761433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.30843364693852,
+          9.178484895594911
         ]
       }
     },
@@ -25129,15 +25084,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "27",
+        "field_1": "36",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.30843364693852,
-          9.178484895594911
+          90.59394404163648,
+          23.40723981890532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.59184351171216,
+          23.41340664831186
         ]
       }
     },
@@ -25174,240 +25144,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "13",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.5880210988551,
-          23.431142535632105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.5840417892838,
-          23.545195649796412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.5955154057703,
-          23.493535065609517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.60060632536737,
-          23.495022397891876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.5904709432858,
-          23.498069480954832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.58880495541288,
-          23.49869008735151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.589665824512,
-          23.4992396226116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.70044399663696,
-          23.526990469096443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.92108120569883,
-          23.71904648153317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.58012701571928,
-          23.55135338066572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.57273426996724,
-          23.56700361039099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.59330344549625,
-          23.593017217565883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.70044399663696,
-          23.526990469096443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.43382897186308,
-          8.894237521934793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.13709974113254,
-          9.01632143862632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.39359261815017,
-          9.031720073689655
+          90.58477384056113,
+          23.539317635514596
         ]
       }
     },
@@ -25429,15 +25174,195 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "13",
+        "field_1": "11",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.58477384056113,
-          23.539317635514596
+          90.5840417892838,
+          23.545195649796412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.22161942052084,
+          23.45953691538281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.22332281870976,
+          23.459100835500735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.08866434514168,
+          23.512207553490107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.62531728555656,
+          23.3143509500481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.63205998098934,
+          23.30768441475328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.60593070981456,
+          23.33910995666753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52913598236444,
+          23.334622614559496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52228616315892,
+          23.33400831761629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.25085719578163,
+          23.43151473771542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.23704041258212,
+          23.43206013729309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.23259618303032,
+          23.432696333278518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.43382897186308,
+          8.894237521934793
         ]
       }
     },
@@ -25459,6 +25384,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "70",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.23276943443294,
+          16.3515349465731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "15",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -25468,6 +25408,36 @@ var json_NorthIndian_4 = {
         "coordinates": [
           90.57972623249228,
           23.53417662511155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5900960837272,
+          23.526695253607546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5880210988551,
+          23.431142535632105
         ]
       }
     },
@@ -25579,21 +25549,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "66",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.8790341303836,
-          16.19323878551314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "24",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -25603,6 +25558,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           90.5880210988551,
           23.431142535632105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5896130209448,
+          23.44030453675332
         ]
       }
     },
@@ -25684,21 +25654,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "17",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.5900960837272,
-          23.526695253607546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "16",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -25714,60 +25669,60 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
+        "field_1": "69",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.5896130209448,
-          23.44030453675332
+          96.23011952798312,
+          16.30669751460794
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "65",
+        "field_1": "81",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.33180586833528,
-          16.093404949586418
+          95.30649150626184,
+          16.347384704538513
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "73",
+        "field_1": "67",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.04168023238157,
-          16.371086700984147
+          95.91861427924265,
+          16.212470823151214
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "63",
+        "field_1": "101",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.86971748285916,
-          16.177907886837993
+          74.55008860850967,
+          13.262751585371497
         ]
       }
     },
@@ -25849,6 +25804,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "102",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76785279238655,
+          13.40608537162883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "95",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -25864,30 +25834,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "101",
+        "field_1": "93",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          74.55008860850967,
-          13.262751585371497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "94",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.51397419294982,
-          13.339731939598575
+          74.55537168329903,
+          13.289620419340707
         ]
       }
     },
@@ -25969,60 +25924,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "87",
+        "field_1": "94",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.61991079860273,
-          13.554234164734572
+          74.51397419294982,
+          13.339731939598575
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "93",
+        "field_1": "103",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          74.55537168329903,
-          13.289620419340707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.59549363090542,
-          13.586129684109872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "102",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.76785279238655,
-          13.40608537162883
+          73.64377162552519,
+          13.432999201974116
         ]
       }
     },
@@ -26038,6 +25963,51 @@ var json_NorthIndian_4 = {
         "coordinates": [
           73.66220293174385,
           13.424282224900868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "105",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.64512343844504,
+          13.424534069562936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "120",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.48044255130594,
+          13.360512934023571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "119",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73136055873145,
+          13.293760296459974
         ]
       }
     },
@@ -26134,21 +26104,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "103",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.64377162552519,
-          13.432999201974116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "112",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -26164,15 +26119,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "110",
+        "field_1": "111",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51890032681648,
-          13.44504930250046
+          73.50427221159629,
+          13.43315244649855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.29574685122596,
+          16.30223232104368
         ]
       }
     },
@@ -26194,15 +26164,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "64",
+        "field_1": "108",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.2225916910934,
-          16.23414369577986
+          73.64745605667076,
+          13.418832863826584
         ]
       }
     },
@@ -26239,75 +26209,60 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "105",
+        "field_1": "87",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.64512343844504,
-          13.424534069562936
+          73.61991079860273,
+          13.554234164734572
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "111",
+        "field_1": "121",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.50427221159629,
-          13.43315244649855
+          73.4793825275921,
+          13.359686322034582
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "119",
+        "field_1": "86",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.73136055873145,
-          13.293760296459974
+          73.59549363090542,
+          13.586129684109872
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "85",
+        "field_1": "84",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.85588502191118,
-          13.523155487306914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.46166611414495,
-          13.399426660016063
+          74.12909062749495,
+          13.478684240802844
         ]
       }
     },
@@ -26539,21 +26494,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "84",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.12909062749495,
-          13.478684240802844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "66",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -26569,6 +26509,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "67",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85177704916622,
+          13.66647648192016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "68",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -26578,6 +26533,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           73.83428561252063,
           13.701833740156465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.46166611414495,
+          13.399426660016063
         ]
       }
     },
@@ -26674,21 +26644,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "67",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.85177704916622,
-          13.66647648192016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "76",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -26698,6 +26653,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           73.85164411227812,
           13.590388357855838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85449959842528,
+          13.596353958730734
         ]
       }
     },
@@ -26794,45 +26764,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "75",
+        "field_1": "85",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.85449959842528,
-          13.596353958730734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "120",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.48044255130594,
-          13.360512934023571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "108",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.64745605667076,
-          13.418832863826584
+          73.85588502191118,
+          13.523155487306914
         ]
       }
     },
@@ -26848,6 +26788,141 @@ var json_NorthIndian_4 = {
         "coordinates": [
           74.38620805091561,
           13.137450692249756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "110",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.51890032681648,
+          13.44504930250046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.42679291563974,
+          18.05275024091059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.74302448225696,
+          15.991642228787468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.75603027146134,
+          15.9772778869204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.74849074304736,
+          15.953786465008026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.22043031877372,
+          15.825548421698745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.91633115326356,
+          15.757815833706282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9213933627608,
+          15.754050167836544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.43668167550936,
+          18.00587059124174
         ]
       }
     },
@@ -26974,210 +27049,120 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "40",
+        "field_1": "47",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.9098205002993,
-          15.750360344471416
+          96.29239389187016,
+          16.05912823927997
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "48",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.92869818021454,
-          15.819012114112612
+          96.40429645143982,
+          16.10136072468477
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "29",
+        "field_1": "49",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.30570704169928,
-          15.376402558104116
+          96.09483343240086,
+          16.10072050616884
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "28",
+        "field_1": "50",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.78694569030404,
-          15.412712771051522
+          96.10972279378883,
+          16.08960330128901
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "27",
+        "field_1": "66",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.28445694747909,
-          15.500542884104783
+          95.8790341303836,
+          16.19323878551314
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "26",
+        "field_1": "65",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.91789070534892,
-          15.571663176841938
+          95.33180586833528,
+          16.093404949586418
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "25",
+        "field_1": "64",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.68606170293654,
-          15.448265795269046
+          96.2225916910934,
+          16.23414369577986
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "24",
+        "field_1": "63",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.6982849240762,
-          15.228701436020566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.63556674386996,
-          15.359755172499716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "121",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.4793825275921,
-          13.359686322034582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.63044794710208,
-          15.721642230106406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.9213933627608,
-          15.754050167836544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.91633115326356,
-          15.757815833706282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.22043031877372,
-          15.825548421698745
+          95.86971748285916,
+          16.177907886837993
         ]
       }
     },
@@ -27229,6 +27214,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "31",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.92869818021454,
+          15.819012114112612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "59",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -27238,21 +27238,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           96.33362257822816,
           16.211326078617134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.31510583484338,
-          16.21654170856165
         ]
       }
     },
@@ -27364,150 +27349,60 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "50",
+        "field_1": "58",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.10972279378883,
-          16.08960330128901
+          96.31510583484338,
+          16.21654170856165
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "49",
+        "field_1": "30",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.09483343240086,
-          16.10072050616884
+          96.63044794710208,
+          15.721642230106406
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "48",
+        "field_1": "40",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.40429645143982,
-          16.10136072468477
+          94.9098205002993,
+          15.750360344471416
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "47",
+        "field_1": "28",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.29239389187016,
-          16.05912823927997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.74302448225696,
-          15.991642228787468
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.75603027146134,
-          15.9772778869204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.74849074304736,
-          15.953786465008026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.63273969218068,
-          15.177797690546257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.71545714335755,
-          15.14696682736881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.77292105666594,
-          15.201703887270604
+          95.78694569030404,
+          15.412712771051522
         ]
       }
     },
@@ -27529,30 +27424,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
+        "field_1": "10",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.97207938186648,
-          15.016655851882431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.21506067061148,
-          15.03323502559778
+          96.23304287206248,
+          15.08287337155798
         ]
       }
     },
@@ -27574,15 +27454,60 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "10",
+        "field_1": "8",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.23304287206248,
-          15.08287337155798
+          96.21506067061148,
+          15.03323502559778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.97207938186648,
+          15.016655851882431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.28626824846624,
+          15.199173078928784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.7191958153736,
+          15.092471546141446
         ]
       }
     },
@@ -27604,51 +27529,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "13",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.27230114427782,
-          15.153851487895956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.78349263997976,
-          15.229543973813836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.74024966678418,
-          15.084184303769488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "4",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -27658,21 +27538,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           96.29485409743027,
           15.001051048442246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.14174287642172,
-          15.000869292135416
         ]
       }
     },
@@ -27724,21 +27589,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.28626824846624,
-          15.199173078928784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "5",
         "Date": "20240904",
         "DaysOld": "11.0"
@@ -27748,21 +27598,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           94.3715753332743,
           18.349065595682312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.38398389510648,
-          18.339490073446395
         ]
       }
     },
@@ -27784,30 +27619,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "3",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.43668167550936,
-          18.00587059124174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240904",
-        "DaysOld": "11.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.42679291563974,
-          18.05275024091059
+          94.38398389510648,
+          18.339490073446395
         ]
       }
     },
@@ -27829,30 +27649,180 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
+        "field_1": "29",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.7191958153736,
-          15.092471546141446
+          95.30570704169928,
+          15.376402558104116
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "18",
+        "field_1": "13",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.0583125041132,
-          15.130400617680923
+          96.27230114427782,
+          15.153851487895956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14174287642172,
+          15.000869292135416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.63556674386996,
+          15.359755172499716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.91789070534892,
+          15.571663176841938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.68606170293654,
+          15.448265795269046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6982849240762,
+          15.228701436020566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.77292105666594,
+          15.201703887270604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.63273969218068,
+          15.177797690546257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.71545714335755,
+          15.14696682736881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.28445694747909,
+          15.500542884104783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240904",
+        "DaysOld": "11.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.11600462335238,
+          15.378538514198478
         ]
       }
     },
@@ -27889,60 +27859,135 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
+        "field_1": "15",
         "Date": "20240904",
         "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.11600462335238,
-          15.378538514198478
+          95.74024966678418,
+          15.084184303769488
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "20",
-        "Date": "20240906",
-        "DaysOld": "9.0"
+        "field_1": "14",
+        "Date": "20240904",
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.65787196878459,
-          8.72372529507398
+          96.78349263997976,
+          15.229543973813836
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "26",
-        "Date": "20240906",
-        "DaysOld": "9.0"
+        "field_1": "18",
+        "Date": "20240904",
+        "DaysOld": "11.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.23675474653125,
-          8.17627513008605
+          96.0583125041132,
+          15.130400617680923
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "21",
+        "field_1": "17",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.60114594408618,
-          8.471698251267432
+          76.18430439164393,
+          8.735339901530034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.78289173385011,
+          8.631801053855527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.10584213343049,
+          8.652106205803815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.63001316338851,
+          8.69223633870888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1060289383437,
+          8.651412426501544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.49637594405857,
+          8.961495824460735
         ]
       }
     },
@@ -27958,6 +28003,36 @@ var json_NorthIndian_4 = {
         "coordinates": [
           77.02625066255321,
           8.347074904689292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.07514041097333,
+          8.866394340469279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0833360526382,
+          8.303150075715434
         ]
       }
     },
@@ -27994,90 +28069,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
+        "field_1": "21",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.1060289383437,
-          8.651412426501544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.10584213343049,
-          8.652106205803815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.41708166671924,
-          8.892051795561697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.78289173385011,
-          8.631801053855527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.63001316338851,
-          8.69223633870888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.07514041097333,
-          8.866394340469279
+          76.60114594408618,
+          8.471698251267432
         ]
       }
     },
@@ -28099,15 +28099,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "12",
+        "field_1": "6",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.68403390912808,
-          8.73759546099573
+          75.7403771568625,
+          9.063700123821866
         ]
       }
     },
@@ -28144,21 +28144,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "17",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18430439164393,
-          8.735339901530034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "9",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -28168,111 +28153,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           75.9992607470759,
           8.958994997710647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.43875017776533,
-          9.001324748736307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.49637594405857,
-          8.961495824460735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.49063256218516,
-          8.923238531009881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.4628063938277,
-          8.94762591956929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.58180302088016,
-          8.876797134641064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.50244810294262,
-          8.896380910858769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.7403771568625,
-          9.063700123821866
         ]
       }
     },
@@ -28294,6 +28174,126 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "7",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.41708166671924,
+          8.892051795561697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.43875017776533,
+          9.001324748736307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.50244810294262,
+          8.896380910858769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.58180302088016,
+          8.876797134641064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.23675474653125,
+          8.17627513008605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4628063938277,
+          8.94762591956929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.49063256218516,
+          8.923238531009881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68403390912808,
+          8.73759546099573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "27",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -28309,15 +28309,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
+        "field_1": "20",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.0833360526382,
-          8.303150075715434
+          75.65787196878459,
+          8.72372529507398
         ]
       }
     },
@@ -28339,240 +28339,480 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "95",
+        "field_1": "48",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.45922117745492,
-          19.7469802916528
+          92.76858840788002,
+          20.231049266035708
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "94",
+        "field_1": "5",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.43349849715368,
-          19.76111683297341
+          93.42772500484264,
+          19.0477749959452
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "93",
+        "field_1": "4",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.46256218627045,
-          19.75997722611765
+          93.61271433349266,
+          19.017651599347797
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "92",
+        "field_1": "3",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.4986543150018,
-          19.749041481844387
+          93.73217537239978,
+          18.972350756389325
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "91",
+        "field_1": "2",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.40221599357136,
-          19.97560875132347
+          93.9940118784348,
+          18.923140855203705
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "90",
+        "field_1": "1",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.2622205110216,
-          19.814240793726547
+          93.99155315091612,
+          18.962296668108127
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "89",
+        "field_1": "0",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.24703167018691,
-          19.83435009259465
+          93.98007398574435,
+          18.93342099716452
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "88",
+        "field_1": "209",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.40253009631624,
-          19.796247660827166
+          93.27142902105514,
+          19.382187952374
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "87",
+        "field_1": "210",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.39996318374942,
-          19.807459324612143
+          93.92730725364164,
+          19.196713337267745
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "86",
+        "field_1": "211",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.36020644426355,
-          20.02498035054622
+          93.23861401308253,
+          19.297281771227453
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "85",
+        "field_1": "212",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.22902665607492,
-          19.86256741892685
+          93.0677516802148,
+          19.29570410710381
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "84",
+        "field_1": "213",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.20179862532294,
-          19.873516036090457
+          93.59822161451488,
+          19.15142250156144
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "83",
+        "field_1": "214",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.35085720603354,
-          20.065163906449587
+          93.59769093414728,
+          19.151426589367865
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "82",
+        "field_1": "215",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.3718841695681,
-          20.05927051511682
+          93.35128335053923,
+          19.153129094517084
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "96",
+        "field_1": "216",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.26158226419844,
-          19.79422291987909
+          93.366227345858,
+          19.148763906776768
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "81",
+        "field_1": "217",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.35085720603354,
-          20.065163906449587
+          92.29705434794828,
+          19.35440719643761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "218",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.03819911077458,
+          19.018462301097653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "219",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.03140820472476,
+          19.003056853793293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "220",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.42047281260054,
+          19.25626116371916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0305204577031,
+          19.271937039361863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.03397883182484,
+          18.885285908440498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85659111889694,
+          18.90612633135701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.86428486370696,
+          18.898983729213988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.84896870834288,
+          18.9136301774492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8165941491945,
+          18.93570472811816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.08183194285111,
+          8.429681587721927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9200301655609,
+          18.85972362222587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.73037841424627,
+          20.21538569515675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.04516007995792,
+          20.148167472512156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.91567111012786,
+          20.170725420467004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9154654256261,
+          20.16264629488084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.185629714346,
+          19.90321576389895
         ]
       }
     },
@@ -28759,6 +28999,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "13",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.92017005723088,
+          18.85852636821708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "67",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -28774,426 +29029,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "66",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.4875220708016,
-          20.12904840590336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.185629714346,
-          19.90321576389895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "97",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.22430984958449,
-          19.814423229150243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "98",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.72985368540392,
-          19.873836621976768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "99",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.18473738762698,
-          19.999831778806872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "130",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.4871512729901,
-          19.63720167327765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "129",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.53323804239837,
-          19.658845985702012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "128",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.60264385360271,
-          19.624755586268552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "127",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.62869189988332,
-          19.642033719731646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "126",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.71870051014714,
-          19.62635451749996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "125",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.77170948810588,
-          19.588953043732573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "124",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.72939228098625,
-          19.817822034817404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "123",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.20452260726093,
-          19.732365365937195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "122",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.19153363980706,
-          19.73614377627177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "121",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.18640708950818,
-          19.75546401996974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "120",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.17804964702168,
-          19.75715005833554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "119",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.45301698784677,
-          19.69234246304996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "118",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.43403162642014,
-          19.711900516268155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "117",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.50109613636552,
-          19.672350106480824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "116",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.48210861830071,
-          19.679818386921195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "115",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.49422064676074,
-          19.678226853721736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "114",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.52596088714996,
-          19.675221958106142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "100",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.61228384048292,
-          19.69445777636722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "101",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.61276964756678,
-          19.69254538123716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "102",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.63130192419813,
-          19.678692299223982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "103",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.49267191881964,
-          19.73432623617452
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "104",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.18481484430863,
-          19.770600476298448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "105",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.18549549307482,
-          19.768657076310063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "65",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -29203,126 +29038,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           92.4875220708016,
           20.12904840590336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "106",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.158798853787,
-          19.793105081741317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "108",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.02519685873128,
-          19.81037530348973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "109",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.75479581871036,
-          19.842567621120725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "110",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.69534223501272,
-          19.651258036460263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "111",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.64599961726032,
-          19.647764543802005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "112",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.64442757488786,
-          19.64814467807673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "113",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.60518183154495,
-          19.6617532026018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "107",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.02499373554669,
-          19.811065075933005
         ]
       }
     },
@@ -29368,6 +29083,891 @@ var json_NorthIndian_4 = {
         "coordinates": [
           93.40851786696716,
           19.97988026905444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7130068833116,
+          19.915098617023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9009419834987,
+          20.08554696521658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9320640341085,
+          20.097811119928554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.23541637158348,
+          20.026592504363727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2433960104939,
+          20.02586607290744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.24403337572922,
+          20.02589219003724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3620379268009,
+          20.028084425822545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.40051688723612,
+          20.009823818326065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.96827940915756,
+          20.134217391812985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4875220708016,
+          20.12904840590336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.35085720603354,
+          20.065163906449587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.65744837566132,
+          18.88425784736029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.48326827519334,
+          18.93294760838444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.51403586011529,
+          20.6003544688879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5146365999395,
+          20.59969206453973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.51426996745204,
+          20.60031404824569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.72573231268971,
+          20.579835426548208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.07566056637884,
+          20.50997887738469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.45724409633686,
+          20.656103449239428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6958840762836,
+          20.61191283605886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.27928651945676,
+          20.512053673350664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4012304408013,
+          20.68833650867577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.40135906010777,
+          20.689291632504645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.38934755141292,
+          20.697729842615825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.38819341195844,
+          20.7130975563716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.38819341195844,
+          20.7130975563716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.38799365096892,
+          20.71462087731405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6634144832706,
+          20.666055609806943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.65481712481626,
+          20.677798571754373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1977335258388,
+          18.74511038476288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1848595446159,
+          18.750155290962365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.13686425069432,
+          18.74332982078192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.98703724765336,
+          18.799064828184385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.93340455158794,
+          18.82565407310805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.78356316066932,
+          18.844901542537983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.16152102065055,
+          18.733257110770325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.13686425069432,
+          18.74332982078192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1373040683885,
+          18.74245019736341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.97668724750994,
+          18.74523911105936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.74611902262028,
+          18.76914778644137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.33714197392165,
+          20.62848170489782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.33399080172045,
+          20.637678162978368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.31508933892816,
+          20.63548385612857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.31085118459048,
+          20.62867497879009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.92190289020212,
+          20.180026788719186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.92742523685838,
+          20.196449561615285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9541786050826,
+          20.17683622865132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.75314264643092,
+          20.246907305786905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.75337668268324,
+          20.248124786350736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.75335185696984,
+          20.24850205759776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.74504052098192,
+          20.25438976593395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.78556715229249,
+          20.258321925681752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7775081780355,
+          20.28551513540168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.83819548345777,
+          20.28059149168129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3060396963069,
+          20.178946610420475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.73993067894402,
+          20.339326010415803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.87133511740566,
+          20.304874523158094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6084061913421,
+          18.913147324554814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.87553645802332,
+          20.30875076817366
         ]
       }
     },
@@ -29569,156 +30169,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.31085118459048,
-          20.62867497879009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.31508933892816,
-          20.63548385612857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.33399080172045,
-          20.637678162978368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.33714197392165,
-          20.62848170489782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.38799365096892,
-          20.71462087731405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.38819341195844,
-          20.7130975563716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.38819341195844,
-          20.7130975563716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.38934755141292,
-          20.697729842615825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.40135906010777,
-          20.689291632504645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.4012304408013,
-          20.68833650867577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "33",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -29728,1521 +30178,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           93.01803539990492,
           20.324841641134974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.27928651945676,
-          20.512053673350664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.45724409633686,
-          20.656103449239428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.07566056637884,
-          20.50997887738469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.72573231268971,
-          20.579835426548208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.51426996745204,
-          20.60031404824569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.5146365999395,
-          20.59969206453973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.51403586011529,
-          20.6003544688879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.6958840762836,
-          20.61191283605886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "131",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.7452310448182,
-          19.581074526395465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.08183194285111,
-          8.429681587721927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.73993067894402,
-          20.339326010415803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.7130068833116,
-          19.915098617023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.9009419834987,
-          20.08554696521658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.9320640341085,
-          20.097811119928554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.23541637158348,
-          20.026592504363727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.2433960104939,
-          20.02586607290744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.24403337572922,
-          20.02589219003724
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.3620379268009,
-          20.028084425822545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.40051688723612,
-          20.009823818326065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.96827940915756,
-          20.134217391812985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.9154654256261,
-          20.16264629488084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.91567111012786,
-          20.170725420467004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.04516007995792,
-          20.148167472512156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.73037841424627,
-          20.21538569515675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.76858840788002,
-          20.231049266035708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.42772500484264,
-          19.0477749959452
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.61271433349266,
-          19.017651599347797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.73217537239978,
-          18.972350756389325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.3060396963069,
-          20.178946610420475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.83819548345777,
-          20.28059149168129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.7775081780355,
-          20.28551513540168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.78556715229249,
-          20.258321925681752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.74504052098192,
-          20.25438976593395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.75335185696984,
-          20.24850205759776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.87133511740566,
-          20.304874523158094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.75337668268324,
-          20.248124786350736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.9541786050826,
-          20.17683622865132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.92742523685838,
-          20.196449561615285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.92190289020212,
-          20.180026788719186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.98007398574435,
-          18.93342099716452
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.99155315091612,
-          18.962296668108127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.9940118784348,
-          18.923140855203705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.75314264643092,
-          20.246907305786905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "132",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.74582764544024,
-          19.579702012066456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "133",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.7409054877538,
-          19.577187804443746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "134",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.66699748734295,
-          19.59201776305562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.98703724765336,
-          18.799064828184385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.13686425069432,
-          18.74332982078192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.1848595446159,
-          18.750155290962365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.1977335258388,
-          18.74511038476288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.48326827519334,
-          18.93294760838444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6084061913421,
-          18.913147324554814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.65744837566132,
-          18.88425784736029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.92017005723088,
-          18.85852636821708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.9200301655609,
-          18.85972362222587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.8165941491945,
-          18.93570472811816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.84896870834288,
-          18.9136301774492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.86428486370696,
-          18.898983729213988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.85659111889694,
-          18.90612633135701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.03397883182484,
-          18.885285908440498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.0305204577031,
-          19.271937039361863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "220",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.42047281260054,
-          19.25626116371916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "219",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.03140820472476,
-          19.003056853793293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "205",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.70326755127998,
-          19.299977149793506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "206",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.73910333823898,
-          19.29091588050865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "207",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6384400774536,
-          19.33387310171204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "208",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.2716380994897,
-          19.383224929166357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "209",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.27142902105514,
-          19.382187952374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "210",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.92730725364164,
-          19.196713337267745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.93340455158794,
-          18.82565407310805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "211",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.23861401308253,
-          19.297281771227453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "213",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.59822161451488,
-          19.15142250156144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "214",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.59769093414728,
-          19.151426589367865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "215",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.35128335053923,
-          19.153129094517084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "216",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.366227345858,
-          19.148763906776768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "217",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.29705434794828,
-          19.35440719643761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "218",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.03819911077458,
-          19.018462301097653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "212",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.0677516802148,
-          19.29570410710381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "204",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.04995394196884,
-          19.233257775630463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.78356316066932,
-          18.844901542537983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.13686425069432,
-          18.74332982078192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.33585844106688,
-          20.8545658098881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.3099221499472,
-          20.906421029349055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.3099440257733,
-          20.91306432943289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.27428992858388,
-          20.951399962402807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.27392987539262,
-          20.952065537339493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.9958434485622,
-          20.87811781435764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.89744879672443,
-          17.47499346454209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.89760325367412,
-          17.475759657847842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.9396297317953,
-          17.348744360976717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.55839026797577,
-          17.662533232599408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.840136371968,
-          17.85355234643303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.89077642339753,
-          17.849051498737847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.59309816611508,
-          18.219395011054168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.4661620557444,
-          18.665279480360365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.63477784458088,
-          18.511300246325447
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.78090135436535,
-          18.58790082211407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.57441243390134,
-          18.881379158479767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.1373040683885,
-          18.74245019736341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.97668724750994,
-          18.74523911105936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.74611902262028,
-          18.76914778644137
         ]
       }
     },
@@ -31264,210 +30199,165 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "29",
+        "field_1": "82",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.14560838771764,
-          18.67469264767585
+          92.3718841695681,
+          20.05927051511682
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "30",
+        "field_1": "84",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.07547258755422,
-          18.662355530717623
+          93.20179862532294,
+          19.873516036090457
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
+        "field_1": "174",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.16152102065055,
-          18.733257110770325
+          92.52690776364348,
+          19.661992546786923
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "173",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.07443072337573,
-          18.66198835575148
+          93.49733136466934,
+          19.48784142713583
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "33",
+        "field_1": "172",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.12619846399818,
-          18.597377398823483
+          92.54255806994234,
+          19.673311379643224
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "171",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.76900225976306,
-          18.619719217016023
+          93.50495196418544,
+          19.504877540059205
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "35",
+        "field_1": "170",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.6473205414417,
-          18.672661055695414
+          93.51304607548424,
+          19.5055560457654
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "36",
+        "field_1": "169",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.6562015011394,
-          18.660853449877536
+          93.5782480730974,
+          19.48927443933842
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "37",
+        "field_1": "168",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.66081636264823,
-          18.659809944483214
+          93.577040752749,
+          19.502450362915773
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "38",
+        "field_1": "167",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.6473205414417,
-          18.672661055695414
+          93.60125751269013,
+          19.504155191378693
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "166",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.17092741507874,
-          18.55688795564775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.6634144832706,
-          20.666055609806943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "203",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.24547839597837,
-          19.61012472653395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "201",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.466777353925,
-          19.36907330884804
+          93.9755969803139,
+          19.43282538715252
         ]
       }
     },
@@ -31729,201 +30619,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "135",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6454386883506,
-          19.595763298301215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "136",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.64745130180668,
-          19.58819314783868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "137",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.66426810272873,
-          19.583301059843414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "138",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.68046003960268,
-          19.576511455126703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "139",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.63741922676331,
-          19.582960694911687
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "140",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.64313734318972,
-          19.57307736012601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "166",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.9755969803139,
-          19.43282538715252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "141",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6071898647967,
-          19.612935992614943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "143",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.53098809212597,
-          19.597304635700866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "144",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.8759279403048,
-          19.49924081396284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "145",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.75277400789136,
-          19.54605203404239
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "146",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.64311125729763,
-          19.572707934324967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "147",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6369578649228,
-          19.569387295379787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "148",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -31939,15 +30634,120 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "142",
+        "field_1": "175",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.57288509318954,
-          19.58678429624176
+          94.036794971177,
+          19.338376564344163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "176",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.67047318548477,
+          19.413241440884857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "177",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.65987200418807,
+          19.41476515289153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "178",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.60929327877956,
+          19.42527692602435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "206",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.73910333823898,
+          19.29091588050865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "205",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.70326755127998,
+          19.299977149793506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "204",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04995394196884,
+          19.233257775630463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "203",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24547839597837,
+          19.61012472653395
         ]
       }
     },
@@ -31969,30 +30769,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "167",
+        "field_1": "201",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.60125751269013,
-          19.504155191378693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "169",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.5782480730974,
-          19.48927443933842
+          93.466777353925,
+          19.36907330884804
         ]
       }
     },
@@ -32104,6 +30889,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "147",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6369578649228,
+          19.569387295379787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "193",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -32113,21 +30913,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           92.35942576370007,
           19.61372762766235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "192",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.30431943784863,
-          19.44361414111491
         ]
       }
     },
@@ -32254,180 +31039,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "170",
+        "field_1": "183",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.51304607548424,
-          19.5055560457654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "171",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.50495196418544,
-          19.504877540059205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "172",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.54255806994234,
-          19.673311379643224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "173",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.49733136466934,
-          19.48784142713583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "174",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.52690776364348,
-          19.661992546786923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "175",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.036794971177,
-          19.338376564344163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "168",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.577040752749,
-          19.502450362915773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "176",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.67047318548477,
-          19.413241440884857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "178",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.60929327877956,
-          19.42527692602435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "179",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.61497343298232,
-          19.416240276767656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "180",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.5696747809992,
-          19.431020076894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "181",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.26643850158484,
-          19.659365810725536
+          93.68513137006669,
+          19.38640945834588
         ]
       }
     },
@@ -32449,645 +31069,105 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "183",
+        "field_1": "181",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.68513137006669,
-          19.38640945834588
+          92.26643850158484,
+          19.659365810725536
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "177",
+        "field_1": "180",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.65987200418807,
-          19.41476515289153
+          93.5696747809992,
+          19.431020076894
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "179",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.65481712481626,
-          20.677798571754373
+          93.61497343298232,
+          19.416240276767656
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "192",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.87553645802332,
-          20.30875076817366
+          93.30431943784863,
+          19.44361414111491
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "98",
+        "field_1": "83",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.19566489143423,
-          9.663870361585724
+          92.35085720603354,
+          20.065163906449587
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "134",
+        "field_1": "146",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.46379297915102,
-          9.138091192382742
+          93.64311125729763,
+          19.572707934324967
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "133",
+        "field_1": "144",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.67318804763086,
-          9.336424658961096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "132",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.9069880320999,
-          9.284952609024112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "131",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.66025255300019,
-          9.372111372818772
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "130",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.66361214731252,
-          9.484571987832789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "129",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.217046801739,
-          9.371675496776918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "128",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.29324483330888,
-          9.417467858764502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "127",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.25156315390485,
-          9.42856128241693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "126",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.76899557423611,
-          9.611811848271916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "125",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.77548344717378,
-          9.62125318007882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "124",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.13395881362803,
-          9.562889304266376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "123",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18880813653652,
-          9.58173689556286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "122",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18546060911068,
-          9.585492356637728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "121",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18734026320881,
-          9.59102391706486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "120",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18451638144401,
-          9.598141947252085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "119",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.19015392286799,
-          9.601524282575118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "118",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.48760908732424,
-          9.539570227892192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "117",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.96034875510186,
-          9.655563725393034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "116",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.17374340382908,
-          9.622199279883144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "115",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.17210488751708,
-          9.624256835256086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "114",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.1783755969915,
-          9.629200592429736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "113",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18851931500467,
-          9.608547447563264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "112",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18536830658553,
-          9.620368189975402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "135",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.40864333013597,
-          9.15730793810986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "136",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.37274884688986,
-          9.178581457639694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "137",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.37956474707552,
-          9.161566623448609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "138",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.39536940153715,
-          9.15147440042114
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.33699576729225,
-          9.908653338781882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.21471999859656,
-          9.934435852806589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.19205021536854,
-          9.953660029075644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18888084304632,
-          9.939156282847032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18080057056336,
-          9.930117300179036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.00993458036054,
-          9.973031599534629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.37501797313182,
-          9.862523874134922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.30671426451808,
-          9.886242839363982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.30753677531472,
-          9.88523691385134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.32187337955699,
-          9.87364159871628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.1981286427847,
-          9.924217518077512
+          93.8759279403048,
+          19.49924081396284
         ]
       }
     },
@@ -33101,218 +31181,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.18435490653485,
-          9.63902765963643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.18079157903239,
-          9.930072234817684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.17828649681726,
-          9.921245397032544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.14151298257559,
-          9.909155058784718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.15959514474721,
-          9.90540070541646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.12144371952121,
-          9.93259131070227
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.13178850132091,
-          9.92404521840468
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.03672598302556,
-          9.949175858614192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "143",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.76899014519103,
-          9.17640183019949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "142",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.16602639950725,
-          9.113095074162183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "141",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.60195507320067,
-          9.260846822901142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "140",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.84783033591108,
-          9.279064688825567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "139",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          75.8475346765293,
-          9.28038697370619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.1736216085545,
-          9.927926532060322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.04270853533494,
-          9.993415114979667
+          93.64599961726032,
+          19.647764543802005
         ]
       }
     },
@@ -33326,8 +31196,23 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.17451612796508,
-          9.641910553740043
+          93.69534223501272,
+          19.651258036460263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "109",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.75479581871036,
+          19.842567621120725
         ]
       }
     },
@@ -33341,38 +31226,893 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.18431137173653,
-          9.661196113289492
+          93.02519685873128,
+          19.81037530348973
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "79",
+        "field_1": "107",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.02608512558817,
-          9.843717657604303
+          93.02499373554669,
+          19.811065075933005
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "78",
+        "field_1": "106",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.18798448318475,
-          9.812299845502984
+          93.158798853787,
+          19.793105081741317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "105",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.18549549307482,
+          19.768657076310063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "104",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.18481484430863,
+          19.770600476298448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "103",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.49267191881964,
+          19.73432623617452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "102",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.63130192419813,
+          19.678692299223982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61276964756678,
+          19.69254538123716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61228384048292,
+          19.69445777636722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.18473738762698,
+          19.999831778806872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.72985368540392,
+          19.873836621976768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.22430984958449,
+          19.814423229150243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.26158226419844,
+          19.79422291987909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.45922117745492,
+          19.7469802916528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.43349849715368,
+          19.76111683297341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.46256218627045,
+          19.75997722611765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4986543150018,
+          19.749041481844387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.40221599357136,
+          19.97560875132347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2622205110216,
+          19.814240793726547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.24703167018691,
+          19.83435009259465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.40253009631624,
+          19.796247660827166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.39996318374942,
+          19.807459324612143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.36020644426355,
+          20.02498035054622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.22902665607492,
+          19.86256741892685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "112",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.64442757488786,
+          19.64814467807673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "113",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.60518183154495,
+          19.6617532026018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "114",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.52596088714996,
+          19.675221958106142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "115",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.49422064676074,
+          19.678226853721736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "143",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.53098809212597,
+          19.597304635700866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "142",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.57288509318954,
+          19.58678429624176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "141",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6071898647967,
+          19.612935992614943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "140",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.64313734318972,
+          19.57307736012601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "139",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.63741922676331,
+          19.582960694911687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "138",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.68046003960268,
+          19.576511455126703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "137",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.66426810272873,
+          19.583301059843414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "136",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.64745130180668,
+          19.58819314783868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "135",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6454386883506,
+          19.595763298301215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "134",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.66699748734295,
+          19.59201776305562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "133",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7409054877538,
+          19.577187804443746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "132",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.74582764544024,
+          19.579702012066456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "131",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7452310448182,
+          19.581074526395465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "145",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.75277400789136,
+          19.54605203404239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "130",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4871512729901,
+          19.63720167327765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "128",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.60264385360271,
+          19.624755586268552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "127",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.62869189988332,
+          19.642033719731646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "126",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.71870051014714,
+          19.62635451749996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "125",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.77170948810588,
+          19.588953043732573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "124",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.72939228098625,
+          19.817822034817404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "123",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.20452260726093,
+          19.732365365937195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "122",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.19153363980706,
+          19.73614377627177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "121",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.18640708950818,
+          19.75546401996974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "120",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.17804964702168,
+          19.75715005833554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "119",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.45301698784677,
+          19.69234246304996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "118",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.43403162642014,
+          19.711900516268155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "117",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.50109613636552,
+          19.672350106480824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "116",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.48210861830071,
+          19.679818386921195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "129",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.53323804239837,
+          19.658845985702012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.14560838771764,
+          18.67469264767585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.07547258755422,
+          18.662355530717623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.07443072337573,
+          18.66198835575148
         ]
       }
     },
@@ -33694,6 +32434,126 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "56",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2024248831058,
+          9.886552940153326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3427125558156,
+          9.857808402754513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.37500898417754,
+          9.862478790324202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.03672598302556,
+          9.949175858614192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.13178850132091,
+          9.92404521840468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.12144371952121,
+          9.93259131070227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.18798448318475,
+          9.812299845502984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.02608512558817,
+          9.843717657604303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "80",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -33724,30 +32584,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "82",
+        "field_1": "109",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.94875500924519,
-          9.847983619741036
+          76.18061912406614,
+          9.645294765327366
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "83",
+        "field_1": "108",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.22268228205691,
-          9.77270280945449
+          76.18431137173653,
+          9.661196113289492
         ]
       }
     },
@@ -33889,15 +32749,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "54",
+        "field_1": "98",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.37500898417754,
-          9.862478790324202
+          76.19566489143423,
+          9.663870361585724
         ]
       }
     },
@@ -33919,15 +32779,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "109",
+        "field_1": "50",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.18061912406614,
-          9.645294765327366
+          76.15959514474721,
+          9.90540070541646
         ]
       }
     },
@@ -34114,6 +32974,36 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "83",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.22268228205691,
+          9.77270280945449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.94875500924519,
+          9.847983619741036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "95",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -34129,45 +33019,165 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "56",
+        "field_1": "110",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.2024248831058,
-          9.886552940153326
+          76.17451612796508,
+          9.641910553740043
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "33",
+        "field_1": "49",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.04113569166633,
-          9.997891619827334
+          76.14151298257559,
+          9.909155058784718
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "47",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.19466341386112,
-          9.967008767717966
+          76.1736216085545,
+          9.927926532060322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.24644016599366,
+          10.046829351985384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.22880085932165,
+          10.068382742384404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.08869266467458,
+          10.09912881887238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.22880085932165,
+          10.068382742384404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.23002596329545,
+          10.08013168108872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.23177868813876,
+          10.080067581254005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.23163629856103,
+          10.080985514026043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.22089154932371,
+          10.086520179312316
         ]
       }
     },
@@ -34309,21 +33319,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.22089154932371,
-          10.086520179312316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "39",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -34333,6 +33328,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           77.27046957643881,
           7.8580670988907455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3526415611797,
+          7.962174018756504
         ]
       }
     },
@@ -34459,15 +33469,180 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "15",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.03831255942664,
-          10.007061966371252
+          76.08167396340878,
+          10.090301561532112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.07977696292991,
+          10.080327157345785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.08478024159483,
+          10.076487462965815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.08405439669384,
+          10.075881025978026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.18079157903239,
+          9.930072234817684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1981286427847,
+          9.924217518077512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.32187337955699,
+          9.87364159871628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.30753677531472,
+          9.88523691385134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.30671426451808,
+          9.886242839363982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.37501797313182,
+          9.862523874134922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.00993458036054,
+          9.973031599534629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.18080057056336,
+          9.930117300179036
         ]
       }
     },
@@ -34481,68 +33656,113 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.3526415611797,
-          7.962174018756504
+          76.18888084304632,
+          9.939156282847032
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "8",
+        "field_1": "37",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.23163629856103,
-          10.080985514026043
+          76.19205021536854,
+          9.953660029075644
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "55",
+        "field_1": "36",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.3427125558156,
-          9.857808402754513
+          76.21471999859656,
+          9.934435852806589
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "10",
+        "field_1": "35",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.23002596329545,
-          10.08013168108872
+          76.33699576729225,
+          9.908653338781882
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "29",
+        "field_1": "34",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.22540878660325,
-          9.972938890707608
+          76.04270853533494,
+          9.993415114979667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.17828649681726,
+          9.921245397032544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.04113569166633,
+          9.997891619827334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.19466341386112,
+          9.967008767717966
         ]
       }
     },
@@ -34558,6 +33778,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           76.20819018863334,
           9.965138458857677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.22540878660325,
+          9.972938890707608
         ]
       }
     },
@@ -34654,21 +33889,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "21",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.08927684244543,
-          10.065677235325737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "22",
         "Date": "20240906",
         "DaysOld": "9.0"
@@ -34684,135 +33904,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
+        "field_1": "21",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.239733420863,
-          10.034848159196782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.08405439669384,
-          10.075881025978026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.08478024159483,
-          10.076487462965815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.07977696292991,
-          10.080327157345785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.08167396340878,
-          10.090301561532112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.24644016599366,
-          10.046829351985384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.22880085932165,
-          10.068382742384404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.08869266467458,
-          10.09912881887238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240906",
-        "DaysOld": "9.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.22880085932165,
-          10.068382742384404
+          76.08927684244543,
+          10.065677235325737
         ]
       }
     },
@@ -34834,210 +33934,270 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
+        "field_1": "19",
         "Date": "20240906",
         "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.23177868813876,
-          10.080067581254005
+          76.239733420863,
+          10.034848159196782
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "58",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "32",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.58541310141949,
-          22.49822154898037
+          76.03831255942664,
+          10.007061966371252
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "55",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "207",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.42713718036595,
-          22.46168752928302
+          93.6384400774536,
+          19.33387310171204
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "56",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "111",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.42388296565046,
-          22.482224137078312
+          76.18435490653485,
+          9.63902765963643
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "57",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "113",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.58592774916168,
-          22.48802628344196
+          76.18851931500467,
+          9.608547447563264
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "65",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "112",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.58144299363008,
-          22.514209625182367
+          76.18536830658553,
+          9.620368189975402
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "60",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "5",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.8509132749435,
-          22.38979230588136
+          92.33585844106688,
+          20.8545658098881
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "61",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "4",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.91347713090803,
-          22.42856009754781
+          92.3099221499472,
+          20.906421029349055
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "62",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "3",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.91347713090803,
-          22.42856009754781
+          92.3099440257733,
+          20.91306432943289
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "63",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "2",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.42388296565046,
-          22.482224137078312
+          92.27428992858388,
+          20.951399962402807
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "64",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "1",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.42342056621797,
-          22.49159525358169
+          92.27392987539262,
+          20.952065537339493
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "54",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "0",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.92481129816646,
-          22.390270545809507
+          92.9958434485622,
+          20.87811781435764
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "59",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "49",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.85119904638452,
-          22.38886222913412
+          92.89744879672443,
+          17.47499346454209
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "53",
-        "Date": "20240907",
-        "DaysOld": "8.0"
+        "field_1": "48",
+        "Date": "20240906",
+        "DaysOld": "9.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.89852747035239,
-          22.36126310831226
+          92.89760325367412,
+          17.475759657847842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9396297317953,
+          17.348744360976717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.55839026797577,
+          17.662533232599408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.840136371968,
+          17.85355234643303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.89077642339753,
+          17.849051498737847
         ]
       }
     },
@@ -35045,14 +34205,989 @@ var json_NorthIndian_4 = {
       "type": "Feature",
       "properties": {
         "field_1": "43",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.59309816611508,
+          18.219395011054168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4661620557444,
+          18.665279480360365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.63477784458088,
+          18.511300246325447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.78090135436535,
+          18.58790082211407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.57441243390134,
+          18.881379158479767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6473205414417,
+          18.672661055695414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.66081636264823,
+          18.659809944483214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6562015011394,
+          18.660853449877536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6473205414417,
+          18.672661055695414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.76900225976306,
+          18.619719217016023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.12619846399818,
+          18.597377398823483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.17092741507874,
+          18.55688795564775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "143",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76899014519103,
+          9.17640183019949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "142",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.16602639950725,
+          9.113095074162183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "208",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2716380994897,
+          19.383224929166357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "140",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84783033591108,
+          9.279064688825567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "137",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.37956474707552,
+          9.161566623448609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "138",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.39536940153715,
+          9.15147440042114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "136",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.37274884688986,
+          9.178581457639694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "134",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.46379297915102,
+          9.138091192382742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "133",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.67318804763086,
+          9.336424658961096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "132",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9069880320999,
+          9.284952609024112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "131",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.66025255300019,
+          9.372111372818772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "130",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.66361214731252,
+          9.484571987832789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "129",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.217046801739,
+          9.371675496776918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "128",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.29324483330888,
+          9.417467858764502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "127",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25156315390485,
+          9.42856128241693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "126",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76899557423611,
+          9.611811848271916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "125",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.77548344717378,
+          9.62125318007882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "135",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.40864333013597,
+          9.15730793810986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "123",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.18880813653652,
+          9.58173689556286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "139",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8475346765293,
+          9.28038697370619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "114",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1783755969915,
+          9.629200592429736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "124",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.13395881362803,
+          9.562889304266376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "115",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.17210488751708,
+          9.624256835256086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "116",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.17374340382908,
+          9.622199279883144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "117",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.96034875510186,
+          9.655563725393034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "141",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.60195507320067,
+          9.260846822901142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "119",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.19015392286799,
+          9.601524282575118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "120",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.18451638144401,
+          9.598141947252085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "121",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.18734026320881,
+          9.59102391706486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "122",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.18546060911068,
+          9.585492356637728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "118",
+        "Date": "20240906",
+        "DaysOld": "9.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.48760908732424,
+          9.539570227892192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.11234485806787,
-          22.20711830610013
+          88.22764586745203,
+          22.519988403628314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.24152085274568,
+          22.52494973542922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3346213541709,
+          22.564429259413288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.33461624689856,
+          22.566389943786444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.33604459791512,
+          22.568601287270475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.34261851000093,
+          22.57493489752963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35793142297898,
+          22.60269098569861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36219826343901,
+          22.62954205722181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35572022178226,
+          22.67338127802812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.48836658447334,
+          23.12822683753601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.49524693319431,
+          23.1300640782982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4123032190591,
+          23.20925782448047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.34871453358876,
+          23.30761567408004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.34904104636654,
+          23.308698641999264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35959374862908,
+          23.370714767840937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.37140165629656,
+          23.52599546239882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.29638839685099,
+          23.54419478129396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.61889617498584,
+          22.4096436683426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.23227241045147,
+          22.51986702803388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.40720769718182,
+          22.99113464448008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3436415289622,
+          23.28028063109788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.90470228287147,
+          22.432984019055024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9052601591594,
+          22.431726944315468
         ]
       }
     },
@@ -35179,15 +35314,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "66",
+        "field_1": "43",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.91347713090803,
-          22.42856009754781
+          88.11234485806787,
+          22.20711830610013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0616829646646,
+          22.22812595986619
         ]
       }
     },
@@ -35203,21 +35353,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           88.1065029081172,
           22.20551763597176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.11365443441747,
-          22.20627585030396
         ]
       }
     },
@@ -35269,66 +35404,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "52",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.0616829646646,
-          22.22812595986619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.91347713090803,
-          22.42856009754781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.90470228287147,
-          22.432984019055024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.52791559651966,
-          22.608826521768545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "37",
         "Date": "20240907",
         "DaysOld": "8.0"
@@ -35344,285 +35419,90 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "100",
+        "field_1": "36",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.29638839685099,
-          23.54419478129396
+          89.43153461172702,
+          22.402009544762265
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "99",
+        "field_1": "35",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.37140165629656,
-          23.52599546239882
+          89.43227533694214,
+          22.39724699598099
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "98",
+        "field_1": "34",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.35959374862908,
-          23.370714767840937
+          88.14896692420871,
+          22.194978707605845
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "96",
+        "field_1": "33",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.34871453358876,
-          23.30761567408004
+          87.88061756106175,
+          22.14221239081341
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "95",
+        "field_1": "32",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.3436415289622,
-          23.28028063109788
+          89.61663649917595,
+          22.41438091871458
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "94",
+        "field_1": "41",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.4123032190591,
-          23.20925782448047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.49524693319431,
-          23.1300640782982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.48836658447334,
-          23.12822683753601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "91",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.40720769718182,
-          22.99113464448008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.35409553445139,
-          22.652970325016668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.36219826343901,
-          22.62954205722181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.35793142297898,
-          22.60269098569861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.34261851000093,
-          22.57493489752963
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.33604459791512,
-          22.568601287270475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.33461624689856,
-          22.566389943786444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.3346213541709,
-          22.564429259413288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.24152085274568,
-          22.52494973542922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.22764586745203,
-          22.519988403628314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.23227241045147,
-          22.51986702803388
+          88.11365443441747,
+          22.20627585030396
         ]
       }
     },
@@ -35644,15 +35524,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "77",
+        "field_1": "53",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.9052601591594,
-          22.431726944315468
+          88.89852747035239,
+          22.36126310831226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42713718036595,
+          22.46168752928302
         ]
       }
     },
@@ -35764,6 +35659,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "69",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.52791559651966,
+          22.608826521768545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "68",
         "Date": "20240907",
         "DaysOld": "8.0"
@@ -35779,30 +35689,735 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "90",
+        "field_1": "54",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.35572022178226,
-          22.67338127802812
+          88.92481129816646,
+          22.390270545809507
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "121",
+        "field_1": "67",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.89330610220621,
-          22.059751032473272
+          88.91347713090803,
+          22.42856009754781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.58144299363008,
+          22.514209625182367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42342056621797,
+          22.49159525358169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91347713090803,
+          22.42856009754781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91347713090803,
+          22.42856009754781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8509132749435,
+          22.38979230588136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.85119904638452,
+          22.38886222913412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.58541310141949,
+          22.49822154898037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.58592774916168,
+          22.48802628344196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42388296565046,
+          22.482224137078312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91347713090803,
+          22.42856009754781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42388296565046,
+          22.482224137078312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "112",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.70021920061859,
+          21.96751607898636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "129",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.56050577029103,
+          22.179247923920897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.83856012451173,
+          21.27533083169744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.89957904549387,
+          20.967714215788146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.87069459810503,
+          20.973244783268832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.88836152821965,
+          20.9930688695533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.86899023603584,
+          21.005589307520477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.92582673364515,
+          21.014101836481306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.89385617247366,
+          21.02335105390171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9031132344559,
+          21.04077922474012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.88214228885028,
+          21.07527103918813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.93075464518802,
+          21.06455793326136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64310429610906,
+          21.422736159295194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.58621239096509,
+          21.438928617902235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.53052703362039,
+          21.458891362846227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.53026906009708,
+          21.460198107883546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.17066993125297,
+          21.378223680451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.78798310725324,
+          21.34912952028063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64469504659051,
+          21.70404604535068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.87474660644527,
+          21.75163340627692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4774219233123,
+          21.537347500834997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6173013252462,
+          21.72320804927443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.07358007504492,
+          21.691403350215477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.54501306114194,
+          21.773921306482787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.58607345396044,
+          21.610683814854408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.06884181401675,
+          21.71213014515038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.54501626945543,
+          21.774154695749587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.53105094659684,
+          21.77717448441318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.53182544467093,
+          21.79146366258469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.53469247847578,
+          21.799124168702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.24099282842161,
+          21.580733731339144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8320646437176,
+          21.272729920269736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.86981896515522,
+          21.71915921454444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.77091560588202,
+          21.261570872795623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.68693802697855,
+          21.24572350809276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.60870091508933,
+          22.40802038556241
         ]
       }
     },
@@ -35824,225 +36439,795 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "86",
+        "field_1": "1",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.04302127759934,
-          21.733146161169227
+          87.83303293216365,
+          20.63511057398435
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "85",
+        "field_1": "2",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.04302127759934,
-          21.733146161169227
+          88.76376331813586,
+          20.823056963125133
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "84",
+        "field_1": "3",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.00754819143677,
-          21.7134843986919
+          89.79396610621133,
+          21.184962219973645
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "83",
+        "field_1": "4",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.50126100258058,
-          21.77856394770601
+          89.89389675513246,
+          21.19140116075826
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "82",
+        "field_1": "5",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.50197056416731,
-          21.77822198724984
+          89.9200894432986,
+          21.175340802151464
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "81",
+        "field_1": "6",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.02401813159635,
-          21.692531628571235
+          89.919952152118,
+          21.176294836251728
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "80",
+        "field_1": "7",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.03297234537975,
-          21.692268961884253
+          89.90867313437109,
+          21.179910225173455
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "79",
+        "field_1": "8",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.03100401832873,
-          21.685130129521017
+          89.9540146031565,
+          21.195647588866404
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "78",
+        "field_1": "9",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.02244176927157,
-          21.68373173490121
+          89.94603209421255,
+          21.212484062943084
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "77",
+        "field_1": "10",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.03355515352267,
-          21.67777402375328
+          90.01211499700351,
+          21.19963560452128
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "76",
+        "field_1": "11",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.57073366253522,
-          21.93298764549708
+          90.04257212496915,
+          21.197455163351695
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "75",
+        "field_1": "12",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.0213894598582,
-          21.667866248541497
+          90.03385158597955,
+          21.21211883367399
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "74",
+        "field_1": "13",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.45850549071523,
-          21.707666347421178
+          89.74523162308016,
+          21.18904718660634
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "73",
+        "field_1": "14",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.36945166563126,
-          21.69017158749669
+          89.78727571949494,
+          21.189869873328508
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "72",
+        "field_1": "15",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.88790836472127,
-          21.59995932655641
+          89.82170809938697,
+          21.211550496608865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8615846975298,
+          21.204178019207745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.89089051278899,
+          21.2200735825739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.94603209421255,
+          21.212484062943084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.98212283336818,
+          21.226501170061763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.747037132098,
+          21.21501792465537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.85544623939546,
+          21.23832312929931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8414893813869,
+          21.236073927527816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.89249999887268,
+          21.23840716600496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8983473508954,
+          21.238053734567767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.96128482261207,
+          21.27516361678689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.89727079202682,
+          20.93791691853194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.22385207867276,
+          20.996923725011147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.69348838352778,
+          21.25774818780465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.46560460889049,
+          21.820106764294746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4700255903761,
+          21.826360401049342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.47047817196248,
+          21.827555837428164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.62844725770196,
+          21.939057613603914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.63459541552233,
+          21.947603629196003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.67058051766999,
+          21.94140999885752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "102",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.68075892453791,
+          21.94076929336393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "103",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.68542637875623,
+          21.94690821144993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "104",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.57851185948718,
+          22.078696992590363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "105",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.81567050473947,
+          22.13822912286152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "106",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97882630993736,
+          21.840615342251542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "107",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0128291384007,
+          21.84302142216586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "108",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.98589254760427,
+          21.84805626144332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "109",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.14767072214231,
+          21.86927339116202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "110",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.15442743679246,
+          21.87258371344507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "111",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1614601738543,
+          21.875990019731304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "113",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.69903252358395,
+          21.96875448942563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "114",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.70927726026046,
+          21.98118587896684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "115",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7146812031442,
+          21.989547406148517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "116",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3049875970747,
+          22.085598700302487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "117",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.66379663391396,
+          22.019879499199085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "118",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.72339245584692,
+          22.001051978873186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "119",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.72244863417525,
+          22.001820294240467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "120",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.71478121425207,
+          22.004400844534665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "121",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.89330610220621,
+          22.059751032473272
         ]
       }
     },
@@ -36154,486 +37339,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "129",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.56050577029103,
-          22.179247923920897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "130",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.55877763523597,
-          22.18077023058082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.47047817196248,
-          21.827555837428164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.46963350062693,
-          21.82685223087716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.96193397507062,
-          21.77125676869272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.8561879769405,
-          21.7426306623762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.64024042004978,
-          21.850999128951003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.56643921150655,
-          21.83099120277549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.57345980183773,
-          21.830739667675434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.53391749501719,
-          21.831139403988903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.017968929225,
-          21.930919839589897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "119",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.72244863417525,
-          22.001820294240467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "118",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.72339245584692,
-          22.001051978873186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "117",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.66379663391396,
-          22.019879499199085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "116",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.3049875970747,
-          22.085598700302487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "115",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.7146812031442,
-          21.989547406148517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "114",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.70927726026046,
-          21.98118587896684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "113",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.69903252358395,
-          21.96875448942563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "112",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.70021920061859,
-          21.96751607898636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "111",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.1614601738543,
-          21.875990019731304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "110",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.15442743679246,
-          21.87258371344507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "109",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.14767072214231,
-          21.86927339116202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "108",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.98589254760427,
-          21.84805626144332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "107",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.0128291384007,
-          21.84302142216586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "106",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.97882630993736,
-          21.840615342251542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "105",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.81567050473947,
-          22.13822912286152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "104",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.57851185948718,
-          22.078696992590363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "103",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.68542637875623,
-          21.94690821144993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "102",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.68075892453791,
-          21.94076929336393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "101",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.67058051766999,
-          21.94140999885752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "100",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.63459541552233,
-          21.947603629196003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "99",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.62844725770196,
-          21.939057613603914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "98",
         "Date": "20240907",
         "DaysOld": "8.0"
@@ -36694,60 +37399,360 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "94",
+        "field_1": "65",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.00324634287443,
-          21.82395213454213
+          89.52764231920695,
+          21.82344155502553
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "93",
+        "field_1": "66",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.92287849505308,
-          21.799666803320413
+          89.57345980183773,
+          21.830739667675434
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "92",
+        "field_1": "67",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.8901097486163,
-          21.775701575524486
+          89.64024042004978,
+          21.850999128951003
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "91",
+        "field_1": "68",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.87686898957477,
-          22.084669801844317
+          88.8561879769405,
+          21.7426306623762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.96193397507062,
+          21.77125676869272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.46963350062693,
+          21.82685223087716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.47047817196248,
+          21.827555837428164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.88790836472127,
+          21.59995932655641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36945166563126,
+          21.69017158749669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.45850549071523,
+          21.707666347421178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0213894598582,
+          21.667866248541497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.57073366253522,
+          21.93298764549708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.03355515352267,
+          21.67777402375328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.02244176927157,
+          21.68373173490121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "130",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.55877763523597,
+          22.18077023058082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.03100401832873,
+          21.685130129521017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.02401813159635,
+          21.692531628571235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50197056416731,
+          21.77822198724984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50126100258058,
+          21.77856394770601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.00754819143677,
+          21.7134843986919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.04302127759934,
+          21.733146161169227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.04302127759934,
+          21.733146161169227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.56643921150655,
+          21.83099120277549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.53391749501719,
+          21.831139403988903
         ]
       }
     },
@@ -36769,45 +37774,90 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "120",
+        "field_1": "90",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.71478121425207,
-          22.004400844534665
+          89.017968929225,
+          21.930919839589897
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "65",
+        "field_1": "91",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.52764231920695,
-          21.82344155502553
+          89.87686898957477,
+          22.084669801844317
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "63",
+        "field_1": "92",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.4700255903761,
-          21.826360401049342
+          87.8901097486163,
+          21.775701575524486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.92287849505308,
+          21.799666803320413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.00324634287443,
+          21.82395213454213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.03297234537975,
+          21.692268961884253
         ]
       }
     },
@@ -36821,23 +37871,23 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.69348838352778,
-          21.25774818780465
+          89.62126567478163,
+          22.402831358086296
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "28",
+        "field_1": "89",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.68693802697855,
-          21.24572350809276
+          88.35409553445139,
+          22.652970325016668
         ]
       }
     },
@@ -36851,998 +37901,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.22385207867276,
-          20.996923725011147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.89727079202682,
-          20.93791691853194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.96128482261207,
-          21.27516361678689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.8983473508954,
-          21.238053734567767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.89249999887268,
-          21.23840716600496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.8414893813869,
-          21.236073927527816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.85544623939546,
-          21.23832312929931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.747037132098,
-          21.21501792465537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.98212283336818,
-          21.226501170061763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.94603209421255,
-          21.212484062943084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.89089051278899,
-          21.2200735825739
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.8615846975298,
-          21.204178019207745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.82170809938697,
-          21.211550496608865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.78727571949494,
-          21.189869873328508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.74523162308016,
-          21.18904718660634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.03385158597955,
-          21.21211883367399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.04257212496915,
-          21.197455163351695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.01211499700351,
-          21.19963560452128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.94603209421255,
-          21.212484062943084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.9540146031565,
-          21.195647588866404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.90867313437109,
-          21.179910225173455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.919952152118,
-          21.176294836251728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.9200894432986,
-          21.175340802151464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.89389675513246,
-          21.19140116075826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.79396610621133,
-          21.184962219973645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.76376331813586,
-          20.823056963125133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.83303293216365,
-          20.63511057398435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.77091560588202,
-          21.261570872795623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.47047817196248,
-          21.827555837428164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.8320646437176,
-          21.272729920269736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.89957904549387,
-          20.967714215788146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.46560460889049,
-          21.820106764294746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.86981896515522,
-          21.71915921454444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.24099282842161,
-          21.580733731339144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.53469247847578,
-          21.799124168702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.53182544467093,
-          21.79146366258469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.53105094659684,
-          21.77717448441318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.54501626945543,
-          21.774154695749587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.06884181401675,
-          21.71213014515038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.58607345396044,
-          21.610683814854408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.54501306114194,
-          21.773921306482787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.07358007504492,
-          21.691403350215477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.6173013252462,
-          21.72320804927443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.4774219233123,
-          21.537347500834997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.87474660644527,
-          21.75163340627692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.64469504659051,
-          21.70404604535068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.78798310725324,
-          21.34912952028063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.17066993125297,
-          21.378223680451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.53026906009708,
-          21.460198107883546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.53052703362039,
-          21.458891362846227
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.58621239096509,
-          21.438928617902235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.64310429610906,
-          21.422736159295194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.93075464518802,
-          21.06455793326136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.88214228885028,
-          21.07527103918813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.9031132344559,
-          21.04077922474012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.89385617247366,
-          21.02335105390171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.92582673364515,
-          21.014101836481306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.86899023603584,
-          21.005589307520477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.88836152821965,
-          20.9930688695533
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.87069459810503,
-          20.973244783268832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.83856012451173,
-          21.27533083169744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.43153461172702,
-          22.402009544762265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "97",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.34904104636654,
-          23.308698641999264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.14896692420871,
-          22.194978707605845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.0419224145051,
-          21.98531707027273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.58264044157563,
-          22.227694727261923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.09045483227224,
-          22.1590525801535
+          87.96479397963924,
+          22.10081699377897
         ]
       }
     },
@@ -37894,15 +37954,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "35",
+        "field_1": "28",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.43227533694214,
-          22.39724699598099
+          89.42624252417045,
+          22.353724609542763
         ]
       }
     },
@@ -37969,21 +38029,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.05246259818091,
-          22.00184775156542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "3",
         "Date": "20240907",
         "DaysOld": "8.0"
@@ -37993,6 +38038,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           89.49665469715387,
           23.83028132182809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.50392345860244,
+          23.825382525813367
         ]
       }
     },
@@ -38171,23 +38231,23 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.50392345860244,
-          23.825382525813367
+          89.09045483227224,
+          22.1590525801535
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
+        "field_1": "3",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.0668049529125,
-          21.987247630724852
+          89.58264044157563,
+          22.227694727261923
         ]
       }
     },
@@ -38203,6 +38263,126 @@ var json_NorthIndian_4 = {
         "coordinates": [
           89.52360654517813,
           23.816007677263936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.05246259818091,
+          22.00184775156542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0419224145051,
+          21.98531707027273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0969720002799,
+          22.027611290739745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.12195270761626,
+          22.035619193388648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.13586464661343,
+          22.05184808126597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.14379033416243,
+          22.05527165794505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2416800279454,
+          22.235133313759484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.58932608221052,
+          22.286013297439787
         ]
       }
     },
@@ -38239,6 +38419,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "17",
+        "Date": "20240907",
+        "DaysOld": "8.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.62478677633857,
+          22.326749400458617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "15",
         "Date": "20240907",
         "DaysOld": "8.0"
@@ -38248,36 +38443,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           89.61331083683444,
           22.30629658903553
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.8010647226365,
-          22.12163473833233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.62612766678863,
-          22.328464274609917
         ]
       }
     },
@@ -38404,225 +38569,45 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "17",
+        "field_1": "18",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.62478677633857,
-          22.326749400458617
+          89.62612766678863,
+          22.328464274609917
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "28",
+        "field_1": "6",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.42624252417045,
-          22.353724609542763
+          88.0668049529125,
+          21.987247630724852
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "27",
+        "field_1": "7",
         "Date": "20240907",
         "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.96479397963924,
-          22.10081699377897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.12195270761626,
-          22.035619193388648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.13586464661343,
-          22.05184808126597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.14379033416243,
-          22.05527165794505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.2416800279454,
-          22.235133313759484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.0969720002799,
-          22.027611290739745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.88061756106175,
-          22.14221239081341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.61663649917595,
-          22.41438091871458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.61889617498584,
-          22.4096436683426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.60870091508933,
-          22.40802038556241
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.62126567478163,
-          22.402831358086296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240907",
-        "DaysOld": "8.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.58932608221052,
-          22.286013297439787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.46430428625862,
-          5.97080156008429
+          88.8010647226365,
+          22.12163473833233
         ]
       }
     },
@@ -38644,15 +38629,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "15",
+        "field_1": "11",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.46387028828528,
-          5.971829896072071
+          94.36794873309871,
+          6.276098921135468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.46430428625862,
+          5.97080156008429
         ]
       }
     },
@@ -38674,6 +38674,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "15",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.46387028828528,
+          5.971829896072071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "13",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -38683,36 +38698,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           94.35127294369424,
           6.260088028402515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.3517598434975,
-          6.25998822749408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.36794873309871,
-          6.276098921135468
         ]
       }
     },
@@ -38734,15 +38719,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "25",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.49671498912105,
-          6.117220586272466
+          80.13187100997868,
+          9.791882914545289
         ]
       }
     },
@@ -38788,6 +38773,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           94.63806572347566,
           6.289797124385846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49671498912105,
+          6.117220586272466
         ]
       }
     },
@@ -38854,21 +38854,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "25",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.13187100997868,
-          9.791882914545289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "17",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -38878,6 +38863,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           95.11628980849042,
           6.055456656332688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.13246011085077,
+          9.792189013983595
         ]
       }
     },
@@ -38914,15 +38914,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "92",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.73671867968946,
-          6.142656447979636
+          96.12858101700826,
+          15.903274374049706
         ]
       }
     },
@@ -38938,6 +38938,216 @@ var json_NorthIndian_4 = {
         "coordinates": [
           94.30275256063494,
           6.160112574585703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.69298381300214,
+          15.78097262399578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.29562265330344,
+          16.06455363847075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.79893186295836,
+          16.150615334347364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.35486478854014,
+          16.012296162030413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.74333727056111,
+          16.118300030469193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.71045544568862,
+          15.718047395406366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.70894400938292,
+          15.72598881921088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.71036432433002,
+          15.71806499221126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.37821080926835,
+          15.985541275613766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.74477339921194,
+          16.111550533622463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.71043709483268,
+          15.717957079299897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.71034597348378,
+          15.71797467611722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.20129888286483,
+          15.963562039414324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.68744269183,
+          16.006372213499926
         ]
       }
     },
@@ -39034,216 +39244,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "36",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.03533127618218,
-          5.764507911838263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.38701259048766,
-          5.686697180938002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.34577982114487,
-          5.962445544101924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.44012396031752,
-          5.920183953398055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.3153456959592,
-          6.0019444312647074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.13246011085077,
-          9.792189013983595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.51308783663734,
-          6.253153347657893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.12918982771934,
-          6.118882155198887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.32024854199088,
-          5.881599055483048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.29480174759264,
-          6.118110536343623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.29312029699352,
-          6.11845562784437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.40968931830996,
-          6.116111555428769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.03277272213126,
-          5.993945930200988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.68539537236492,
-          6.3080836693833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "21",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -39289,21 +39289,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.53411210520758,
-          9.525808173424227
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "21",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -39313,6 +39298,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           80.40166956720245,
           9.64395950525087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20092672367343,
+          9.574238264363332
         ]
       }
     },
@@ -39799,15 +39799,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "20",
+        "field_1": "19",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.20092672367343,
-          9.574238264363332
+          80.53411210520758,
+          9.525808173424227
         ]
       }
     },
@@ -39964,21 +39964,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "8",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.55999908327122,
-          9.459550820411907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "7",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -40003,6 +39988,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           81.88864555695383,
           9.519310375118518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.53313391106819,
+          9.46118786696104
         ]
       }
     },
@@ -40249,6 +40249,261 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "8",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55999908327122,
+          9.459550820411907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.040272074085,
+          16.274742047532502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.86941387625896,
+          16.178566237210987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.51308783663734,
+          6.253153347657893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.12918982771934,
+          6.118882155198887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.32024854199088,
+          5.881599055483048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.29480174759264,
+          6.118110536343623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.29312029699352,
+          6.11845562784437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.40968931830996,
+          6.116111555428769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.03277272213126,
+          5.993945930200988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.08004578387542,
+          5.962324978244842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.68539537236492,
+          6.3080836693833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.64091202679586,
+          16.929153318775064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.85617316392371,
+          17.022417882552393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.06032631065943,
+          16.95785993652479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.73671867968946,
+          6.142656447979636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.60248173763034,
+          16.817254364390248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "5",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -40256,38 +40511,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.53313391106819,
-          9.46118786696104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.74333727056111,
-          16.118300030469193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.12858101700826,
-          15.903274374049706
+          96.81851386843913,
+          16.956079366746607
         ]
       }
     },
@@ -40459,261 +40684,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "17",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.27370585733554,
-          16.813572383868014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.81851386843913,
-          16.956079366746607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.24525028723852,
-          16.794886027829353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.59149906540918,
-          16.926476153688668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.24189397873718,
-          16.78802948870884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22237036862018,
-          16.786378096685315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22006284733632,
-          16.785306798759123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.21785994435764,
-          16.77632465202136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.638383668682,
-          16.50142000278552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.61553566556248,
-          16.498555726746865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.58028308804802,
-          16.50729366862966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.48023693877992,
-          16.509224615494357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.43968628022562,
-          16.517963838156746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.19309866214428,
-          16.761392506167685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.19555528218562,
-          16.75622582752228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.1140442082695,
-          16.824427835334973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.18091569495084,
-          16.75708934325792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "4",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -40729,30 +40699,60 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "2",
+        "field_1": "17",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.06032631065943,
-          16.95785993652479
+          96.27370585733554,
+          16.813572383868014
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
+        "field_1": "32",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.6430125908508,
-          16.9471284426473
+          94.3153456959592,
+          6.0019444312647074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.34577982114487,
+          5.962445544101924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.27313044184834,
+          14.23021943806511
         ]
       }
     },
@@ -40924,15 +40924,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "33",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.60248173763034,
-          16.817254364390248
+          94.44012396031752,
+          5.920183953398055
         ]
       }
     },
@@ -41104,30 +41104,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "36",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.64091202679586,
-          16.929153318775064
+          95.03533127618218,
+          5.764507911838263
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "35",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.85617316392371,
-          17.022417882552393
+          95.38701259048766,
+          5.686697180938002
         ]
       }
     },
@@ -41149,246 +41149,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "93",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.68744269183,
-          16.006372213499926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.18702665071538,
-          16.753307116022196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.12306247498142,
-          16.775351749402784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.8417587940528,
-          16.46520695754293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.8208601712895,
-          16.462028656188465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.2648724417626,
-          16.36431231627389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.04147810921192,
-          16.37062481531859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.04134008671096,
-          16.370650163051405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.040272074085,
-          16.274742047532502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.56604483295322,
-          15.97125680563148
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.27811577032452,
-          16.211906784240778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22564548609368,
-          16.148919890523395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.91823419791746,
-          16.212776531108688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.87990231116034,
-          16.19391324755392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.86941387625896,
-          16.178566237210987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.28851058024792,
-          16.377186150717517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "78",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -41404,465 +41164,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "80",
+        "field_1": "18",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.29562265330344,
-          16.06455363847075
+          96.24525028723852,
+          16.794886027829353
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "81",
+        "field_1": "20",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.79893186295836,
-          16.150615334347364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.35486478854014,
-          16.012296162030413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "114",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          82.27421920005453,
-          16.485571097180696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.71045544568862,
-          15.718047395406366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.70894400938292,
-          15.72598881921088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.71036432433002,
-          15.71806499221126
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.37821080926835,
-          15.985541275613766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.74477339921194,
-          16.111550533622463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.71043709483268,
-          15.717957079299897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.71034597348378,
-          15.71797467611722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "91",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.20129888286483,
-          15.963562039414324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "79",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.69298381300214,
-          15.78097262399578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.18032714199194,
-          16.757243966960385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.84248336020494,
-          16.511365047770393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.51845328701032,
-          16.20148591600717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.12435241957915,
-          16.774135653830104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22478581068236,
-          16.73255983800479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.2253003638682,
-          16.72793567646967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.60833682464802,
-          16.441037564926418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.60826131631948,
-          16.421874437717754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.60971351156216,
-          16.421034670257885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22548448545132,
-          16.701890349439125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22561898250258,
-          16.700884974828185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.2291797365818,
-          16.688556539402065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22540856516426,
-          16.683224071272857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22002950011785,
-          16.6815492425441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          97.62124387230509,
-          16.394170135671857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.30994461718852,
-          16.399199882999753
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.22762677894131,
-          16.669927174885704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.25400193723225,
-          16.651572044178966
+          95.59149906540918,
+          16.926476153688668
         ]
       }
     },
@@ -42034,6 +41359,261 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "62",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.51845328701032,
+          16.20148591600717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.25400193723225,
+          16.651572044178966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.30994461718852,
+          16.399199882999753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.28851058024792,
+          16.377186150717517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8417587940528,
+          16.46520695754293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8208601712895,
+          16.462028656188465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2648724417626,
+          16.36431231627389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.04147810921192,
+          16.37062481531859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.04134008671096,
+          16.370650163051405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "114",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.27421920005453,
+          16.485571097180696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.56604483295322,
+          15.97125680563148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.27811577032452,
+          16.211906784240778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22564548609368,
+          16.148919890523395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.91823419791746,
+          16.212776531108688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.87990231116034,
+          16.19391324755392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.84248336020494,
+          16.511365047770393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1140442082695,
+          16.824427835334973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "49",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -42043,6 +41623,426 @@ var json_NorthIndian_4 = {
         "coordinates": [
           96.23823076791626,
           16.659895229744993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.62124387230509,
+          16.394170135671857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.24189397873718,
+          16.78802948870884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22237036862018,
+          16.786378096685315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22006284733632,
+          16.785306798759123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.21785994435764,
+          16.77632465202136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.638383668682,
+          16.50142000278552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.61553566556248,
+          16.498555726746865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.58028308804802,
+          16.50729366862966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.48023693877992,
+          16.509224615494357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.43968628022562,
+          16.517963838156746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.19309866214428,
+          16.761392506167685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.19555528218562,
+          16.75622582752228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.18091569495084,
+          16.75708934325792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22762677894131,
+          16.669927174885704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.18702665071538,
+          16.753307116022196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.12306247498142,
+          16.775351749402784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.12435241957915,
+          16.774135653830104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22478581068236,
+          16.73255983800479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2253003638682,
+          16.72793567646967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.60833682464802,
+          16.441037564926418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.60826131631948,
+          16.421874437717754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.60971351156216,
+          16.421034670257885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22548448545132,
+          16.701890349439125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22561898250258,
+          16.700884974828185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2291797365818,
+          16.688556539402065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22540856516426,
+          16.683224071272857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.22002950011785,
+          16.6815492425441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.18032714199194,
+          16.757243966960385
         ]
       }
     },
@@ -42064,15 +42064,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "86",
+        "field_1": "90",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.18666446748256,
-          16.707229730032232
+          81.86824179320092,
+          16.77001242479051
         ]
       }
     },
@@ -44569,15 +44569,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "90",
+        "field_1": "9",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.86824179320092,
-          16.77001242479051
+          97.6430125908508,
+          16.9471284426473
         ]
       }
     },
@@ -44629,15 +44629,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "8",
+        "field_1": "86",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.8876529600663,
-          17.130014473484405
+          82.18666446748256,
+          16.707229730032232
         ]
       }
     },
@@ -45544,210 +45544,45 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
+        "field_1": "8",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.88922710238288,
-          17.130470412029982
+          96.8876529600663,
+          17.130014473484405
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
+        "field_1": "12",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.08004578387542,
-          5.962324978244842
+          94.3517598434975,
+          6.25998822749408
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "64",
+        "field_1": "65",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.27313044184834,
-          14.23021943806511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.00083013841774,
-          5.942173463262875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.02460433736688,
-          5.929971095317836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.53412532831607,
-          5.994766214634423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.1938281721928,
-          5.948081648094942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.52097822782777,
-          5.9798711324622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          82.59989724685876,
-          6.092687344294773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          82.19120313595278,
-          5.921961925046845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.68495056991846,
-          16.435172798786397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.68738128569831,
-          15.879848265031743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.53724484714593,
-          15.850480061868993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.79977871190371,
-          15.760612775770747
+          95.8223112114572,
+          14.026601866509708
         ]
       }
     },
@@ -45799,21 +45634,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.70706230953675,
-          6.074834117962526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "17",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -45823,6 +45643,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           80.22740209199097,
           15.53528151419862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21435980316723,
+          15.495948961392305
         ]
       }
     },
@@ -45919,6 +45754,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "21",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.79977871190371,
+          15.760612775770747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "9",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -45928,21 +45778,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           80.07331097434138,
           15.018482419933472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.06872448908554,
-          15.014396737017428
         ]
       }
     },
@@ -46039,21 +45874,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "16",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.21435980316723,
-          15.495948961392305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "1",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -46069,171 +45889,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "8",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.61387533455506,
-          5.928033570751915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.62164048469153,
-          5.934762577699732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.16124899128893,
-          16.643381951934746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.16064935047963,
-          16.643272065534827
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.16124899128893,
-          16.643381951934746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.16064935047963,
-          16.643272065534827
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.53147159522547,
-          16.55572182223932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.5520291013376,
-          16.544839568916387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.56227579584102,
-          16.54027663990178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.57180008197561,
-          16.529620087689725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.58172204099337,
-          16.512285983433955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "0",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -46241,83 +45896,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.60059543827211,
-          16.506212054460637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.88927325279496,
-          17.1304618530767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.7612806161637,
-          7.473225385357015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.75882696339622,
-          7.464917814150135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.75666290490625,
-          7.457183280547141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.62199629229887,
-          5.933897530770091
+          80.14818081036152,
+          14.691029982544771
         ]
       }
     },
@@ -46339,30 +45919,60 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "24",
+        "field_1": "27",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.83390994190879,
-          7.1287514289896246
+          81.75666290490625,
+          7.457183280547141
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
+        "field_1": "28",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.27101268020452,
-          7.165421002820748
+          81.75882696339622,
+          7.464917814150135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.06872448908554,
+          15.014396737017428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7612806161637,
+          7.473225385357015
         ]
       }
     },
@@ -46376,68 +45986,23 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.27095063397081,
-          7.164800630055606
+          80.53724484714593,
+          15.850480061868993
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "21",
+        "field_1": "24",
         "Date": "20240908",
         "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.97084122681032,
-          6.755990648969578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.97096098208578,
-          6.754236556574695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          82.31115929327386,
-          6.595076332794835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.34174647507324,
-          6.219707540239724
+          80.68495056991846,
+          16.435172798786397
         ]
       }
     },
@@ -46549,6 +46114,246 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "10",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.62164048469153,
+          5.934762577699732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.62199629229887,
+          5.933897530770091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.61387533455506,
+          5.928033570751915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70706230953675,
+          6.074834117962526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.68738128569831,
+          15.879848265031743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.00083013841774,
+          5.942173463262875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.53412532831607,
+          5.994766214634423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1938281721928,
+          5.948081648094942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.52097822782777,
+          5.9798711324622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.59989724685876,
+          6.092687344294773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.19120313595278,
+          5.921961925046845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.97096098208578,
+          6.754236556574695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.97084122681032,
+          6.755990648969578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.27095063397081,
+          7.164800630055606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.27101268020452,
+          7.165421002820748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.83390994190879,
+          7.1287514289896246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "25",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -46564,36 +46369,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.14818081036152,
-          14.691029982544771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.8223112114572,
-          14.026601866509708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "5",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -46601,8 +46376,68 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.21174133468816,
-          17.129957191594986
+          81.02460433736688,
+          5.929971095317836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.34174647507324,
+          6.219707540239724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31115929327386,
+          6.595076332794835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.87239161601096,
+          17.498002321754818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240908",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16124899128893,
+          16.643381951934746
         ]
       }
     },
@@ -46654,21 +46489,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
-        "Date": "20240908",
-        "DaysOld": "7.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.87239161601096,
-          17.498002321754818
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "4",
         "Date": "20240908",
         "DaysOld": "7.0"
@@ -46684,780 +46504,180 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "70",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "5",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.75471585653594,
-          22.275776357064235
+          97.21174133468816,
+          17.129957191594986
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "71",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "6",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.74538689513928,
-          22.276202519995906
+          96.88927325279496,
+          17.1304618530767
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "72",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "8",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.72754121367808,
-          22.27242027737056
+          80.16064935047963,
+          16.643272065534827
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "73",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "7",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7261325396685,
-          22.28054568929932
+          80.16124899128893,
+          16.643381951934746
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "74",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "6",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.73121252549302,
-          22.283196906007188
+          80.16064935047963,
+          16.643272065534827
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "75",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "5",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7176191519924,
-          22.281767803724303
+          80.53147159522547,
+          16.55572182223932
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "76",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "4",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.74674898575472,
-          22.291987933858096
+          80.5520291013376,
+          16.544839568916387
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "69",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "2",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7390445868758,
-          22.273281539238454
+          80.57180008197561,
+          16.529620087689725
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "3",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.22698541758436,
-          18.348411552775712
+          80.56227579584102,
+          16.54027663990178
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "78",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "0",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.731650173161,
-          22.294792430526726
+          80.60059543827211,
+          16.506212054460637
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "79",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "7",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.72207271538092,
-          22.293528657960582
+          96.88922710238288,
+          17.130470412029982
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "80",
-        "Date": "20240909",
-        "DaysOld": "6.0"
+        "field_1": "1",
+        "Date": "20240908",
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.74201862843796,
-          22.30222949250079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.73227068313923,
-          22.30178496359089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.72400014464765,
-          22.31026305060927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.73018288470064,
-          22.316715259758592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.8176489627591,
-          22.314864195358656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.58989363352018,
-          22.300048204460904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7259941778269,
-          22.32293557531708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.73181838028448,
-          22.326698823417694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.87339406010358,
-          22.354643077898547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.54606999014966,
-          22.509682925191218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.74461372694049,
-          22.2917438523447
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.75582493622962,
-          22.27190388419342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7383071615754,
-          22.2649572035166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.74689614650298,
-          22.267580831828543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.73734393872031,
-          22.23678681333972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7462307034883,
-          22.24494592650332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.72697281188913,
-          22.243337113597224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.75104371757908,
-          22.24969816292096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.73529090101296,
-          22.247745189761343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.739221821179,
-          22.253981018317194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.74756363226535,
-          22.258713841713558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.72965851718928,
-          22.259741320217444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.72232386596342,
-          22.258180052673133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.755915630186,
-          22.27004792875993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7979798591066,
-          22.216169368161644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7869822002201,
-          22.22223805565734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.83456239716526,
-          22.26511859988844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7061917001372,
-          22.258491556098853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.6942547876553,
-          22.27318691711485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.70653828630086,
-          22.278733246666448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.71738098190237,
-          22.2817247183404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.70725406526888,
-          22.30381680096509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.71087251316747,
-          22.310136120200745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.42047722581214,
-          22.615773778942074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.78408906473388,
-          22.216380658143088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "91",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.4199899171106,
-          22.616903330938737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "94",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.43034422025012,
-          22.738767001374377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.445516856473,
-          22.72680537480866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.68658706642115,
-          19.386269759261165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.67191058712406,
-          19.41296437268501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.98153234852111,
-          19.44612288924599
+          80.58172204099337,
+          16.512285983433955
         ]
       }
     },
@@ -47471,8 +46691,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.2943994966886,
-          19.17381792605952
+          91.75727717908843,
+          22.20696115383689
         ]
       }
     },
@@ -47486,8 +46706,53 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.27303734720915,
-          19.383073583777158
+          91.8030440172478,
+          22.16114813618877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "109",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.23037096139488,
+          19.862400305868853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "108",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2314452394406,
+          19.861892620737112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.80770643975886,
+          22.20406795614205
         ]
       }
     },
@@ -47501,68 +46766,38 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.44242205630482,
-          19.409751944841933
+          91.81231193818104,
+          22.168763905692565
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "18",
+        "field_1": "24",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.46246980216422,
-          19.403784993901443
+          91.7808657800694,
+          22.192676638213644
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
+        "field_1": "22",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.46399219395602,
-          19.403684480466563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.47280250969338,
-          19.417503711223706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.66163331558904,
-          19.41509543251572
+          91.80117686118903,
+          22.185712937503794
         ]
       }
     },
@@ -47576,8 +46811,53 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.44355722178868,
-          19.42196339036741
+          91.79589519970972,
+          22.17563325199763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.78108345216738,
+          22.171511552457964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.78652872078128,
+          22.166829523853547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.80335918867452,
+          22.168647359886474
         ]
       }
     },
@@ -47591,353 +46871,53 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.8735667303738,
-          19.477887647777504
+          91.7870668325815,
+          22.187943502080863
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "24",
+        "field_1": "14",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.87802257967152,
-          19.4991576568953
+          91.78108345216738,
+          22.171511552457964
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "25",
+        "field_1": "105",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.18825775699976,
-          19.448093743906146
+          93.21428284345924,
+          19.84048824346276
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "26",
+        "field_1": "12",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.30554040157034,
-          19.443495281643045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.41318854353636,
-          19.46891521803049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.4379876586588,
-          19.477957201553693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.49831185300924,
-          19.48779716411717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.5209157635654,
-          19.470786323634368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.50666602193796,
-          19.50466067285437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.60852550520312,
-          19.42665949983336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.41939683152276,
-          22.61712382905407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.62408241394662,
-          19.391433459217247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.4634607904745,
-          19.37541900741667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7548952099329,
-          22.23606857528282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "95",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.4361375170012,
-          22.763698342194164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "96",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.44639953668678,
-          22.76658362664314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "97",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.44614401499008,
-          22.767801843662003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "98",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.43948051480196,
-          22.77057791073665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "99",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.44067508219815,
-          22.784608663955204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.17090982244176,
-          5.604577636170336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.3234554276334,
-          5.583324348637245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.27820299975052,
-          5.571202826967491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6325815690258,
-          19.376751336977197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.27388173604515,
-          5.562048869114006
+          91.77409859804736,
+          22.16744355315385
         ]
       }
     },
@@ -47951,8 +46931,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.2478180623334,
-          5.549358520280047
+          94.18506008713732,
+          16.326703687276922
         ]
       }
     },
@@ -47966,8 +46946,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.63994074530612,
-          19.33385053153848
+          91.74506867876114,
+          22.136212826951617
         ]
       }
     },
@@ -47981,8 +46961,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.6471657658856,
-          19.340419519003223
+          91.78918865136072,
+          22.10374165361194
         ]
       }
     },
@@ -47996,8 +46976,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.69513898019343,
-          19.342607138259797
+          91.77488926653471,
+          22.110711149158377
         ]
       }
     },
@@ -48011,8 +46991,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.70276329453458,
-          19.34546539590999
+          91.765498333341,
+          22.119126391542792
         ]
       }
     },
@@ -48026,8 +47006,23 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.70408209214308,
-          19.3685772680157
+          91.75376218187124,
+          22.14209535987267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.76495579057928,
+          22.168463191525216
         ]
       }
     },
@@ -48041,23 +47036,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.73659182126724,
-          19.33223133806604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.0323442039622,
-          19.275329884408627
+          91.7943140529454,
+          22.12067549226133
         ]
       }
     },
@@ -48071,8 +47051,488 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.46805149395604,
-          19.36895807916847
+          91.7900031888992,
+          22.144800543945166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.80859026583772,
+          22.14815290064723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.71066211369651,
+          22.1854642469919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "110",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.26353289976366,
+          19.81406386278042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7644134346322,
+          22.15567969661276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.77798869034608,
+          22.15929797715188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.82010445595908,
+          22.12771541340217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "111",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.53405995750086,
+          19.904841633444136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "119",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.71015865910395,
+          19.95761395958521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "113",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.70469759689406,
+          19.946617264074003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "142",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.94412775475708,
+          20.19219538571486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "141",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.92306174867532,
+          20.186908459570752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "140",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.92307419922994,
+          20.17989758358945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "139",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.91676596768323,
+          20.16253434842467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "138",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.04674228693035,
+          20.14806867661712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "137",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.96917090693758,
+          20.13434244512197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "136",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9031222793796,
+          20.137673351724327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "135",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.40890170998196,
+          20.168713528929093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "134",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.90298785356956,
+          20.086167954229808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "133",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9023937055877,
+          20.085499437760728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "132",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.92944826090628,
+          20.084592159665057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "131",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.90210281585628,
+          20.08549361370375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "130",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.40498405448504,
+          20.085660730951737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "129",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.35064789932711,
+          20.063708465531192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "128",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9765195353229,
+          20.021789878534697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "127",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.98067997518208,
+          20.003933435009824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "126",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.38310177491304,
+          20.02536150081889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "125",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2460486979984,
+          20.026059705930805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "124",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.24516558457223,
+          20.02585508305743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "123",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15630173588976,
+          20.02071929174473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "122",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1565503968063,
+          20.01464267444989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "121",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.38205277312731,
+          19.9923487714362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "120",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.70978041867782,
+          19.95806023035425
         ]
       }
     },
@@ -48086,98 +47546,293 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.25093066001428,
-          5.5646878351658335
+          94.1834205986479,
+          16.32775531980885
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "44",
+        "field_1": "118",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7466849262144,
-          22.234261592896317
+          93.56237898852224,
+          19.95421493226618
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "41",
+        "field_1": "117",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.76774056330744,
-          22.224761899792966
+          93.19999805610716,
+          19.913712822022237
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "42",
+        "field_1": "116",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.75786268669616,
-          22.22902023168625
+          93.22343723333356,
+          19.87750770817304
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "25",
+        "field_1": "115",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.42368200607136,
-          16.92733107425568
+          93.22368270378205,
+          19.87629022708946
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "24",
+        "field_1": "114",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.38481238294489,
-          16.919191133026217
+          93.18661915759952,
+          19.90364462428681
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
+        "field_1": "112",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.4042299176192,
-          16.915269645650266
+          93.71687585245418,
+          19.896239766785623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "106",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.23902942808871,
+          19.84909866851053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.68042608336096,
+          16.38380709546125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.19464684233104,
+          16.356503915876814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.105051738127,
+          15.003370956497363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1484450208197,
+          15.00390304789943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.89741240080554,
+          14.802479795522794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.04785403973165,
+          15.03974838591498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.76795796966287,
+          15.033650267932048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.62303332468144,
+          14.86122730050301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.94786949352869,
+          14.95789205221782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.74630497101494,
+          15.103206255035197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.01864305345988,
+          15.155572866639034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.64142847272632,
+          14.904682392138726
         ]
       }
     },
@@ -48191,8 +47846,473 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.39252433924406,
-          16.91018447451609
+          95.74471062914397,
+          6.226940540905765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.87070930983576,
+          6.20518892971859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.48596953195874,
+          6.15138169773725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.11450863790624,
+          6.06272562313699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.11495177374474,
+          6.061691827443818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1171497834163,
+          6.055487377062472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.91688300745795,
+          5.996770399864716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.094552851684,
+          14.9725491344771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.90685566226745,
+          6.169535774719701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1268186125043,
+          14.936538285883936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.09502902807031,
+          14.944417177151037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "104",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.23559232771323,
+          19.84469551324448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "103",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0262050497418,
+          19.81078933649412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "102",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.76389521224014,
+          19.870356313089545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72796454827032,
+          19.89003854315632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.53580120284764,
+          19.861739542684195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.43909533323117,
+          19.792344816264027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.40128920038576,
+          19.80749496299799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4030460658701,
+          19.796507173689022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.29768428855002,
+          19.784634334090043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.29790661955046,
+          19.7842537493334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.26284555598058,
+          19.794084893221918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.16013390942614,
+          19.792704838076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.16077324738636,
+          19.79146456623093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.49636794444667,
+          14.503179612977528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0973369846532,
+          14.642455851813514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.04638579449798,
+          14.884888607145747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.06950559383652,
+          14.919292568896005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.08250983619004,
+          14.953678119416088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6711155745832,
+          16.384386262578207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.64121180408505,
+          6.141802524097591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.66444120067574,
+          6.074713844459612
         ]
       }
     },
@@ -48274,21 +48394,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "26",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.41839798205494,
-          16.942900818055683
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "16",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -48298,6 +48403,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           94.34484197723536,
           16.677530206122228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.94476680371096,
+          16.537455855636715
         ]
       }
     },
@@ -48439,21 +48559,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "15",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.94476680371096,
-          16.537455855636715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "5",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -48469,105 +48574,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "27",
+        "field_1": "22",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.21555487167724,
-          16.92180019613903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.43407551078192,
-          16.965574538338174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.11495177374474,
-          6.061691827443818
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.1171497834163,
-          6.055487377062472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.91688300745795,
-          5.996770399864716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.90685566226745,
-          6.169535774719701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.64121180408505,
-          6.141802524097591
+          94.39252433924406,
+          16.91018447451609
         ]
       }
     },
@@ -48589,15 +48604,30 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "12",
+        "field_1": "23",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.66444120067574,
-          6.074713844459612
+          94.4042299176192,
+          16.915269645650266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.42368200607136,
+          16.92733107425568
         ]
       }
     },
@@ -48634,21 +48664,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "28",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.42712583186032,
-          16.959398685241947
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "9",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -48658,6 +48673,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           96.02102713735384,
           6.083862468676344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0361618877111,
+          5.764358123379915
         ]
       }
     },
@@ -48784,180 +48814,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "30",
+        "field_1": "107",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.41746459767322,
-          16.9719722737299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.0361618877111,
-          5.764358123379915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.76464135312084,
-          22.236233144467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.19464684233104,
-          16.356503915876814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.68042608336096,
-          16.38380709546125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.80117686118903,
-          22.185712937503794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7870668325815,
-          22.187943502080863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7808657800694,
-          22.192676638213644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.80770643975886,
-          22.20406795614205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.8027732409482,
-          22.20369358895801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.80611193064134,
-          22.20813347768237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.77903001007918,
-          22.204281815095975
+          93.23212198403606,
+          19.850099015876065
         ]
       }
     },
@@ -48971,8 +48836,68 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.79307738597971,
-          22.20971580875428
+          94.43407551078192,
+          16.965574538338174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.42712583186032,
+          16.959398685241947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.21555487167724,
+          16.92180019613903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.41839798205494,
+          16.942900818055683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38481238294489,
+          16.919191133026217
         ]
       }
     },
@@ -48986,23 +48911,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7979798591066,
-          22.216169368161644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.79589519970972,
-          22.17563325199763
+          94.41746459767322,
+          16.9719722737299
         ]
       }
     },
@@ -49024,120 +48934,45 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "33",
+        "field_1": "27",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.72757385327296,
-          22.22752747638476
+          91.80611193064134,
+          22.20813347768237
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "30",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.718356604611,
-          22.22693596923737
+          93.5209157635654,
+          19.470786323634368
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "35",
+        "field_1": "31",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.71434115877382,
-          22.247465383120968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7219904855817,
-          22.258119728718768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.70638143856486,
-          22.257823597167015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7638135446404,
-          22.213896735672275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.74348093446928,
-          22.217438151545185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7529749374946,
-          22.22013507972853
+          93.50666602193796,
+          19.50466067285437
         ]
       }
     },
@@ -49159,396 +48994,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.70623478575553,
-          22.205826093736658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.6711155745832,
-          16.384386262578207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.78108345216738,
-          22.171511552457964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.80335918867452,
-          22.168647359886474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.1834205986479,
-          16.32775531980885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.18506008713732,
-          16.326703687276922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.74506867876114,
-          22.136212826951617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.78918865136072,
-          22.10374165361194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.77488926653471,
-          22.110711149158377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.765498333341,
-          22.119126391542792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.75376218187124,
-          22.14209535987267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7943140529454,
-          22.12067549226133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.82010445595908,
-          22.12771541340217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.78652872078128,
-          22.166829523853547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7900031888992,
-          22.144800543945166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.71066211369651,
-          22.1854642469919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7644134346322,
-          22.15567969661276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.77798869034608,
-          22.15929797715188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.77409859804736,
-          22.16744355315385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.76495579057928,
-          22.168463191525216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.78108345216738,
-          22.171511552457964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.75727717908843,
-          22.20696115383689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.8030440172478,
-          22.16114813618877
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.81231193818104,
-          22.168763905692565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.80859026583772,
-          22.14815290064723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.11450863790624,
-          6.06272562313699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "33",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -49558,1461 +49003,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           93.54876145114058,
           19.469942146066707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.57945515262313,
-          19.489215729592708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "160",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.07813379303111,
-          20.50901922880655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "161",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.2402624241278,
-          20.403759847768605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "162",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.73549022621368,
-          20.55682336497113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "163",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.3385449880368,
-          20.6286724377461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "164",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.4246597383139,
-          20.595446582089483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "165",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.9603890367919,
-          20.741272737990407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.94777833500156,
-          14.958343349650267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.7826661678464,
-          15.123608684323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.78347561305011,
-          15.1250223898748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "159",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.07757311914492,
-          20.50915271703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.78153346801552,
-          15.152526472557382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.71794219444706,
-          15.160473686315369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.852844453293,
-          15.212375740901695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.86038900414783,
-          15.214481314004193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.21744977525609,
-          15.240520530325682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.937723356835,
-          15.253861538512057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.00798529420926,
-          15.279699004243936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.91106389152884,
-          15.084964652609916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.1430385818936,
-          15.39788391639959
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.65161474921348,
-          15.432961370296624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.9809618976663,
-          15.15857260781518
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "158",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.3422834282622,
-          20.348450103674992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "157",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.25428071771026,
-          20.36507186143608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "156",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.3019745705178,
-          20.46489556210733
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "135",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.40890170998196,
-          20.168713528929093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "136",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.9031222793796,
-          20.137673351724327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "137",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.96917090693758,
-          20.13434244512197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "138",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.04674228693035,
-          20.14806867661712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "139",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.91676596768323,
-          20.16253434842467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "140",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.92307419922994,
-          20.17989758358945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "141",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.92306174867532,
-          20.186908459570752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "142",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.94412775475708,
-          20.19219538571486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "143",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.77001818692024,
-          20.231043480850825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "144",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.75097031277484,
-          20.24952898308282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "145",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.7470078646708,
-          20.254470773596022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "146",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.78746703988114,
-          20.25917883813145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "147",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.77879888828085,
-          20.28543738641802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "148",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.80364862359173,
-          20.2837011828951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "149",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.87285023352938,
-          20.30497130151045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "150",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.01983472225066,
-          20.324752169493134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "151",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.59119284938956,
-          20.28730645237052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "152",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.31114013275835,
-          20.426652562163284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "153",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.3108953825632,
-          20.427636214356216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "154",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.05006716019976,
-          20.459954425223152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "155",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.05006716019976,
-          20.459954425223152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.59516756314244,
-          15.384081338224451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.59497455249635,
-          15.385498100362142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.16564828898817,
-          15.73251556910484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.15823575784523,
-          15.73157588556813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.34803349431878,
-          16.01060188009283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.34879898842662,
-          16.011539370644854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.35495172618565,
-          16.019138080180504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.36094239949792,
-          16.04864004217428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.6520311590048,
-          16.095118423078297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.65221475216218,
-          16.09515224237843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.95796079827252,
-          16.147638405312495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.2002370275366,
-          16.029852007107454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.6610847369597,
-          16.120567373043457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.90861584672206,
-          16.20634660551337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.53000143560482,
-          16.201978134340813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.53109566820136,
-          16.202460323763084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.02769622444696,
-          16.28555526484312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.00515772511294,
-          16.140030804153866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.16315781826758,
-          16.17246846711721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.16286829170198,
-          16.173677062345863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.01552719100474,
-          16.18233816240688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.2130534337592,
-          16.210001593586316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "79",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.55370415510949,
-          16.14118796297114
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.083003707845,
-          16.40700973301306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.08287409485544,
-          16.40791869770633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.42399270142668,
-          15.873800608626178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "134",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.90298785356956,
-          20.086167954229808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.3196985698459,
-          15.968426862534226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.10890413281602,
-          15.925744979512402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.15941860789307,
-          15.731839543152992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.76920087645448,
-          15.515816728423392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.06510129779775,
-          15.745676360699504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.92203040741671,
-          15.744627624803858
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.92129576803276,
-          15.745706493407445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.90941461088003,
-          15.750334066328984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.39805423466822,
-          15.535768827905338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.81332708480348,
-          15.817072527587372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.81378980373051,
-          15.817858527551188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.11298646944832,
-          15.72322669199919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.38997334190005,
-          15.822068661503954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.39678153439058,
-          15.829932894300692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.40767954710157,
-          15.837062677802551
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.26876401759708,
-          15.843383271251014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.26876401759708,
-          15.843383271251014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.26832663792771,
-          15.8498985861922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.27533040695651,
-          15.855371841298016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.40533963085868,
-          15.884004604351624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.40533963085868,
-          15.884004604351624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.39634436624068,
-          15.909314613221742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.8953367689772,
-          15.87885287210217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.10871432056489,
-          15.92669229164822
         ]
       }
     },
@@ -51034,390 +49024,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "133",
+        "field_1": "35",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.9023937055877,
-          20.085499437760728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "131",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.90210281585628,
-          20.08549361370375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.53252559559483,
-          19.59667163191539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.57415996187456,
-          19.586599698720125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.64694274474265,
-          19.595614799819327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.63942250323224,
-          19.61462659165821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.63043383039104,
-          19.642152971090997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.64731060783662,
-          19.6463755558571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.64708512231104,
-          19.647735744827028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.69721667246073,
-          19.651048139674817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.50227086761257,
-          19.672463665829728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.48917939256329,
-          19.569201005895632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.52715412376472,
-          19.674954005441656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.5505998450224,
-          19.6895461538292
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.5898312032518,
-          19.69368811580049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6137368466153,
-          19.69239244446744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.61223674332784,
-          19.69333883790509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.7896552103965,
-          19.69703621747214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.48303679329273,
-          19.67981021117165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.5348020487114,
-          19.732857560321115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "79",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.58362028412208,
-          19.71358850691514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.1927310628885,
-          19.735948171858457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.50434859883126,
-          19.680026666293223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.50319391481518,
-          19.568488728703134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.7465189483671,
-          19.580846139032435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.74706806300031,
-          19.57954375526542
+          93.57945515262313,
+          19.489215729592708
         ]
       }
     },
@@ -51589,6 +49204,186 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "29",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.49831185300924,
+          19.48779716411717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4379876586588,
+          19.477957201553693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.41318854353636,
+          19.46891521803049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.30554040157034,
+          19.443495281643045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4634607904745,
+          19.37541900741667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6325815690258,
+          19.376751336977197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.62408241394662,
+          19.391433459217247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.66163331558904,
+          19.41509543251572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.68658706642115,
+          19.386269759261165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.67191058712406,
+          19.41296437268501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.98153234852111,
+          19.44612288924599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2943994966886,
+          19.17381792605952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "47",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -51598,6 +49393,171 @@ var json_NorthIndian_4 = {
         "coordinates": [
           93.61181553981528,
           19.540608483929912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.27303734720915,
+          19.383073583777158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.46246980216422,
+          19.403784993901443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.46399219395602,
+          19.403684480466563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.47280250969338,
+          19.417503711223706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.44355722178868,
+          19.42196339036741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.60852550520312,
+          19.42665949983336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8735667303738,
+          19.477887647777504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.87802257967152,
+          19.4991576568953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.18825775699976,
+          19.448093743906146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.44242205630482,
+          19.409751944841933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.46805149395604,
+          19.36895807916847
         ]
       }
     },
@@ -51619,21 +49579,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "49",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6276466207374,
-          19.559353713430852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "50",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -51643,6 +49588,321 @@ var json_NorthIndian_4 = {
         "coordinates": [
           93.60489923507916,
           19.563931341260563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5898312032518,
+          19.69368811580049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6137368466153,
+          19.69239244446744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61223674332784,
+          19.69333883790509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7896552103965,
+          19.69703621747214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.48303679329273,
+          19.67981021117165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5348020487114,
+          19.732857560321115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.58362028412208,
+          19.71358850691514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1927310628885,
+          19.735948171858457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.20580411759656,
+          19.73157293769428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2053695604356,
+          19.732522826889767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.43458618668689,
+          19.76146510024882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4721982072895,
+          19.749693561929032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.46295048256754,
+          19.760228940414777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5191653166894,
+          19.65327737055776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.54351507059836,
+          19.673257833398505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.54379594688932,
+          19.673309408739414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.18801683114684,
+          19.75496158110644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5505998450224,
+          19.6895461538292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.50434859883126,
+          19.680026666293223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.52715412376472,
+          19.674954005441656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.50227086761257,
+          19.672463665829728
         ]
       }
     },
@@ -51739,1851 +49999,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "81",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.20580411759656,
-          19.73157293769428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.2053695604356,
-          19.732522826889767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.43458618668689,
-          19.76146510024882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.4721982072895,
-          19.749693561929032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "110",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.26353289976366,
-          19.81406386278042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "111",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.53405995750086,
-          19.904841633444136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "112",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.71687585245418,
-          19.896239766785623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "113",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.70469759689406,
-          19.946617264074003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "114",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.18661915759952,
-          19.90364462428681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "115",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.22368270378205,
-          19.87629022708946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "116",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.22343723333356,
-          19.87750770817304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "117",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.19999805610716,
-          19.913712822022237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "118",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.56237898852224,
-          19.95421493226618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "119",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.71015865910395,
-          19.95761395958521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "120",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.70978041867782,
-          19.95806023035425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "121",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.38205277312731,
-          19.9923487714362
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "122",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.1565503968063,
-          20.01464267444989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "123",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.15630173588976,
-          20.02071929174473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "124",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.24516558457223,
-          20.02585508305743
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "125",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.2460486979984,
-          20.026059705930805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "126",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.38310177491304,
-          20.02536150081889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "127",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.98067997518208,
-          20.003933435009824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "128",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.9765195353229,
-          20.021789878534697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "129",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.35064789932711,
-          20.063708465531192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "130",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.40498405448504,
-          20.085660730951737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "109",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.23037096139488,
-          19.862400305868853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "132",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.92944826090628,
-          20.084592159665057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "108",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.2314452394406,
-          19.861892620737112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "106",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.23902942808871,
-          19.84909866851053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.46295048256754,
-          19.760228940414777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.5191653166894,
-          19.65327737055776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.54351507059836,
-          19.673257833398505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.54379594688932,
-          19.673309408739414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.18801683114684,
-          19.75496158110644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.17906796182484,
-          19.757182515759634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "91",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.1862024551209,
-          19.770197480670472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.16077324738636,
-          19.79146456623093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.16013390942614,
-          19.792704838076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "94",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.26284555598058,
-          19.794084893221918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "95",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.29790661955046,
-          19.7842537493334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "96",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.29768428855002,
-          19.784634334090043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "97",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.4030460658701,
-          19.796507173689022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "98",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.40128920038576,
-          19.80749496299799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "99",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.43909533323117,
-          19.792344816264027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "100",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.53580120284764,
-          19.861739542684195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "101",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.72796454827032,
-          19.89003854315632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "102",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.76389521224014,
-          19.870356313089545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "103",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.0262050497418,
-          19.81078933649412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "104",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.23559232771323,
-          19.84469551324448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "105",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.21428284345924,
-          19.84048824346276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "107",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.23212198403606,
-          19.850099015876065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.48596953195874,
-          6.15138169773725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.01864305345988,
-          15.155572866639034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.74471062914397,
-          6.226940540905765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.34601993298382,
-          18.298336485623405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.34444775442248,
-          18.297682379172368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.2841087743018,
-          18.267895397582237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.38836699708284,
-          18.247830262910647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.38075505030514,
-          18.242364253954637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.41179550696512,
-          18.237186736063578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.36331398646576,
-          18.24754891982201
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.337748924257,
-          18.243164492001124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.35964851757218,
-          18.2405026353683
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.37422665062267,
-          18.227622329055016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.33759955352812,
-          18.24318443559429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.33974943662518,
-          18.23073979615003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.41933472438312,
-          18.208169552044176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.48971977339632,
-          17.778369797225313
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.52692333330056,
-          17.749763783394062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.53053289114894,
-          17.736704229443816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.48825572124524,
-          17.76644825924274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "79",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.47488584976963,
-          17.760452063120038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.47576321961984,
-          17.759910399659592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.3447244576184,
-          18.318396814214527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.48769782272696,
-          17.75734768325129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.36645354703724,
-          18.29615684388728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.3794262679674,
-          18.302859617592688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "106",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.45747055763344,
-          18.96406116518927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "107",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.4844284038371,
-          18.93286218941042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "108",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.50673421344544,
-          18.984008747748213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "109",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.58979217337404,
-          18.969953544110204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "110",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.73266466601916,
-          18.9719588218946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "111",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.73367602270024,
-          18.973681665062426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "112",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.41480485380158,
-          19.08846607930121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "113",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.59963727503444,
-          19.151236284414782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "114",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.92924126280404,
-          19.19663347658051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "115",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.34671731099834,
-          19.004389464029884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "116",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.70424479916176,
-          19.29979728522112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "117",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.74086452656996,
-          19.290717543130206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "118",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.05657131416817,
-          19.35158254452347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.22951003108638,
-          18.33122520775558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.62364154862117,
-          18.069845341822184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.38149131980389,
-          18.32300573626024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.3802710670831,
-          18.311266648096307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.3868937524134,
-          18.31067744514342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.36575561835156,
-          18.302236070456747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.38035854733168,
-          18.302559755669844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "105",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.36236431371356,
-          18.940908371071057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.48648487730816,
-          17.75638330413045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.5295331216888,
-          17.701164237879542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.38399501585592,
-          20.705540867620957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.34561388246874,
-          20.756462604879403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.96918854889698,
-          20.871199383099917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.2887214619271,
-          20.906060206228386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.27824080828468,
-          20.942864755054387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.26481015392947,
-          21.01236198463393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.77401675733309,
-          21.10153052253207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.77357163332678,
-          21.102948291866127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.739157308192,
-          21.1403472188845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.0402547987545,
-          21.21352464705356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.0355937367356,
-          21.31891347445082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          95.87070930983576,
-          6.20518892971859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.73897614504226,
-          21.29232968721688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.6908702675,
-          21.379895599361344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.7102398579822,
-          21.42383603483055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.9480966074316,
-          21.464771314064706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.95877909650186,
-          21.46872509540689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.81369429369175,
-          21.535787115024267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.81934349060384,
-          21.5355990289219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.335401061814,
-          20.638020769773348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.56188931208868,
-          17.41735982244632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.31647076561974,
-          20.635459206312504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.440928147145,
-          18.169307062212177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "57",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -53591,8 +50006,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.52650247034543,
-          17.29064902555223
+          93.74706806300031,
+          19.57954375526542
         ]
       }
     },
@@ -53606,8 +50021,23 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.52749495473644,
-          17.29825003006815
+          93.7465189483671,
+          19.580846139032435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6276466207374,
+          19.559353713430852
         ]
       }
     },
@@ -53621,23 +50051,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.5276005649791,
-          17.305737163484427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.54806683370502,
-          17.311680548671273
+          93.50319391481518,
+          19.568488728703134
         ]
       }
     },
@@ -53651,8 +50066,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.57342738581691,
-          17.308801806919384
+          93.53252559559483,
+          19.59667163191539
         ]
       }
     },
@@ -53666,8 +50081,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.55989905701529,
-          17.32282895194552
+          93.57415996187456,
+          19.586599698720125
         ]
       }
     },
@@ -53681,8 +50096,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.50939195899034,
-          17.325033956601015
+          93.64694274474265,
+          19.595614799819327
         ]
       }
     },
@@ -53696,128 +50111,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.54452895856453,
-          17.326255794972425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.57123995026424,
-          17.618763541077506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.51742706459731,
-          17.57855064698649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.32913960836756,
-          17.459671610700795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.55641361044894,
-          17.480123639266747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.215992738664,
-          17.42886269585451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.55429112029464,
-          17.43097430583684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.56172958247876,
-          17.358069560026017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.5612103193028,
-          17.352188595601785
+          93.63942250323224,
+          19.61462659165821
         ]
       }
     },
@@ -53831,23 +50126,83 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.53700090203928,
-          17.328021096671794
+          93.63043383039104,
+          19.642152971090997
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
+        "field_1": "66",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.3553019956132,
-          18.188922565150197
+          93.64731060783662,
+          19.6463755558571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.64708512231104,
+          19.647735744827028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69721667246073,
+          19.651048139674817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.48917939256329,
+          19.569201005895632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8027732409482,
+          22.20369358895801
         ]
       }
     },
@@ -53861,8 +50216,848 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.3443695649748,
-          18.18743299034852
+          93.0323442039622,
+          19.275329884408627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.70408209214308,
+          19.3685772680157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73529090101296,
+          22.247745189761343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.739221821179,
+          22.253981018317194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74756363226535,
+          22.258713841713558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.72965851718928,
+          22.259741320217444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.72232386596342,
+          22.258180052673133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7979798591066,
+          22.216169368161644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.78408906473388,
+          22.216380658143088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7869822002201,
+          22.22223805565734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.83456239716526,
+          22.26511859988844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7061917001372,
+          22.258491556098853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6942547876553,
+          22.27318691711485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.70653828630086,
+          22.278733246666448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.71738098190237,
+          22.2817247183404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.70725406526888,
+          22.30381680096509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.71087251316747,
+          22.310136120200745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7383071615754,
+          22.2649572035166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74689614650298,
+          22.267580831828543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.75104371757908,
+          22.24969816292096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.72697281188913,
+          22.243337113597224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7462307034883,
+          22.24494592650332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73734393872031,
+          22.23678681333972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.77903001007918,
+          22.204281815095975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.79307738597971,
+          22.20971580875428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7979798591066,
+          22.216169368161644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "143",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.77001818692024,
+          20.231043480850825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.70623478575553,
+          22.205826093736658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.72757385327296,
+          22.22752747638476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.718356604611,
+          22.22693596923737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.71434115877382,
+          22.247465383120968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.755915630186,
+          22.27004792875993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7219904855817,
+          22.258119728718768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7638135446404,
+          22.213896735672275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74348093446928,
+          22.217438151545185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7529749374946,
+          22.22013507972853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.76774056330744,
+          22.224761899792966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.75786268669616,
+          22.22902023168625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.76464135312084,
+          22.236233144467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7466849262144,
+          22.234261592896317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7548952099329,
+          22.23606857528282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.70638143856486,
+          22.257823597167015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.73659182126724,
+          19.33223133806604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.75582493622962,
+          22.27190388419342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.75471585653594,
+          22.275776357064235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.445516856473,
+          22.72680537480866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.43034422025012,
+          22.738767001374377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4361375170012,
+          22.763698342194164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.44639953668678,
+          22.76658362664314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.44614401499008,
+          22.767801843662003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.43948051480196,
+          22.77057791073665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.44067508219815,
+          22.784608663955204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.17090982244176,
+          5.604577636170336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3234554276334,
+          5.583324348637245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.27820299975052,
+          5.571202826967491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.27388173604515,
+          5.562048869114006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.25093066001428,
+          5.5646878351658335
         ]
       }
     },
@@ -53876,53 +51071,758 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.31187016748856,
-          20.62886139669416
+          95.2478180623334,
+          5.549358520280047
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "104",
+        "field_1": "0",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.03974943883796,
-          19.018216860412675
+          93.63994074530612,
+          19.33385053153848
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "103",
+        "field_1": "1",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.979296911988,
-          18.983077192641133
+          93.6471657658856,
+          19.340419519003223
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "102",
+        "field_1": "2",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.99313441597938,
-          18.96198088835972
+          93.69513898019343,
+          19.342607138259797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.70276329453458,
+          19.34546539590999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.41939683152276,
+          22.61712382905407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4199899171106,
+          22.616903330938737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.42047722581214,
+          22.615773778942074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.54606999014966,
+          22.509682925191218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74538689513928,
+          22.276202519995906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.72754121367808,
+          22.27242027737056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7261325396685,
+          22.28054568929932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73121252549302,
+          22.283196906007188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7176191519924,
+          22.281767803724303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74674898575472,
+          22.291987933858096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74461372694049,
+          22.2917438523447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.731650173161,
+          22.294792430526726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7390445868758,
+          22.273281539238454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.72207271538092,
+          22.293528657960582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73227068313923,
+          22.30178496359089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.72400014464765,
+          22.31026305060927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73018288470064,
+          22.316715259758592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8176489627591,
+          22.314864195358656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.58989363352018,
+          22.300048204460904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7259941778269,
+          22.32293557531708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73181838028448,
+          22.326698823417694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.87339406010358,
+          22.354643077898547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74201862843796,
+          22.30222949250079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "144",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.75097031277484,
+          20.24952898308282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.937723356835,
+          15.253861538512057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "146",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.78746703988114,
+          20.25917883813145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9749688765962,
+          18.782094366949984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.99046977362228,
+          18.7801060544752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9749688765962,
+          18.782094366949984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.17670136097222,
+          18.773091812146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.74593997050548,
+          18.769972958813806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.99310179804804,
+          18.78874445424844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.98832789763864,
+          18.79895204012065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9684513752404,
+          18.779668510416208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.062892397322,
+          18.842430062736696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0845499685567,
+          18.82403829643649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.74146855934296,
+          18.80956874320589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.74269155474704,
+          18.82548188994049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.78544264840096,
+          18.82953591303932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.94410610353589,
+          18.855688507214285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.034687029018,
+          18.885079320464577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1006307255738,
+          18.912041463599795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0446037645904,
+          18.839954321258077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.95700167481102,
+          18.77729139112365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.95409679715516,
+          18.74474527818709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.64045609366322,
+          18.681530574578687
         ]
       }
     },
@@ -54184,30 +52084,330 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "73",
+        "field_1": "93",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.64045609366322,
-          18.681530574578687
+          93.65931976582247,
+          18.8842551216348
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "74",
+        "field_1": "94",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.95409679715516,
-          18.74474527818709
+          93.6580715695392,
+          18.88421656985985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85811218908508,
+          18.90595054509959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.990303961185,
+          18.921250534502004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2664767886229,
+          17.032843020862106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.05157903748204,
+          17.03589334317161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.50883245799002,
+          17.21005149583579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.47229361461282,
+          17.195426009245868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.46519786385124,
+          17.197684611092846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.46401650267195,
+          17.197609940692598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.453509745813,
+          17.19266510663801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51721664462634,
+          17.18332993680379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.47236474247664,
+          17.195065419045815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.48904364525583,
+          17.185957970839016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.48374846666272,
+          17.18466842121567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.49727143047234,
+          17.180637175075777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.50135079998807,
+          17.17572947755934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.49056474008044,
+          17.174141710304873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.44609693327506,
+          17.142287926007576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "113",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.59963727503444,
+          19.151236284414782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "114",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.92924126280404,
+          19.19663347658051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51650920802992,
+          17.296915600166496
         ]
       }
     },
@@ -54229,15 +52429,300 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "75",
+        "field_1": "53",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.95700167481102,
-          18.77729139112365
+          94.50318024990764,
+          17.311120878708145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.53389081459792,
+          17.288858861461502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9953736086613,
+          18.92322901094874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.47549142814964,
+          18.88235547387372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.45416869576704,
+          18.90452609086429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5734772700372,
+          18.93752943787028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8176949241302,
+          18.935263320275563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "102",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.99313441597938,
+          18.96198088835972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "103",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.979296911988,
+          18.983077192641133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "104",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.03974943883796,
+          19.018216860412675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "105",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.36236431371356,
+          18.940908371071057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "106",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.45747055763344,
+          18.96406116518927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "107",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4844284038371,
+          18.93286218941042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "108",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.50673421344544,
+          18.984008747748213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "109",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.58979217337404,
+          18.969953544110204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "110",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.73266466601916,
+          18.9719588218946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "111",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.73367602270024,
+          18.973681665062426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "112",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.41480485380158,
+          19.08846607930121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.53263450580872,
+          17.289891729330417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51172456039816,
+          17.3129467279343
         ]
       }
     },
@@ -54259,6 +52744,21 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "53",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.12755742825036,
+          18.597343801468902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "52",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -54274,30 +52774,630 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "33",
+        "field_1": "1",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.24513566798248,
-          18.35035742532328
+          94.43704713231772,
+          18.005808503922037
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "2",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.2660011493281,
-          18.36319497381077
+          94.4200873955704,
+          18.0552046647328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.41661568337628,
+          18.070863649910173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.00896182535,
+          17.857955214766008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.440928147145,
+          18.169307062212177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3443695649748,
+          18.18743299034852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3553019956132,
+          18.188922565150197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.41933472438312,
+          18.208169552044176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.33974943662518,
+          18.23073979615003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.33759955352812,
+          18.24318443559429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.37422665062267,
+          18.227622329055016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.35964851757218,
+          18.2405026353683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.54452895856453,
+          17.326255794972425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.50939195899034,
+          17.325033956601015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.55989905701529,
+          17.32282895194552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.57342738581691,
+          17.308801806919384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.54806683370502,
+          17.311680548671273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0076532299868,
+          17.762125141339588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5276005649791,
+          17.305737163484427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.48971977339632,
+          17.778369797225313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.53053289114894,
+          17.736704229443816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.08287409485544,
+          16.40791869770633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.53700090203928,
+          17.328021096671794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5612103193028,
+          17.352188595601785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.56172958247876,
+          17.358069560026017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.55429112029464,
+          17.43097430583684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.215992738664,
+          17.42886269585451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.55641361044894,
+          17.480123639266747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.32913960836756,
+          17.459671610700795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51742706459731,
+          17.57855064698649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.57123995026424,
+          17.618763541077506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5295331216888,
+          17.701164237879542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.56188931208868,
+          17.41735982244632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.48648487730816,
+          17.75638330413045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.48769782272696,
+          17.75734768325129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.47576321961984,
+          17.759910399659592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.47488584976963,
+          17.760452063120038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.48825572124524,
+          17.76644825924274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.52692333330056,
+          17.749763783394062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "115",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.34671731099834,
+          19.004389464029884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.52749495473644,
+          17.29825003006815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.337748924257,
+          18.243164492001124
         ]
       }
     },
@@ -54559,735 +53659,60 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "53",
+        "field_1": "34",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.12755742825036,
-          18.597343801468902
+          94.2660011493281,
+          18.36319497381077
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "76",
+        "field_1": "57",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.9684513752404,
-          18.779668510416208
+          94.52650247034543,
+          17.29064902555223
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "77",
+        "field_1": "33",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.9749688765962,
-          18.782094366949984
+          94.24513566798248,
+          18.35035742532328
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "78",
+        "field_1": "31",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.99046977362228,
-          18.7801060544752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.2664767886229,
-          17.032843020862106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.05157903748204,
-          17.03589334317161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.50883245799002,
-          17.21005149583579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.47229361461282,
-          17.195426009245868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.46519786385124,
-          17.197684611092846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.46401650267195,
-          17.197609940692598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.453509745813,
-          17.19266510663801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.51721664462634,
-          17.18332993680379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.47236474247664,
-          17.195065419045815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.48904364525583,
-          17.185957970839016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.48374846666272,
-          17.18466842121567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.49727143047234,
-          17.180637175075777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.50135079998807,
-          17.17572947755934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.49056474008044,
-          17.174141710304873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.44609693327506,
-          17.142287926007576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "98",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.47549142814964,
-          18.88235547387372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "99",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.45416869576704,
-          18.90452609086429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "100",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.5734772700372,
-          18.93752943787028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "101",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.8176949241302,
-          18.935263320275563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.51650920802992,
-          17.296915600166496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.50318024990764,
-          17.311120878708145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.51172456039816,
-          17.3129467279343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.53389081459792,
-          17.288858861461502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "79",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.9749688765962,
-          18.782094366949984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.17670136097222,
-          18.773091812146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.74593997050548,
-          18.769972958813806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.99310179804804,
-          18.78874445424844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.98832789763864,
-          18.79895204012065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.062892397322,
-          18.842430062736696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.0446037645904,
-          18.839954321258077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.0845499685567,
-          18.82403829643649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.74146855934296,
-          18.80956874320589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.82677067388464,
-          21.545476742453705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.74269155474704,
-          18.82548188994049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.94410610353589,
-          18.855688507214285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "91",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.034687029018,
-          18.885079320464577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.1006307255738,
-          18.912041463599795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.65931976582247,
-          18.8842551216348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "94",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.6580715695392,
-          18.88421656985985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "95",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.85811218908508,
-          18.90595054509959
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "96",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.990303961185,
-          18.921250534502004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "97",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.9953736086613,
-          18.92322901094874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.53263450580872,
-          17.289891729330417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.78544264840096,
-          18.82953591303932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.8261482411384,
-          21.551030329649038
+          94.2347993798227,
+          18.34052589322932
         ]
       }
     },
@@ -55301,68 +53726,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.70528376309132,
-          21.32471423626845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.82320416360936,
-          21.55803422286878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.76795796966287,
-          15.033650267932048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.62303332468144,
-          14.86122730050301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.94786949352869,
-          14.95789205221782
+          94.36331398646576,
+          18.24754891982201
         ]
       }
     },
@@ -55376,248 +53741,128 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.74630497101494,
-          15.103206255035197
+          94.41179550696512,
+          18.237186736063578
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "76",
+        "field_1": "16",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.69158981687336,
-          21.97457595296915
+          94.38075505030514,
+          18.242364253954637
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "75",
+        "field_1": "17",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.67787801896868,
-          21.96937316121477
+          94.38836699708284,
+          18.247830262910647
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "74",
+        "field_1": "18",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.88088833876355,
-          21.966982995304026
+          94.2841087743018,
+          18.267895397582237
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "11",
+        "field_1": "19",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.04785403973165,
-          15.03974838591498
+          94.34444775442248,
+          18.297682379172368
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "73",
+        "field_1": "20",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.88243374916722,
-          21.96571841136764
+          94.34601993298382,
+          18.298336485623405
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "71",
+        "field_1": "21",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.86182598926624,
-          21.960871400207687
+          94.3447244576184,
+          18.318396814214527
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "70",
+        "field_1": "22",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.86060748446644,
-          21.96032369494736
+          94.36645354703724,
+          18.29615684388728
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "69",
+        "field_1": "23",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.73129500876526,
-          21.941810637355744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.74368125246694,
-          21.931468987034528
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.71089545285471,
-          21.954349105562688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.70793699485992,
-          21.93298377191474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.72077524952888,
-          21.91228615570288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.8567870249986,
-          21.96445220406613
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          93.89741240080554,
-          14.802479795522794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.72223696673925,
-          22.02085500350287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.87478789956532,
-          22.022348035086797
+          94.38035854733168,
+          18.302559755669844
         ]
       }
     },
@@ -55631,218 +53876,1043 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.81630097076174,
-          21.55457499672665
+          94.3794262679674,
+          18.302859617592688
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "25",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.49636794444667,
-          14.503179612977528
+          94.36575561835156,
+          18.302236070456747
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "26",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.00896182535,
-          17.857955214766008
+          94.3868937524134,
+          18.31067744514342
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "27",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.0973369846532,
-          14.642455851813514
+          94.3802710670831,
+          18.311266648096307
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "2",
+        "field_1": "28",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.04638579449798,
-          14.884888607145747
+          94.38149131980389,
+          18.32300573626024
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "29",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.06950559383652,
-          14.919292568896005
+          92.62364154862117,
+          18.069845341822184
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "30",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.41661568337628,
-          18.070863649910173
+          94.22951003108638,
+          18.33122520775558
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "2",
+        "field_1": "32",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.4200873955704,
-          18.0552046647328
+          94.22698541758436,
+          18.348411552775712
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "145",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.43704713231772,
-          18.005808503922037
+          92.7470078646708,
+          20.254470773596022
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "116",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.0076532299868,
-          17.762125141339588
+          93.70424479916176,
+          19.29979728522112
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "118",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.09502902807031,
-          14.944417177151037
+          94.05657131416817,
+          19.35158254452347
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
+        "field_1": "56",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.08250983619004,
-          14.953678119416088
+          93.8953367689772,
+          15.87885287210217
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
+        "field_1": "55",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.1268186125043,
-          14.936538285883936
+          94.39634436624068,
+          15.909314613221742
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
+        "field_1": "54",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.094552851684,
-          14.9725491344771
+          94.40533963085868,
+          15.884004604351624
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "8",
+        "field_1": "53",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.105051738127,
-          15.003370956497363
+          94.40533963085868,
+          15.884004604351624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.27533040695651,
+          15.855371841298016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.26832663792771,
+          15.8498985861922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.26876401759708,
+          15.843383271251014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.10890413281602,
+          15.925744979512402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.26876401759708,
+          15.843383271251014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.39678153439058,
+          15.829932894300692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38997334190005,
+          15.822068661503954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.11298646944832,
+          15.72322669199919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81378980373051,
+          15.817858527551188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81332708480348,
+          15.817072527587372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.39805423466822,
+          15.535768827905338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.90941461088003,
+          15.750334066328984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.40767954710157,
+          15.837062677802551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.10871432056489,
+          15.92669229164822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3196985698459,
+          15.968426862534226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.42399270142668,
+          15.873800608626178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.01552719100474,
+          16.18233816240688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.16286829170198,
+          16.173677062345863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.16315781826758,
+          16.17246846711721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00515772511294,
+          16.140030804153866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.02769622444696,
+          16.28555526484312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.53109566820136,
+          16.202460323763084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.53000143560482,
+          16.201978134340813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.90861584672206,
+          16.20634660551337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6610847369597,
+          16.120567373043457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2002370275366,
+          16.029852007107454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.95796079827252,
+          16.147638405312495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.65221475216218,
+          16.09515224237843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6520311590048,
+          16.095118423078297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.36094239949792,
+          16.04864004217428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.35495172618565,
+          16.019138080180504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.34879898842662,
+          16.011539370644854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.34803349431878,
+          16.01060188009283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.92129576803276,
+          15.745706493407445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.92203040741671,
+          15.744627624803858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.06510129779775,
+          15.745676360699504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.76920087645448,
+          15.515816728423392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "163",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3385449880368,
+          20.6286724377461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "162",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.73549022621368,
+          20.55682336497113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "161",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2402624241278,
+          20.403759847768605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "160",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.07813379303111,
+          20.50901922880655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "159",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.07757311914492,
+          20.50915271703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "158",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3422834282622,
+          20.348450103674992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "157",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25428071771026,
+          20.36507186143608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "156",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3019745705178,
+          20.46489556210733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "155",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.05006716019976,
+          20.459954425223152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "154",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.05006716019976,
+          20.459954425223152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "153",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3108953825632,
+          20.427636214356216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "152",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.31114013275835,
+          20.426652562163284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "151",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.59119284938956,
+          20.28730645237052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "150",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.01983472225066,
+          20.324752169493134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "149",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.87285023352938,
+          20.30497130151045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "148",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.80364862359173,
+          20.2837011828951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "147",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.77879888828085,
+          20.28543738641802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "164",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4246597383139,
+          20.595446582089483
         ]
       }
     },
@@ -55864,6 +54934,306 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "165",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9603890367919,
+          20.741272737990407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7826661678464,
+          15.123608684323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15941860789307,
+          15.731839543152992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15823575784523,
+          15.73157588556813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.16564828898817,
+          15.73251556910484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.59497455249635,
+          15.385498100362142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.59516756314244,
+          15.384081338224451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.65161474921348,
+          15.432961370296624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1430385818936,
+          15.39788391639959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.91106389152884,
+          15.084964652609916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.00798529420926,
+          15.279699004243936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.17906796182484,
+          19.757182515759634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.21744977525609,
+          15.240520530325682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.86038900414783,
+          15.214481314004193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.852844453293,
+          15.212375740901695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.71794219444706,
+          15.160473686315369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9809618976663,
+          15.15857260781518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.78153346801552,
+          15.152526472557382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.78347561305011,
+          15.1250223898748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.94777833500156,
+          14.958343349650267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "79",
         "Date": "20240909",
         "DaysOld": "6.0"
@@ -55879,285 +55249,150 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "64",
+        "field_1": "78",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.89121504111095,
-          21.93296099404901
+          91.87478789956532,
+          22.022348035086797
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "63",
+        "field_1": "77",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.87107632328755,
-          21.926184008245983
+          91.72223696673925,
+          22.02085500350287
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
+        "field_1": "18",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.1484450208197,
-          15.00390304789943
+          91.9480966074316,
+          21.464771314064706
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "61",
+        "field_1": "19",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.83042917446804,
-          21.87599967617678
+          91.95877909650186,
+          21.46872509540689
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "41",
+        "field_1": "20",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.80071749984153,
-          21.810485067389145
+          91.81369429369175,
+          21.535787115024267
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "40",
+        "field_1": "21",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.80102480593752,
-          21.79232469779056
+          91.81934349060384,
+          21.5355990289219
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "39",
+        "field_1": "22",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7867195464328,
-          21.782746285069305
+          91.82677067388464,
+          21.545476742453705
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "38",
+        "field_1": "23",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.79417974190125,
-          21.76738445234076
+          91.8261482411384,
+          21.551030329649038
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "37",
+        "field_1": "24",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.78674492870064,
-          21.74973530990481
+          91.81630097076174,
+          21.55457499672665
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "36",
+        "field_1": "25",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.78688684059368,
-          21.74905864935689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.8585111190966,
-          21.699710490167824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.90117323792848,
-          21.805751464318057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.83551007401428,
-          21.67337615635027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.99193322189927,
-          21.59417428721276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.99251124183924,
-          21.593998282856745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.86392111571976,
-          21.572993894507395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.8334832077372,
-          21.57686117367514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.81603151346653,
-          21.880229455132536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.8382224388166,
-          21.575383005545472
+          91.82320416360936,
+          21.55803422286878
         ]
       }
     },
@@ -56179,30 +55414,15 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "33",
+        "field_1": "27",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.65930727255976,
-          21.55638801515133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20240909",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.90122072562224,
-          21.8057600604376
+          91.8382224388166,
+          21.575383005545472
         ]
       }
     },
@@ -56224,60 +55444,465 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "45",
+        "field_1": "29",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.70472016872064,
-          21.84057323626732
+          91.8334832077372,
+          21.57686117367514
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "59",
+        "field_1": "30",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.80620345075585,
-          21.883360811331944
+          91.86392111571976,
+          21.572993894507395
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "58",
+        "field_1": "31",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.72085107958758,
-          21.91192548023866
+          91.99251124183924,
+          21.593998282856745
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "44",
+        "field_1": "32",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7059547895619,
-          21.83986086485804
+          91.99193322189927,
+          21.59417428721276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.65930727255976,
+          21.55638801515133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.83551007401428,
+          21.67337615635027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7102398579822,
+          21.42383603483055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8585111190966,
+          21.699710490167824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6908702675,
+          21.379895599361344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.70528376309132,
+          21.32471423626845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.083003707845,
+          16.40700973301306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.55370415510949,
+          16.14118796297114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2130534337592,
+          16.210001593586316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.31187016748856,
+          20.62886139669416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.31647076561974,
+          20.635459206312504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.335401061814,
+          20.638020769773348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.38399501585592,
+          20.705540867620957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.34561388246874,
+          20.756462604879403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.96918854889698,
+          20.871199383099917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2887214619271,
+          20.906060206228386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.27824080828468,
+          20.942864755054387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.26481015392947,
+          21.01236198463393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.77401675733309,
+          21.10153052253207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.77357163332678,
+          21.102948291866127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.739157308192,
+          21.1403472188845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0402547987545,
+          21.21352464705356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0355937367356,
+          21.31891347445082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73897614504226,
+          21.29232968721688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "117",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.74086452656996,
+          19.290717543130206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.78688684059368,
+          21.74905864935689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.79417974190125,
+          21.76738445234076
         ]
       }
     },
@@ -56299,75 +55924,285 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "57",
+        "field_1": "61",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7161498355591,
-          21.884284210098997
+          91.83042917446804,
+          21.87599967617678
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "55",
+        "field_1": "62",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.68929057347285,
-          21.85790449448107
+          91.81603151346653,
+          21.880229455132536
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "54",
+        "field_1": "63",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.833376354382,
-          21.862862449298746
+          91.87107632328755,
+          21.926184008245983
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "53",
+        "field_1": "64",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7999489537242,
-          21.86143393425696
+          91.89121504111095,
+          21.93296099404901
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "52",
+        "field_1": "65",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.82102556277064,
-          21.84508157531533
+          91.72077524952888,
+          21.91228615570288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.70793699485992,
+          21.93298377191474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.71089545285471,
+          21.954349105562688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74368125246694,
+          21.931468987034528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73129500876526,
+          21.941810637355744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.86060748446644,
+          21.96032369494736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.86182598926624,
+          21.960871400207687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8567870249986,
+          21.96445220406613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88243374916722,
+          21.96571841136764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88088833876355,
+          21.966982995304026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.67787801896868,
+          21.96937316121477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.69158981687336,
+          21.97457595296915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.80620345075585,
+          21.883360811331944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.78674492870064,
+          21.74973530990481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.72085107958758,
+          21.91192548023866
         ]
       }
     },
@@ -56389,45 +56224,105 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "17",
+        "field_1": "39",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.64142847272632,
-          14.904682392138726
+          91.7867195464328,
+          21.782746285069305
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "51",
+        "field_1": "40",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.7888337785508,
-          21.838248393091927
+          91.80102480593752,
+          21.79232469779056
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "50",
+        "field_1": "41",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.80995820312856,
-          21.841665658723315
+          91.80071749984153,
+          21.810485067389145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.90117323792848,
+          21.805751464318057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.90122072562224,
+          21.8057600604376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7059547895619,
+          21.83986086485804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.70472016872064,
+          21.84057323626732
         ]
       }
     },
@@ -56435,6 +56330,36 @@ var json_NorthIndian_4 = {
       "type": "Feature",
       "properties": {
         "field_1": "46",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.79045263279808,
+          21.821356616051887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20240909",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.80067967768272,
+          21.81066550469151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
@@ -56464,165 +56389,105 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "47",
+        "field_1": "50",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.80067967768272,
-          21.81066550469151
+          91.80995820312856,
+          21.841665658723315
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "51",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.2347993798227,
-          18.34052589322932
+          91.7888337785508,
+          21.838248393091927
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "48",
+        "field_1": "52",
         "Date": "20240909",
         "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.79045263279808,
-          21.821356616051887
+          91.82102556277064,
+          21.84508157531533
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "89",
-        "Date": "20240910",
-        "DaysOld": "5.0"
+        "field_1": "53",
+        "Date": "20240909",
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.31815979383445,
-          21.57836560709824
+          91.7999489537242,
+          21.86143393425696
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "90",
-        "Date": "20240910",
-        "DaysOld": "5.0"
+        "field_1": "54",
+        "Date": "20240909",
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.24268026505958,
-          21.549303562082603
+          91.833376354382,
+          21.862862449298746
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "96",
-        "Date": "20240910",
-        "DaysOld": "5.0"
+        "field_1": "55",
+        "Date": "20240909",
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          86.89526821505737,
-          21.314326709815838
+          91.68929057347285,
+          21.85790449448107
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "92",
-        "Date": "20240910",
-        "DaysOld": "5.0"
+        "field_1": "57",
+        "Date": "20240909",
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.05476380381504,
-          21.45974651193039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.20385719617109,
-          21.13290316870752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "94",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.23476157184105,
-          21.10278602851381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "95",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.91355176839512,
-          21.33621766390943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.4431119764847,
-          21.581438329531867
+          91.7161498355591,
+          21.884284210098997
         ]
       }
     },
@@ -56630,299 +56495,14 @@ var json_NorthIndian_4 = {
       "type": "Feature",
       "properties": {
         "field_1": "91",
-        "Date": "20240910",
-        "DaysOld": "5.0"
+        "Date": "20240909",
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.78689344014796,
-          21.35479187702698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.45158406166482,
-          21.588863140806968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.2106141725905,
-          21.75168452846421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.8542396702942,
-          21.57238555258934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.10644741094539,
-          21.497373886796197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.1416576376156,
-          21.4965076854282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.19857993041866,
-          21.72229679049584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.18031042733082,
-          21.753224059308987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "79",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.21157663405772,
-          21.751330084885264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.29699779455905,
-          21.68837584162924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.96838993310851,
-          21.57774152786046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.18990635556366,
-          21.575071472599934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.75285100811978,
-          21.688483177544395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.7539447065003,
-          21.688289060144445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.33339553190764,
-          21.651392316168867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "97",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.88257811868252,
-          21.07776293337145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "105",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.86060480999181,
-          21.04217204591694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "99",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.94846782117342,
-          20.99475656157471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.91211595916842,
-          21.65354787284958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.37107923176994,
-          23.527045972692296
+          93.1862024551209,
+          19.770197480670472
         ]
       }
     },
@@ -56936,203 +56516,8 @@ var json_NorthIndian_4 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.29666974326226,
-          23.54440938931778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.3392619590667,
-          23.352221032650256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.34902221825516,
-          23.307749565065244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.41268630423424,
-          23.209374327137244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.45647650873819,
-          23.05422166858598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.44055122053096,
-          23.01669080048045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.4209485855421,
-          23.01249459083952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.36475129778856,
-          22.621051845091685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "98",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.87295171576524,
-          21.276923009253235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.35653959027147,
-          22.6034895722791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.32741112086849,
-          22.55749366127101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.2429026442079,
-          22.55893236168065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.83853904244107,
-          22.4344639773853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "107",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.84582760789141,
-          21.2237238123766
+          89.1615374347095,
+          23.950500872651723
         ]
       }
     },
@@ -57154,216 +56539,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "104",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.88181498380713,
-          20.99837546417385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "103",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.89669649520066,
-          21.01355208636302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "102",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.92259016783557,
-          20.99111627740176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "101",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.91874370640235,
-          21.004059991331356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "100",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.92055894923095,
-          21.020471281120063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.33312499296837,
-          22.5656841933633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.0364525646234,
-          21.662635889402605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.16479130716692,
-          21.87371954472941
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.2398409788998,
-          21.58083767766547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.17914305751492,
-          21.995801080310173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.17914305751492,
-          21.995801080310173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.11564154074148,
-          22.03044632337808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.11393921438597,
-          22.030562768811052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.02652970334276,
-          22.064939294711905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "34",
         "Date": "20240910",
         "DaysOld": "5.0"
@@ -57379,21 +56554,6 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "28",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.62999884049228,
-          21.939683596714552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "35",
         "Date": "20240910",
         "DaysOld": "5.0"
@@ -57403,6 +56563,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           88.48628987794302,
           21.885320044141924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.48667129977464,
+          21.88408065834994
         ]
       }
     },
@@ -57433,756 +56608,6 @@ var json_NorthIndian_4 = {
         "coordinates": [
           88.04878221632744,
           21.99757548064765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.64124669285108,
-          22.155546304617868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.73817323824271,
-          22.130540582566123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.94112467969231,
-          22.376815492150094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.10011599609683,
-          22.312978234398805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.48667129977464,
-          21.88408065834994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.88034697977041,
-          22.14221324599657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.00133153102804,
-          22.08095960444055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.21034941693551,
-          22.05756629159856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.1615374347095,
-          23.950500872651723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.10115039335565,
-          23.969374265660477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.10513813330459,
-          22.20549786283152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.17738032859558,
-          22.184502791975365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.72584187477267,
-          22.110955263984643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.74384312363482,
-          22.060788637587688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.08278087758663,
-          22.24023660888878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.08278087758663,
-          22.24023660888878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.09848392192494,
-          22.2057936799894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.09255961536535,
-          22.2067543848996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.078221502736,
-          22.23010871233652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.0668879199219,
-          22.21753995204729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.06402468395864,
-          22.213234473681705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.06221029791787,
-          22.19654132731937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.66394461346682,
-          22.01987356136865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.74635153816929,
-          22.22784184976043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.89158730327297,
-          22.431498912508196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.91714544805343,
-          22.427142002400693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.90418593920982,
-          22.43217818625883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.36896330635409,
-          21.690506008373703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.33497814941846,
-          21.70953783601365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.3276885419753,
-          21.70762876585801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.04127338521282,
-          21.73271581432604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.03712294525862,
-          21.729062376725587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.96341904720867,
-          21.790170147668054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.38726636736347,
-          21.622113737128508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.3456208398275,
-          21.629337814458303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.02120154006523,
-          21.69197461262804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.02941411198336,
-          21.68503356147676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.0341948368884,
-          21.6824477143374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.02025614665096,
-          21.68405365515922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.03122338947269,
-          21.67830298592907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.21403284172605,
-          21.81424748953891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.24031501918027,
-          21.580752034443226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.98544377040193,
-          21.824199553859632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.01977384929305,
-          21.66693074349786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.21178726467096,
-          21.75900041611748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.14617472273504,
-          21.86948103677421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.10993160568208,
-          22.38757014905361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          87.88250885134292,
-          22.459346266559283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.67656290253299,
-          22.324562832020156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20240910",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.12870808570496,
-          22.474173066509035
         ]
       }
     },
@@ -58258,6 +56683,21 @@ var json_NorthIndian_4 = {
         "coordinates": [
           88.1597972837703,
           21.87625238868757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.16479130716692,
+          21.87371954472941
         ]
       }
     },
@@ -58354,6 +56794,186 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "64",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.02941411198336,
+          21.68503356147676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.02120154006523,
+          21.69197461262804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3456208398275,
+          21.629337814458303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.38726636736347,
+          21.622113737128508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96341904720867,
+          21.790170147668054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.03712294525862,
+          21.729062376725587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.02652970334276,
+          22.064939294711905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.04127338521282,
+          21.73271581432604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.33497814941846,
+          21.70953783601365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36896330635409,
+          21.690506008373703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.98544377040193,
+          21.824199553859632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.21178726467096,
+          21.75900041611748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "52",
         "Date": "20240910",
         "DaysOld": "5.0"
@@ -58369,6 +56989,726 @@ var json_NorthIndian_4 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "51",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.14617472273504,
+          21.86948103677421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3276885419753,
+          21.70762876585801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0341948368884,
+          21.6824477143374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.11393921438597,
+          22.030562768811052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.17914305751492,
+          21.995801080310173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.10115039335565,
+          23.969374265660477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.12870808570496,
+          22.474173066509035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.67656290253299,
+          22.324562832020156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.88250885134292,
+          22.459346266559283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.10993160568208,
+          22.38757014905361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.90418593920982,
+          22.43217818625883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.91714544805343,
+          22.427142002400693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.89158730327297,
+          22.431498912508196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.74635153816929,
+          22.22784184976043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.10011599609683,
+          22.312978234398805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.94112467969231,
+          22.376815492150094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73817323824271,
+          22.130540582566123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.64124669285108,
+          22.155546304617868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.08278087758663,
+          22.24023660888878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.08278087758663,
+          22.24023660888878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.74384312363482,
+          22.060788637587688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.72584187477267,
+          22.110955263984643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.17914305751492,
+          21.995801080310173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.62999884049228,
+          21.939683596714552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.88034697977041,
+          22.14221324599657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.00133153102804,
+          22.08095960444055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.21034941693551,
+          22.05756629159856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.66394461346682,
+          22.01987356136865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.11564154074148,
+          22.03044632337808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.06221029791787,
+          22.19654132731937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0668879199219,
+          22.21753995204729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.078221502736,
+          22.23010871233652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.09255961536535,
+          22.2067543848996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.09848392192494,
+          22.2057936799894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.10513813330459,
+          22.20549786283152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.17738032859558,
+          22.184502791975365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.06402468395864,
+          22.213234473681705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "107",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.84582760789141,
+          21.2237238123766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.02025614665096,
+          21.68405365515922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.21403284172605,
+          21.81424748953891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.88257811868252,
+          21.07776293337145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.87295171576524,
+          21.276923009253235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.83853904244107,
+          22.4344639773853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2429026442079,
+          22.55893236168065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.32741112086849,
+          22.55749366127101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.03122338947269,
+          21.67830298592907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35653959027147,
+          22.6034895722791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36475129778856,
+          22.621051845091685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "8",
         "Date": "20240910",
         "DaysOld": "5.0"
@@ -58378,6 +57718,891 @@ var json_NorthIndian_4 = {
         "coordinates": [
           88.35410687139748,
           22.65323218887092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4209485855421,
+          23.01249459083952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.44055122053096,
+          23.01669080048045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.45647650873819,
+          23.05422166858598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.41268630423424,
+          23.209374327137244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.34902221825516,
+          23.307749565065244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3392619590667,
+          23.352221032650256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.29666974326226,
+          23.54440938931778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.94846782117342,
+          20.99475656157471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.92055894923095,
+          21.020471281120063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.91874370640235,
+          21.004059991331356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "102",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.92259016783557,
+          20.99111627740176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "103",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.89669649520066,
+          21.01355208636302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "104",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.88181498380713,
+          20.99837546417385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "105",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.86060480999181,
+          21.04217204591694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.89526821505737,
+          21.314326709815838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.91355176839512,
+          21.33621766390943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.33312499296837,
+          22.5656841933633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.20385719617109,
+          21.13290316870752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.24031501918027,
+          21.580752034443226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2398409788998,
+          21.58083767766547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.01977384929305,
+          21.66693074349786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0364525646234,
+          21.662635889402605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.91211595916842,
+          21.65354787284958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7539447065003,
+          21.688289060144445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.75285100811978,
+          21.688483177544395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.23476157184105,
+          21.10278602851381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.18990635556366,
+          21.575071472599934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96838993310851,
+          21.57774152786046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29699779455905,
+          21.68837584162924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.21157663405772,
+          21.751330084885264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.37107923176994,
+          23.527045972692296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.18031042733082,
+          21.753224059308987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.19857993041866,
+          21.72229679049584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1416576376156,
+          21.4965076854282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.10644741094539,
+          21.497373886796197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.05476380381504,
+          21.45974651193039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.78689344014796,
+          21.35479187702698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8542396702942,
+          21.57238555258934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.24268026505958,
+          21.549303562082603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.31815979383445,
+          21.57836560709824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4431119764847,
+          21.581438329531867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.45158406166482,
+          21.588863140806968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.33339553190764,
+          21.651392316168867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20240910",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2106141725905,
+          21.75168452846421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.79504885514643,
+          6.332091638609756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.94796228413342,
+          6.95423463830706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.93925073735493,
+          6.991669478762053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.87928805432036,
+          7.235337703571892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.90391955464302,
+          7.0787712953595054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.55753928192502,
+          7.199346498610836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.87917729460094,
+          7.235878096758665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8641333585156,
+          7.489718314539947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.53400405689628,
+          8.036618088079944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5411780186401,
+          8.027717838171316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.51921698077862,
+          8.169519696262133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7612194643164,
+          8.253933083839527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.57617794859354,
+          8.27356971307595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.25154763335684,
+          6.878119505884874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20240914",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.76168106653093,
+          8.25210776735763
         ]
       }
     }
