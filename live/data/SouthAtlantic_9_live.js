@@ -6,7 +6,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +276,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +291,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +336,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +351,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +366,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +381,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +396,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +411,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +426,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "64",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +441,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "63",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +456,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "62",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +471,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +486,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +501,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +516,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +546,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "56",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +561,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "55",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +576,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "54",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +591,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +606,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "53",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +636,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +651,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +666,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +681,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -696,7 +696,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +711,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +726,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +741,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +756,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +771,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +786,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +801,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "65",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +816,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +831,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -846,7 +846,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +861,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +876,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +891,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -906,7 +906,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +921,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +936,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +951,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +966,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +981,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +996,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1011,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1026,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1041,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1056,7 +1056,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1071,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1086,7 +1086,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1101,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1116,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1131,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1146,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1161,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1176,7 +1176,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1191,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1206,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1221,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1236,7 +1236,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1251,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1266,7 +1266,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1281,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1296,7 +1296,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1311,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1326,7 +1326,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1341,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1356,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1371,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1386,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1401,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1446,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1461,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1476,7 +1476,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1491,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1506,7 +1506,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1521,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1536,7 +1536,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1551,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1566,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1581,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1596,7 +1596,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1611,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1626,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "66",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1641,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1656,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "68",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1671,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1686,7 +1686,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1701,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1716,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1731,7 +1731,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1746,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1761,7 +1761,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1776,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1791,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1806,7 +1806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1821,7 +1821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1836,7 +1836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1851,7 +1851,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1866,7 +1866,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1896,7 +1896,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +1911,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1926,7 +1926,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +1941,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1956,7 +1956,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +1971,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1986,7 +1986,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "67",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2001,7 +2001,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2016,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "104",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2031,7 +2031,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2046,7 +2046,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2061,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2076,7 +2076,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2091,7 +2091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2106,7 +2106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2121,7 +2121,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2136,7 +2136,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2151,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "103",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2166,7 +2166,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2181,7 +2181,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "101",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2196,7 +2196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "86",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2211,7 +2211,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "85",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2226,7 +2226,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "84",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2241,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "83",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2256,7 +2256,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "69",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2271,7 +2271,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "81",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2286,7 +2286,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "70",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2301,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "71",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2316,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "72",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2331,7 +2331,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "102",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2346,7 +2346,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "80",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2361,7 +2361,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "79",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2376,7 +2376,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "78",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2391,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "77",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2406,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "76",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2421,7 +2421,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "75",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2436,7 +2436,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "74",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2451,7 +2451,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "87",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2466,7 +2466,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "88",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2481,7 +2481,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "82",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2496,7 +2496,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "90",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2511,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "100",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2526,7 +2526,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "99",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2541,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "98",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2556,7 +2556,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "97",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2571,7 +2571,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "89",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2586,7 +2586,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "96",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2601,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "92",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2616,7 +2616,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "91",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2631,7 +2631,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "95",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2646,7 +2646,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "93",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2661,7 +2661,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "94",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2676,7 +2676,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "73",
         "Date": "20250512",
-        "DaysOld": "7.0"
+        "DaysOld": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2691,7 +2691,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2706,7 +2706,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2721,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2736,7 +2736,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2751,7 +2751,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2766,7 +2766,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2781,7 +2781,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2796,7 +2796,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2811,7 +2811,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2826,7 +2826,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +2841,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2856,7 +2856,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2871,7 +2871,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2886,7 +2886,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2901,7 +2901,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2916,7 +2916,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2931,7 +2931,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2946,7 +2946,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2961,7 +2961,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2976,7 +2976,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -2991,7 +2991,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3006,7 +3006,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3021,7 +3021,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3036,7 +3036,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3051,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3066,7 +3066,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3081,7 +3081,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "199",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3096,7 +3096,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "200",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3109,54 +3109,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9852592956182,
-          -36.98958275829203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.90922493674957,
-          -36.174435172027714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.645099049865628,
-          -36.0502532096514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "10",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3171,7 +3126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3186,7 +3141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3199,24 +3154,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "22",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.459818667355197,
-          -34.91074918628669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "7",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3231,7 +3171,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3244,9 +3184,69 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "0",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9852592956182,
+          -36.98958275829203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.459818667355197,
+          -34.91074918628669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.90922493674957,
+          -36.174435172027714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.645099049865628,
+          -36.0502532096514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "5",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3261,7 +3261,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3276,7 +3276,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3291,7 +3291,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3306,7 +3306,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +3321,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3336,7 +3336,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3351,7 +3351,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3366,7 +3366,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3381,7 +3381,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3396,7 +3396,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3411,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3426,7 +3426,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3441,7 +3441,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3456,7 +3456,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3471,7 +3471,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3486,7 +3486,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3501,7 +3501,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3516,7 +3516,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3531,7 +3531,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3546,7 +3546,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3561,7 +3561,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3576,7 +3576,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +3591,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3606,7 +3606,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3621,7 +3621,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3636,7 +3636,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3651,7 +3651,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +3666,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3681,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3696,7 +3696,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3711,7 +3711,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3726,7 +3726,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3741,7 +3741,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3756,7 +3756,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3771,7 +3771,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3786,7 +3786,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3801,7 +3801,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3816,7 +3816,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3831,7 +3831,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3846,7 +3846,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +3861,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3876,7 +3876,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3891,7 +3891,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3906,7 +3906,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3921,7 +3921,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3936,7 +3936,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "198",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +3951,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3966,7 +3966,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3981,7 +3981,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -3996,7 +3996,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4011,7 +4011,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4026,7 +4026,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4041,7 +4041,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4056,7 +4056,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4071,7 +4071,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4086,7 +4086,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4101,7 +4101,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4116,7 +4116,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4131,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4146,7 +4146,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4161,7 +4161,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4176,7 +4176,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4191,7 +4191,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4206,7 +4206,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4221,7 +4221,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4236,7 +4236,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4251,7 +4251,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4266,7 +4266,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4281,7 +4281,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4296,7 +4296,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4311,7 +4311,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4326,7 +4326,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4341,7 +4341,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4356,7 +4356,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4371,7 +4371,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4386,7 +4386,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4401,7 +4401,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4416,7 +4416,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4431,7 +4431,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4446,7 +4446,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4461,7 +4461,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "197",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4476,7 +4476,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4491,7 +4491,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "195",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4506,7 +4506,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "100",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4521,7 +4521,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "101",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4536,7 +4536,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "102",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4551,7 +4551,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "103",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4566,7 +4566,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "104",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4581,7 +4581,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "105",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4596,7 +4596,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "106",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4611,7 +4611,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "107",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4626,7 +4626,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "108",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4641,7 +4641,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "109",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4656,7 +4656,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "110",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4671,7 +4671,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "111",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4686,7 +4686,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4701,7 +4701,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "112",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4716,7 +4716,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "113",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4731,7 +4731,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "99",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4746,7 +4746,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "98",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4761,7 +4761,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "97",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4776,7 +4776,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "96",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4791,7 +4791,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "80",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4806,7 +4806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "81",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4821,7 +4821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "82",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4836,7 +4836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "83",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4851,7 +4851,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "84",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4866,7 +4866,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "85",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4881,7 +4881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "86",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4896,7 +4896,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "114",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4911,7 +4911,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "87",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4926,7 +4926,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "89",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4941,7 +4941,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "90",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4956,7 +4956,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "91",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4971,7 +4971,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "92",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -4986,7 +4986,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "93",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5001,7 +5001,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "94",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5016,7 +5016,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "95",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5031,7 +5031,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "88",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5046,7 +5046,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "115",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5061,7 +5061,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "116",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5076,7 +5076,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "117",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5091,7 +5091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "138",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5106,7 +5106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "139",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5121,7 +5121,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "140",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5136,7 +5136,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "141",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5151,7 +5151,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "142",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5166,7 +5166,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "143",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5181,7 +5181,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "144",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5196,7 +5196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "137",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5211,7 +5211,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "145",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5226,7 +5226,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "147",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5241,7 +5241,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "148",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5256,7 +5256,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "149",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5271,7 +5271,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "150",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5286,7 +5286,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "151",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5301,7 +5301,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "152",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5316,7 +5316,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "153",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5331,7 +5331,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "146",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5346,7 +5346,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "79",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5361,7 +5361,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "136",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5376,7 +5376,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "134",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5391,7 +5391,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "118",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5406,7 +5406,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "119",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5421,7 +5421,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "120",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5436,7 +5436,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "121",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5451,7 +5451,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "122",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5466,7 +5466,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "123",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5481,7 +5481,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "124",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5496,7 +5496,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "135",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5511,7 +5511,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "125",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5526,7 +5526,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "127",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5541,7 +5541,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "128",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5556,7 +5556,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "129",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5571,7 +5571,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "130",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5586,7 +5586,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "131",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5601,7 +5601,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "132",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5616,7 +5616,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "133",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5631,7 +5631,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "126",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5646,7 +5646,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "154",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5661,7 +5661,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "78",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5676,7 +5676,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "76",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5691,7 +5691,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5706,7 +5706,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5721,7 +5721,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5736,7 +5736,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5751,7 +5751,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5766,7 +5766,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5781,7 +5781,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5796,7 +5796,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5811,7 +5811,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5826,7 +5826,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5841,7 +5841,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5856,7 +5856,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "53",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5871,7 +5871,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "54",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5886,7 +5886,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "55",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5901,7 +5901,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "56",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5916,7 +5916,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5931,7 +5931,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5946,7 +5946,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5961,7 +5961,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5976,7 +5976,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -5991,7 +5991,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6006,7 +6006,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6021,7 +6021,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6036,7 +6036,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6051,7 +6051,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6066,7 +6066,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6081,7 +6081,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6096,7 +6096,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6111,7 +6111,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6126,7 +6126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6141,7 +6141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6156,7 +6156,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6171,7 +6171,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6186,7 +6186,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6201,7 +6201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6216,7 +6216,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6231,7 +6231,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6246,7 +6246,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6261,7 +6261,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6276,7 +6276,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6291,7 +6291,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6306,7 +6306,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6321,7 +6321,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6336,7 +6336,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6351,7 +6351,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6366,7 +6366,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6381,7 +6381,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6396,7 +6396,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6411,7 +6411,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6426,7 +6426,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6441,7 +6441,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6456,7 +6456,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6471,7 +6471,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6486,7 +6486,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "196",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6501,7 +6501,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "75",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6516,7 +6516,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6531,7 +6531,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "77",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6546,7 +6546,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6561,7 +6561,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6576,7 +6576,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6591,7 +6591,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "62",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6606,7 +6606,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "63",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6621,7 +6621,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "64",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6636,7 +6636,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "65",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6651,7 +6651,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "66",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6666,7 +6666,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "67",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6681,7 +6681,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6696,7 +6696,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "68",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6711,7 +6711,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "70",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6726,7 +6726,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "71",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6741,7 +6741,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "72",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6756,7 +6756,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "73",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6771,7 +6771,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "74",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6786,7 +6786,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6801,7 +6801,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6816,7 +6816,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "69",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6831,7 +6831,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "155",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6846,7 +6846,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6859,45 +6859,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "174",
+        "field_1": "168",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.53776150213285,
-          -26.167715801839904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "180",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.92139929086019,
-          -26.34827908135334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "179",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.79218582527002,
-          -26.13498296001004
+          -48.33383722290374,
+          -26.19957938120048
         ]
       }
     },
@@ -6906,7 +6876,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "178",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6919,24 +6889,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "177",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.60035464056745,
-          -26.18463883703625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "176",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6951,7 +6906,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "175",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6964,9 +6919,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "174",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.53776150213285,
+          -26.167715801839904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "173",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6981,7 +6951,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "172",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -6996,7 +6966,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "171",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7009,9 +6979,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "179",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.79218582527002,
+          -26.13498296001004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "170",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7024,39 +7009,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "169",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.33147704747072,
-          -26.22383072798377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "168",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.33383722290374,
-          -26.19957938120048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "167",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7071,7 +7026,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "166",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7086,7 +7041,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "165",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7101,7 +7056,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "164",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7116,7 +7071,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "163",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7131,7 +7086,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "162",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7146,7 +7101,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "161",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7159,15 +7114,45 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "181",
+        "field_1": "169",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.42061125976484,
-          -26.233246715357545
+          -48.33147704747072,
+          -26.22383072798377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "180",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92139929086019,
+          -26.34827908135334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "177",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.60035464056745,
+          -26.18463883703625
         ]
       }
     },
@@ -7176,7 +7161,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "182",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7189,159 +7174,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "183",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.61338437725133,
-          -26.20683218949884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "191",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.67551762707541,
-          -26.25920333347961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "158",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.340695490531004,
-          -26.16245133134233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "159",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.347032222612526,
-          -26.180785219790906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "184",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.63357943200811,
-          -26.227664150966994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "160",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.40371401756873,
-          -26.1469488450408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "192",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.664089124590106,
-          -26.266503228094763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "193",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6629129182432,
-          -26.26782220924775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "157",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.35647101029447,
-          -26.14716797291977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "156",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.34651066014623,
-          -26.18076549388003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "194",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7354,9 +7189,144 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "193",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6629129182432,
+          -26.26782220924775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "160",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.40371401756873,
+          -26.1469488450408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "159",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.347032222612526,
+          -26.180785219790906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "158",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.340695490531004,
+          -26.16245133134233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "157",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.35647101029447,
+          -26.14716797291977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "181",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.42061125976484,
+          -26.233246715357545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "192",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.664089124590106,
+          -26.266503228094763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "191",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.67551762707541,
+          -26.25920333347961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "156",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.34651066014623,
+          -26.18076549388003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "189",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7369,69 +7339,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "188",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.65150043691825,
-          -26.231949188647583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "187",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.77657798812016,
-          -26.156267910429207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "186",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.63396696626173,
-          -26.227572609015617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "185",
-        "Date": "20250513",
-        "DaysOld": "6.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.65302643956405,
-          -26.216255626881733
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "190",
         "Date": "20250513",
-        "DaysOld": "6.0"
+        "DaysOld": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -7444,9 +7354,99 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "184",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.63357943200811,
+          -26.227664150966994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "185",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.65302643956405,
+          -26.216255626881733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "183",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.61338437725133,
+          -26.20683218949884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "187",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.77657798812016,
+          -26.156267910429207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "188",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.65150043691825,
+          -26.231949188647583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "186",
+        "Date": "20250513",
+        "DaysOld": "7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.63396696626173,
+          -26.227572609015617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "2",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7459,15 +7459,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
+        "field_1": "9",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.47839494108686,
-          -1.4951219475502775
+          -52.14267005315817,
+          -1.6157228783215904
         ]
       }
     },
@@ -7476,7 +7476,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7491,7 +7491,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7504,9 +7504,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "6",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47839494108686,
+          -1.4951219475502775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "5",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7519,24 +7534,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.19721476480852,
-          -1.4846957479673777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "4",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7549,15 +7549,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
+        "field_1": "3",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.14267005315817,
-          -1.6157228783215904
+          -52.19721476480852,
+          -1.4846957479673777
         ]
       }
     },
@@ -7566,7 +7566,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7581,7 +7581,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7596,7 +7596,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7611,7 +7611,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7624,24 +7624,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "10",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.36616310357631,
-          -1.5668298644001608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "9",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7656,7 +7641,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7671,7 +7656,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7686,7 +7671,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7701,7 +7686,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7716,7 +7701,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7729,9 +7714,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "10",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.36616310357631,
+          -1.5668298644001608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "14",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7746,7 +7746,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7761,7 +7761,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7776,7 +7776,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7789,15 +7789,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "10",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.21479279207795,
-          -39.267285884717886
+          -69.1303785799696,
+          -50.77152875080176
         ]
       }
     },
@@ -7806,7 +7806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7821,7 +7821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7836,7 +7836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7851,7 +7851,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7866,7 +7866,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7881,7 +7881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7896,7 +7896,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7911,7 +7911,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7926,7 +7926,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7941,7 +7941,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7956,7 +7956,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7971,7 +7971,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -7986,7 +7986,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8001,7 +8001,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8016,7 +8016,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8031,7 +8031,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8046,7 +8046,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8061,7 +8061,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8074,15 +8074,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "10",
+        "field_1": "9",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.1303785799696,
-          -50.77152875080176
+          -69.12858829547166,
+          -50.77259675003658
         ]
       }
     },
@@ -8091,7 +8091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8106,7 +8106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8121,7 +8121,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8136,7 +8136,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8151,7 +8151,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8166,7 +8166,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8181,7 +8181,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8196,7 +8196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8211,7 +8211,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8226,7 +8226,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8241,7 +8241,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8256,7 +8256,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8271,7 +8271,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8286,7 +8286,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8301,7 +8301,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8316,7 +8316,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8331,7 +8331,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8346,7 +8346,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8361,7 +8361,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8376,7 +8376,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8391,7 +8391,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8406,7 +8406,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8421,7 +8421,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8436,7 +8436,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8451,7 +8451,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8466,7 +8466,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8481,7 +8481,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8496,7 +8496,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8511,7 +8511,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8526,7 +8526,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8541,7 +8541,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8556,7 +8556,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8571,7 +8571,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8586,7 +8586,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8601,7 +8601,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8616,7 +8616,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8631,7 +8631,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8646,7 +8646,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8661,7 +8661,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8676,7 +8676,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8691,7 +8691,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8706,7 +8706,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8721,7 +8721,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8736,7 +8736,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8751,7 +8751,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8766,7 +8766,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8781,7 +8781,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8796,7 +8796,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8811,7 +8811,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8826,7 +8826,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8841,7 +8841,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8856,7 +8856,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8871,7 +8871,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8886,7 +8886,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8901,7 +8901,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8916,7 +8916,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8931,7 +8931,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8946,7 +8946,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8961,7 +8961,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8976,7 +8976,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -8991,7 +8991,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9006,7 +9006,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9021,7 +9021,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9034,15 +9034,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "18",
+        "field_1": "42",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.1145012315918,
-          -50.9137791827385
+          -53.249480630933085,
+          -1.7440769258084432
         ]
       }
     },
@@ -9051,7 +9051,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9066,7 +9066,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9081,7 +9081,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9094,9 +9094,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
+        "field_1": "8",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9109,15 +9109,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "8",
+        "field_1": "3",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.12858829547166,
-          -50.77259675003658
+          -62.21479279207795,
+          -39.267285884717886
         ]
       }
     },
@@ -9126,7 +9126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9141,7 +9141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9156,7 +9156,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9171,7 +9171,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -9184,1524 +9184,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "19",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.11553744198646,
-          -50.91411328201789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.20369820647333,
-          -50.9423443188326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.249480630933085,
-          -1.7440769258084432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.3582988070799,
-          -40.26507133733215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.34595015473737,
-          -40.25550198720416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.34375188031498,
-          -40.20482406272396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.32144207403199,
-          -39.97286329622556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.24096242949875,
-          -39.98144349068258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.29181813800796,
-          -38.97984121046681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.29081986729907,
-          -38.98007055856161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "43",
         "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.313792184612346,
-          -38.96225266158844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.3319349334397,
-          -38.9476888006584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.25668978426381,
-          -38.99537555248778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.25751271216219,
-          -38.99499633182549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.22068043905077,
-          -39.003600868421415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.12791006228475,
-          -38.99537622107746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.28451467334626,
-          -38.95047186413865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.29932347684941,
-          -38.927164863083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.48946072854365,
-          -46.43727370528602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.77328819535992,
-          -47.74363565182397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.96035916258653,
-          -47.757947869585486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.70913073689584,
-          -47.90629065087966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "97",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.10619361545785,
-          -2.3036108697525464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "98",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.0630185908604,
-          -2.362483681047778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "99",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.14039201094715,
-          -2.336899139806254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "100",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.13830202637435,
-          -2.3419511072885237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "101",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.08751657182196,
-          -2.375585108283983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.44351700383847,
-          -40.907458958694136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.38457738229964,
-          -40.93563444785546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.29155616652689,
-          -38.92677196859343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.84686143315609,
-          -40.75847349171968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.05197517286205,
-          -41.14633960962836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.05047927466526,
-          -41.14601529317124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.00022681712326,
-          -41.11835894400985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.328714721682296,
-          -2.396584659785572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.328714721682296,
-          -2.396584659785572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.07779370093181,
-          -2.485359880249399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.75094885160946,
-          -47.91396007853588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.097309014363184,
-          -41.15324789534365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.27000183853507,
-          -38.92841942606088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.20253664055864,
-          -38.96141863149316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.16408446808359,
-          -38.96103092443919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.23073585422857,
-          -38.83124131768937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.23142117275725,
-          -38.83032289360806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.22448429904635,
-          -38.81474782865951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.24343306021972,
-          -38.81013918714461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.20056440537518,
-          -38.85434423199059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.17616336398609,
-          -38.85077206283926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.174240047143385,
-          -38.84251064881456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.2852686085818,
-          -38.8350582944608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.14529938394092,
-          -38.84920812332239
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.314172822712806,
-          -38.78088623781015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.24148383103314,
-          -39.975001613812665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.23361390642479,
-          -39.92353171014301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.25004301802214,
-          -39.91129852761975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.10470583699302,
-          -39.38923913550777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.169741464777246,
-          -39.34242546897944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.17097741823096,
-          -39.341525220302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.144819309656,
-          -38.834670209830406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "96",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.10349873026797,
-          -2.2991854751891805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.330476217227,
-          -38.82679370309808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.06743066781132,
-          -38.92710199762015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.16280621780968,
-          -38.95966006257849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.1106045957352,
-          -38.96245102440084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.11027917044888,
-          -38.961717222764825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.0394867422353,
-          -38.994227647632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.29588530899808,
-          -38.8830415557838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.24739713870652,
-          -38.89409140128084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.16311711089491,
-          -38.942134519430006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -61.86045280332182,
-          -38.97249058764973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.17038203575287,
-          -38.91763696211839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.06743066781132,
-          -38.92710199762015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.05441303940223,
-          -38.9441916356074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.06276648589478,
-          -38.94000290457922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.27287815058826,
-          -38.86504570547192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.24041019283449,
-          -38.85926625462056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.2262387367818,
-          -38.85809946448729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.17936172318934,
-          -38.86501832180616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.06637663880928,
-          -38.93295170337424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.30713299758031,
-          -38.77885018464151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.29155876964632,
-          -38.9802811246828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -61.98420144899484,
-          -39.07166833173933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.59989654688822,
-          -1.868673394556913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.61367715755719,
-          -1.878617006048357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.10066512710597,
-          -2.2335781537015014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.70292964152791,
-          -1.887061538489459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.67808861226396,
-          -1.8959519631979909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.70292964152791,
-          -1.887061538489459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.69520286821226,
-          -1.8893100288456832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.70845614312248,
-          -1.8878730497462348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.67808861226396,
-          -1.8959519631979909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.68297323081533,
-          -1.898498533938928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.77894680251472,
-          -1.912409188332926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.82852832247113,
-          -1.9249918656530691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.77015054587269,
-          -1.951104830247289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.4830579557219,
-          -2.2746653829202024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.88330906254,
-          -1.9675792974504325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.40391812917679,
-          -2.134778202001019
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.397182507908944,
-          -2.1317790668213727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.163302489141245,
-          -2.1720521521577245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.566388654161614,
-          -1.843700008513244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10716,7 +9201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10731,7 +9216,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10744,9 +9229,1479 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "14",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.3582988070799,
+          -40.26507133733215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.34595015473737,
+          -40.25550198720416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.34375188031498,
+          -40.20482406272396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.32144207403199,
+          -39.97286329622556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.24096242949875,
+          -39.98144349068258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.29181813800796,
+          -38.97984121046681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.29081986729907,
+          -38.98007055856161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.313792184612346,
+          -38.96225266158844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.3319349334397,
+          -38.9476888006584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.25668978426381,
+          -38.99537555248778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.25751271216219,
+          -38.99499633182549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.22068043905077,
+          -39.003600868421415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.12791006228475,
+          -38.99537622107746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.28451467334626,
+          -38.95047186413865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.29932347684941,
+          -38.927164863083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.48946072854365,
+          -46.43727370528602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.77328819535992,
+          -47.74363565182397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.96035916258653,
+          -47.757947869585486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.70913073689584,
+          -47.90629065087966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.10619361545785,
+          -2.3036108697525464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0630185908604,
+          -2.362483681047778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.14039201094715,
+          -2.336899139806254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.13830202637435,
+          -2.3419511072885237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.08751657182196,
+          -2.375585108283983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.44351700383847,
+          -40.907458958694136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.38457738229964,
+          -40.93563444785546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.29155616652689,
+          -38.92677196859343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.84686143315609,
+          -40.75847349171968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05197517286205,
+          -41.14633960962836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05047927466526,
+          -41.14601529317124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.00022681712326,
+          -41.11835894400985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.328714721682296,
+          -2.396584659785572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.328714721682296,
+          -2.396584659785572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.07779370093181,
+          -2.485359880249399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.75094885160946,
+          -47.91396007853588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.097309014363184,
+          -41.15324789534365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.27000183853507,
+          -38.92841942606088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.20253664055864,
+          -38.96141863149316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.16408446808359,
+          -38.96103092443919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.23073585422857,
+          -38.83124131768937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.23142117275725,
+          -38.83032289360806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.22448429904635,
+          -38.81474782865951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.24343306021972,
+          -38.81013918714461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.20056440537518,
+          -38.85434423199059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.17616336398609,
+          -38.85077206283926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.174240047143385,
+          -38.84251064881456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2852686085818,
+          -38.8350582944608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.14529938394092,
+          -38.84920812332239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.314172822712806,
+          -38.78088623781015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.24148383103314,
+          -39.975001613812665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.23361390642479,
+          -39.92353171014301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.25004301802214,
+          -39.91129852761975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.10470583699302,
+          -39.38923913550777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.169741464777246,
+          -39.34242546897944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.17097741823096,
+          -39.341525220302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.144819309656,
+          -38.834670209830406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.10349873026797,
+          -2.2991854751891805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.330476217227,
+          -38.82679370309808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.06743066781132,
+          -38.92710199762015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.16280621780968,
+          -38.95966006257849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.1106045957352,
+          -38.96245102440084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.11027917044888,
+          -38.961717222764825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0394867422353,
+          -38.994227647632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.29588530899808,
+          -38.8830415557838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.24739713870652,
+          -38.89409140128084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.16311711089491,
+          -38.942134519430006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.86045280332182,
+          -38.97249058764973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.17038203575287,
+          -38.91763696211839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.06743066781132,
+          -38.92710199762015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.05441303940223,
+          -38.9441916356074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.06276648589478,
+          -38.94000290457922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.27287815058826,
+          -38.86504570547192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.24041019283449,
+          -38.85926625462056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2262387367818,
+          -38.85809946448729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.17936172318934,
+          -38.86501832180616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.06637663880928,
+          -38.93295170337424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.30713299758031,
+          -38.77885018464151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "46",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.29155876964632,
+          -38.9802811246828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.98420144899484,
+          -39.07166833173933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.59989654688822,
+          -1.868673394556913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.61367715755719,
+          -1.878617006048357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10066512710597,
+          -2.2335781537015014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.70292964152791,
+          -1.887061538489459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "67",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.67808861226396,
+          -1.8959519631979909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "68",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.70292964152791,
+          -1.887061538489459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.69520286821226,
+          -1.8893100288456832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.70845614312248,
+          -1.8878730497462348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.67808861226396,
+          -1.8959519631979909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.68297323081533,
+          -1.898498533938928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.77894680251472,
+          -1.912409188332926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.82852832247113,
+          -1.9249918656530691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.77015054587269,
+          -1.951104830247289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4830579557219,
+          -2.2746653829202024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.88330906254,
+          -1.9675792974504325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.40391812917679,
+          -2.134778202001019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.397182507908944,
+          -2.1317790668213727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.163302489141245,
+          -2.1720521521577245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.566388654161614,
+          -1.843700008513244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20250514",
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10761,7 +10716,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10774,9 +10729,54 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "18",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1145012315918,
+          -50.9137791827385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.11553744198646,
+          -50.91411328201789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.20369820647333,
+          -50.9423443188326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "48",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10791,7 +10791,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10806,7 +10806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "78",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10821,7 +10821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10836,7 +10836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10851,7 +10851,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "53",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10866,7 +10866,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "54",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10881,7 +10881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "55",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10896,7 +10896,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "56",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10911,7 +10911,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10926,7 +10926,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10941,7 +10941,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10956,7 +10956,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "79",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10971,7 +10971,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "80",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -10986,7 +10986,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "81",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11001,7 +11001,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11016,7 +11016,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11031,7 +11031,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11046,7 +11046,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11061,7 +11061,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11076,7 +11076,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11091,7 +11091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11106,7 +11106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11121,7 +11121,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11136,7 +11136,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11151,7 +11151,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11166,7 +11166,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11181,7 +11181,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11196,7 +11196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11211,7 +11211,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11226,7 +11226,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11241,7 +11241,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11256,7 +11256,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "94",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11271,7 +11271,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11286,7 +11286,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11301,7 +11301,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "82",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11316,7 +11316,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "83",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11331,7 +11331,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "84",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11344,15 +11344,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "86",
+        "field_1": "85",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.95194135656997,
-          -2.045730589449142
+          -53.9500903113707,
+          -2.021558900281908
         ]
       }
     },
@@ -11361,7 +11361,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "87",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11376,7 +11376,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "88",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11391,7 +11391,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "89",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11406,7 +11406,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11421,7 +11421,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "90",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11436,7 +11436,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "92",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11451,7 +11451,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "93",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11466,7 +11466,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11481,7 +11481,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11496,7 +11496,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11511,7 +11511,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11526,7 +11526,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11541,7 +11541,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "91",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11556,7 +11556,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "95",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11571,7 +11571,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11584,90 +11584,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "85",
+        "field_1": "86",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.9500903113707,
-          -2.021558900281908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.95099318639762,
-          -48.039191162181886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.88992678193651,
-          -48.08801245502731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.93738478489783,
-          -48.06922227503426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.91435092683562,
-          -48.025650247755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.92426444261427,
-          -47.98621778715659
+          -53.95194135656997,
+          -2.045730589449142
         ]
       }
     },
@@ -11676,7 +11601,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11689,9 +11614,114 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "0",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.018969235317,
+          -41.70241322702558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.0037262154656,
+          -41.73146965223868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.00355151629418,
+          -41.75152842889114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.99695777229347,
+          -41.75765459622093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.01629308961816,
+          -41.733379426658765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.82543603863518,
+          -1.1570792932388163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.74929175460117,
+          -42.081977755498734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "6",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11706,7 +11736,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11721,7 +11751,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11736,7 +11766,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11751,7 +11781,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11766,7 +11796,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11779,9 +11809,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "1",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.92426444261427,
+          -47.98621778715659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "12",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11794,24 +11839,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "13",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.26717435315943,
-          -42.241925823189845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "14",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11826,7 +11856,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -11839,219 +11869,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.82543603863518,
-          -1.1570792932388163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.02151257045023,
-          -42.7355505180356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.37402617476755,
-          -42.874247184140025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.67611413362236,
-          -42.79275126650858
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.625270770599954,
-          -42.75950684191662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.42546146905903,
-          -42.43487073361501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.30304644231889,
-          -42.401903337768935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.97623866513185,
-          -48.11205707605954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.10554965078622,
-          -42.40858640359799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.72964326270113,
-          -42.21288947098642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.70456843285285,
-          -42.21384658074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.52895553589171,
-          -42.234202087466215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.52216756986353,
-          -42.23467104411003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.4582415886571,
-          -42.24162740220196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "16",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12064,9 +11884,84 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "17",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4582415886571,
+          -42.24162740220196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.52216756986353,
+          -42.23467104411003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.52895553589171,
+          -42.234202087466215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.70456843285285,
+          -42.21384658074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.72964326270113,
+          -42.21288947098642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "22",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12079,90 +11974,105 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "30",
+        "field_1": "23",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.02739758529431,
-          -42.76239833654835
+          -64.10554965078622,
+          -42.40858640359799
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
+        "field_1": "24",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.97623866513185,
-          -48.11205707605954
+          -64.30304644231889,
+          -42.401903337768935
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
+        "field_1": "25",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.0986058822212,
-          -48.120819624904414
+          -64.42546146905903,
+          -42.43487073361501
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
+        "field_1": "26",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.74929175460117,
-          -42.081977755498734
+          -63.625270770599954,
+          -42.75950684191662
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "27",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.01629308961816,
-          -41.733379426658765
+          -63.67611413362236,
+          -42.79275126650858
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "13",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.99695777229347,
-          -41.75765459622093
+          -64.26717435315943,
+          -42.241925823189845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.37402617476755,
+          -42.874247184140025
         ]
       }
     },
@@ -12171,43 +12081,28 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.00355151629418,
-          -41.75152842889114
+          -65.91435092683562,
+          -48.025650247755
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "4",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.0037262154656,
-          -41.73146965223868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.018969235317,
-          -41.70241322702558
+          -65.88992678193651,
+          -48.08801245502731
         ]
       }
     },
@@ -12216,7 +12111,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12231,7 +12126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12246,7 +12141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12261,7 +12156,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12276,7 +12171,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12291,7 +12186,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12306,7 +12201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12321,7 +12216,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12336,7 +12231,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12351,7 +12246,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12366,7 +12261,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12379,204 +12274,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "10",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.09748210691414,
-          -48.12083484257578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.07317125117903,
-          -48.134978387064855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.15260414662154,
-          -48.17299301215733
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.23382618001135,
-          -48.21887590702693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.25166132357249,
-          -48.23781218995076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.28038753716643,
-          -48.25502548813396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.0370733101672,
-          -48.113610550889184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.27374275567395,
-          -48.25650155446767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.46542385922179,
-          -48.37941018202648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.89654984777657,
-          -48.60431185132482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.89414668661561,
-          -48.6052578308876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.07847847132295,
-          -48.6864659193848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.13584673980937,
-          -48.7074544874806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "24",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12589,9 +12289,84 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "23",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.13584673980937,
+          -48.7074544874806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.07847847132295,
+          -48.6864659193848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.93738478489783,
+          -48.06922227503426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.89414668661561,
+          -48.6052578308876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.46542385922179,
+          -48.37941018202648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "18",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12604,15 +12379,30 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "17",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.02950498803273,
-          -42.762512967442674
+          -66.27374275567395,
+          -48.25650155446767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.28038753716643,
+          -48.25502548813396
         ]
       }
     },
@@ -12621,7 +12411,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12634,15 +12424,45 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "2",
+        "field_1": "14",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.89074596377225,
-          -45.10756912905945
+          -66.25166132357249,
+          -48.23781218995076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.23382618001135,
+          -48.21887590702693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.15260414662154,
+          -48.17299301215733
         ]
       }
     },
@@ -12651,13 +12471,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.46044566629249,
-          -45.85004515496426
+          -66.07317125117903,
+          -48.134978387064855
         ]
       }
     },
@@ -12666,13 +12486,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.77541683442688,
-          -46.27715709371115
+          -66.09748210691414,
+          -48.12083484257578
         ]
       }
     },
@@ -12681,28 +12501,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.40575674951867,
-          -45.84847368340869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.40527192867452,
-          -45.84859519075764
+          -66.0986058822212,
+          -48.120819624904414
         ]
       }
     },
@@ -12711,13 +12516,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.32349817279362,
-          -45.7731207899862
+          -65.97623866513185,
+          -48.11205707605954
         ]
       }
     },
@@ -12726,43 +12531,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.36910851913002,
-          -45.74924452664035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.6125962819273,
-          -45.065690841784566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250514",
-        "DaysOld": "5.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.07171836595252,
-          -45.00411883487125
+          -65.97623866513185,
+          -48.11205707605954
         ]
       }
     },
@@ -12771,7 +12546,82 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.95099318639762,
+          -48.039191162181886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.89654984777657,
+          -48.60431185132482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.02151257045023,
+          -42.7355505180356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0370733101672,
+          -48.113610550889184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.02950498803273,
+          -42.762512967442674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250514",
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12784,9 +12634,129 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "4",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07171836595252,
+          -45.00411883487125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.40527192867452,
+          -45.84859519075764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.40575674951867,
+          -45.84847368340869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.77541683442688,
+          -46.27715709371115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.46044566629249,
+          -45.85004515496426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6125962819273,
+          -45.065690841784566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.89074596377225,
+          -45.10756912905945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.36910851913002,
+          -45.74924452664035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "1",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12799,9 +12769,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "30",
+        "Date": "20250514",
+        "DaysOld": "6.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.02739758529431,
+          -42.76239833654835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "0",
         "Date": "20250514",
-        "DaysOld": "5.0"
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -12814,120 +12799,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "13",
-        "Date": "20250515",
-        "DaysOld": "4.0"
+        "field_1": "7",
+        "Date": "20250514",
+        "DaysOld": "6.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.18696934666923,
-          -48.79138096815859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "112",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.81754990945646,
-          -22.923269095167047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "111",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.85017145171781,
-          -22.913889151723573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "110",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.84605488364912,
-          -22.90502107740871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.24094600643829,
-          -48.854393780319946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.21301537059215,
-          -48.83603008153485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.18550230878319,
-          -48.81303430296112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "109",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.81202922635379,
-          -22.942842883666668
+          -67.32349817279362,
+          -45.7731207899862
         ]
       }
     },
@@ -12936,7 +12816,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "107",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -12949,15 +12829,75 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "106",
+        "field_1": "108",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.80589500543783,
-          -22.927874194443007
+          -43.812466798084,
+          -22.9352148991154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "109",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.81202922635379,
+          -22.942842883666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "110",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.84605488364912,
+          -22.90502107740871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "111",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.85017145171781,
+          -22.913889151723573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "112",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.81754990945646,
+          -22.923269095167047
         ]
       }
     },
@@ -12966,7 +12906,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "113",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -12979,9 +12919,39 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "105",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.7976092759849,
+          -22.928416294833468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "114",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.84543432790313,
+          -22.935216931040777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "19",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -12996,7 +12966,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13011,7 +12981,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13026,7 +12996,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13041,7 +13011,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13056,7 +13026,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13069,495 +13039,60 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "108",
+        "field_1": "13",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.812466798084,
-          -22.9352148991154
+          -67.18696934666923,
+          -48.79138096815859
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "105",
+        "field_1": "12",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.7976092759849,
-          -22.928416294833468
+          -67.18550230878319,
+          -48.81303430296112
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "11",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.81133750846296,
-          -2.750536105062415
+          -67.21301537059215,
+          -48.83603008153485
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "116",
+        "field_1": "10",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.86369643155583,
-          -22.926111222208448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "138",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.91506924195889,
-          -22.96033591510486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "137",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.03486260920949,
-          -23.186029290218933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "136",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.01508542190373,
-          -23.179643198895093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "135",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.967682919211306,
-          -22.94377501344639
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "134",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.9149602545864,
-          -22.959888662055665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.12978901296516,
-          -22.7467361184835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.10772184443929,
-          -22.776634602395383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.07435516674375,
-          -22.773698767578058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13655954866952,
-          -22.71353251007082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.07185032008937,
-          -22.68525076623623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "133",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.93102428092327,
-          -22.947274505017475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "132",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.92586225798185,
-          -22.94391080943625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "131",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.87883307609369,
-          -22.956685024332536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "130",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.87639401556206,
-          -22.93791069558864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "129",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.892413738942615,
-          -22.925777484326364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "128",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.865145103748446,
-          -22.9318727311159
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "127",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.86170216491792,
-          -22.962781990389267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "126",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.859208762885736,
-          -22.95920924685499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "125",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.85977652563897,
-          -22.9468689796118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "124",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.8454856709984,
-          -22.935394059922928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "123",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.79169355044405,
-          -22.952674474925136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "122",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.81202922635379,
-          -22.942842883666668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "121",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.705240186611455,
-          -22.985655695515007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "120",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.710761615680006,
-          -22.9736610305832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "119",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.50935311127437,
-          -23.05317419234336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "118",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.05845945835248,
-          -23.12348356488861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "117",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.88184646608294,
-          -22.92251206667761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "114",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.84543432790313,
-          -22.935216931040777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "115",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.860191973463856,
-          -22.917288114859957
+          -67.24094600643829,
+          -48.854393780319946
         ]
       }
     },
@@ -13566,7 +13101,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13581,7 +13116,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13594,45 +13129,450 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "30",
+        "field_1": "106",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.996663053471815,
-          -2.6232272148004485
+          -43.80589500543783,
+          -22.927874194443007
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "115",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.026903043879456,
-          -2.6559072453762997
+          -43.860191973463856,
+          -22.917288114859957
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "122",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.996595704213078,
-          -2.623541022560943
+          -43.81202922635379,
+          -22.942842883666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "117",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.88184646608294,
+          -22.92251206667761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "134",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9149602545864,
+          -22.959888662055665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "133",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.93102428092327,
+          -22.947274505017475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "132",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.92586225798185,
+          -22.94391080943625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "131",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.87883307609369,
+          -22.956685024332536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "130",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.87639401556206,
+          -22.93791069558864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "129",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.892413738942615,
+          -22.925777484326364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "128",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.865145103748446,
+          -22.9318727311159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.12978901296516,
+          -22.7467361184835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.10772184443929,
+          -22.776634602395383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.07435516674375,
+          -22.773698767578058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "116",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.86369643155583,
+          -22.926111222208448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13655954866952,
+          -22.71353251007082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "127",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.86170216491792,
+          -22.962781990389267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "126",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.859208762885736,
+          -22.95920924685499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "125",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.85977652563897,
+          -22.9468689796118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "124",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.8454856709984,
+          -22.935394059922928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "123",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.79169355044405,
+          -22.952674474925136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.72951309997414,
+          -49.33220744003079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "121",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.705240186611455,
+          -22.985655695515007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "120",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.710761615680006,
+          -22.9736610305832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "119",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.50935311127437,
+          -23.05317419234336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "118",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.05845945835248,
+          -23.12348356488861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.07185032008937,
+          -22.68525076623623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.70520287802547,
+          -49.69153853220644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.00842632664107,
+          -50.47411528381112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.50725034262707,
+          -50.05407778042679
         ]
       }
     },
@@ -13641,7 +13581,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13656,7 +13596,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13671,7 +13611,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13686,7 +13626,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13701,7 +13641,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13716,7 +13656,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13731,7 +13671,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13744,24 +13684,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "29",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.95437923247013,
-          -2.591194350949368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "40",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13774,9 +13699,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "41",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.192839471662614,
+          -3.105762120548896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "42",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13789,9 +13729,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "32",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996595704213078,
+          -2.623541022560943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "43",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13804,24 +13759,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "44",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.66694879517114,
-          -3.3850250575157377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "45",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13836,7 +13776,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13851,7 +13791,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13866,7 +13806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13881,7 +13821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13896,7 +13836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13911,7 +13851,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -13924,90 +13864,60 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "41",
+        "field_1": "52",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.192839471662614,
-          -3.105762120548896
+          10.72764876826616,
+          -3.689792185603662
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "28",
+        "field_1": "53",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.025478192405084,
-          -2.626961553456136
+          11.14915065294558,
+          -3.795022022388337
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "27",
+        "field_1": "54",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.903293188288751,
-          -2.5568120334057456
+          10.749104801480415,
+          -3.696847174646401
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "26",
+        "field_1": "44",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.90351287104166,
-          -2.5568601967788203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.72951309997414,
-          -49.33220744003079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.70520287802547,
-          -49.69153853220644
+          10.66694879517114,
+          -3.3850250575157377
         ]
       }
     },
@@ -14016,7 +13926,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14029,15 +13939,30 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "31",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.50725034262707,
-          -50.05407778042679
+          10.026903043879456,
+          -2.6559072453762997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95437923247013,
+          -2.591194350949368
         ]
       }
     },
@@ -14046,7 +13971,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14061,7 +13986,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14076,7 +14001,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14089,15 +14014,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "135",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.00842632664107,
-          -50.47411528381112
+          -43.967682919211306,
+          -22.94377501344639
         ]
       }
     },
@@ -14106,7 +14031,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14121,7 +14046,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14136,97 +14061,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.17053909037061,
-          -22.76789845022719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.18505283274698,
-          -22.78116089017626
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1845751043238,
-          -22.782217983866563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.19191030556842,
-          -22.78277815245416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.20220726894631,
-          -22.79338226044652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.23057621275299,
-          -22.78416944499861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14241,7 +14076,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14256,7 +14091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14271,7 +14106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -14284,720 +14119,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "23",
+        "field_1": "30",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.062753726676286,
-          -2.5946656244173805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.971381256211908,
-          -2.5734242412392203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.955855258665103,
-          -2.5856040058919336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "139",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.95193100372546,
-          -22.95939002510579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "140",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.94074923538903,
-          -22.9637955912899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "147",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.04346113530026,
-          -22.948807075897573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "142",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.9261671468449,
-          -22.98244545715093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.952611183711474,
-          -16.144369509351037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.687815316343084,
-          -16.00940876237666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7075191761304565,
-          -16.006240226786236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.632474478701673,
-          -15.98086914491678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.632338296282711,
-          -15.980837202060984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.779455433957264,
-          -15.980901325817388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.7226577398679455,
-          -15.92147961316572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.722296561703461,
-          -15.91710251395152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.090949647845251,
-          -2.5339048377169124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.087594975911502,
-          -2.538005056296731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.952725910344166,
-          -16.145858482605163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.165733280723538,
-          -2.577928767942366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.95870912716894,
-          -2.534508540793426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.917574389869356,
-          -2.5258238897072847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.865071418742144,
-          -2.496624178169697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.814696978438135,
-          -2.482909020789601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.80811732501841,
-          -2.4835779946390457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.845513069885431,
-          -2.4928069239562256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.820449412786,
-          -2.489143854759599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.066903523273757,
-          -2.576470213938038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.982129146877602,
-          -2.5497307272912986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.914072922389352,
-          -2.5312512679014696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.92662436380366,
-          -2.525648538861346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.934912643328984,
-          -2.5443597718593725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "172",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.41078203395854,
-          -22.961910155900704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "174",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.244526722369535,
-          -23.005528457043283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.40207315085908,
-          -2.869396350176148
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.40207315085908,
-          -2.869396350176148
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.44093965734204,
-          -3.044845790503344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.95825117752152,
-          -2.978097534744277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.975837557999405,
-          -2.961390182142211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.97396119640477,
-          -2.9687444791172592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.90668392403123,
-          -3.277173205334392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.79358737852574,
-          -3.090743951980586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.93937778964229,
-          -3.049417334011413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "184",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.43237426317084,
-          -22.99353811770947
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "173",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.24466699928439,
-          -23.00445358920732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "183",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.41558634555819,
-          -22.98627328423669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "181",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.3643139959189,
-          -22.985163182393013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "180",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.35507517923197,
-          -22.981937741333585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.151386426293605,
-          -22.786634374473813
+          9.996663053471815,
+          -2.6232272148004485
         ]
       }
     },
@@ -15006,538 +14136,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.15778142757416,
-          -22.79323371421476
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13930121543574,
-          -22.80078776231964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "179",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.3912306690563,
-          -22.97230799791996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "178",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.3574683802127,
-          -23.00702155428589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "177",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.345180223643546,
-          -22.984882145795904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "176",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.27482029789876,
-          -23.01261747556116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "175",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.26778601640349,
-          -23.0049300079886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "182",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.36351991795736,
-          -23.009544926092712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.95992007783038,
-          -2.55256150721063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.881419547451504,
-          -2.523061218445612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.898695623412872,
-          -2.526801177486188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.068206268758155,
-          -2.5960478010217893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1124532002943,
-          -22.80163328250231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.111162482328766,
-          -22.801176590731448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.11436798469728,
-          -22.79612983834436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "155",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.94558424796733,
-          -23.01838142538915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "154",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.94686872364821,
-          -23.003504018203436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "153",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.948056488200166,
-          -23.00341118211364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "152",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.95428907559391,
-          -23.00084280330512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "151",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.9383392420203,
-          -22.998006954441205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "150",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.89740232740168,
-          -23.031433858672035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.20343082540266,
-          -2.6188094529630166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "149",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.05012191663339,
-          -22.968371335820184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.10158104652256,
-          -22.78836735414388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.06925239028839,
-          -22.808498635977305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1562126636044,
-          -22.763056541215303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.15606849880893,
-          -22.763090021860258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.11949419338144,
-          -22.75636047851656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.38900677970434,
-          -2.6053903326762526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "146",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.000864135257615,
-          -22.962003774025774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "145",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.96469625152723,
-          -22.96724044247953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "144",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.95221317348634,
-          -22.959370337081506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "143",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.93761531570861,
-          -22.980957065514307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "148",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.04330354838546,
-          -22.94969653831065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.204641590631068,
-          -2.6191684514943527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.85411623409568,
-          -2.523646139123964
+          -39.05957886642844,
+          -3.410748830459979
         ]
       }
     },
@@ -15546,937 +14151,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.866853875401736,
-          -2.52343495218887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "171",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.40156732622732,
-          -22.95759948890528
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "170",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.414105651345366,
-          -22.951590354139988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "169",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.36735292852742,
-          -22.96350869949174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "168",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.35052460231777,
-          -22.97559812527603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "167",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.33477864049342,
-          -22.977722742198797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "166",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.34492420948741,
-          -22.97471810641825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "165",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.33338712467849,
-          -22.97090855760169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "164",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.32280057847356,
-          -22.96530856372654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "163",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.24466699928439,
-          -23.00445358920732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.72764876826616,
-          -3.689792185603662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "162",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.07161454333834,
-          -23.005549667906735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "161",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.32559903258712,
-          -22.94106102523376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "160",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.07133933556506,
-          -23.00509478179169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "159",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.05736771770742,
-          -22.98046065148648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "158",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.04628256739741,
-          -22.987649710463227
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "157",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.04523728393206,
-          -22.987804557352824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "156",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.95515571314768,
-          -23.023157680755613
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.129347413106686,
-          -22.78839598888874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.139971325038914,
-          -22.782477399786615
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1342597910353,
-          -22.78205456141693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1426145520101,
-          -22.77581196302616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1119021419079,
-          -22.81811948211063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.119534882880245,
-          -22.802825308966437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "141",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.91969614746392,
-          -22.9773582136094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.14915065294558,
-          -3.795022022388337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.4898805902636,
-          -4.52949910446918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.762093079974656,
-          -3.702609349478312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14430431781475,
-          -22.82482499911217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.16828025553578,
-          -22.81958768207829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13763811265022,
-          -22.827886080384754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1361206969427,
-          -22.833344520226103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13453845159778,
-          -22.837967013588404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14694945904878,
-          -22.83787402701173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13827733761239,
-          -22.84177920540181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.87190734731874,
-          -1.099718187271041
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.972462566754686,
-          -0.7186640209871321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.151838278438575,
-          -22.8389134118874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13654345935443,
-          -22.844073012978768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.15494686415978,
-          -22.819280266894253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14525912484625,
-          -22.84422363136179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13667949430023,
-          -22.849242008415363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.144218307115935,
-          -22.850138723067992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.24131289478048,
-          -22.790604335992366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.11165135125715,
-          -22.86191002372981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.12180881100732,
-          -22.86716277750436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.12692881557318,
-          -22.871788886340664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13485089836716,
-          -22.878222678284697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13714324592023,
-          -22.884640172879266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.15431188011237,
-          -22.85053665703636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.15308836452228,
-          -22.851482706299414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14401151685368,
-          -22.85458360938236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14990247113269,
-          -22.84432718607241
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13650985932409,
-          -22.82143462901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.16593688564818,
-          -22.81133822384207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.142430206554,
-          -22.816088316330283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.590735595031198,
-          -3.876671192270326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.561806101631086,
-          -2.057769418850243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.508813601879265,
-          -2.027937678192594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.56036855789634,
-          -2.08224848395104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.749104801480415,
-          -3.696847174646401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.01590667884425,
-          -3.3973946411858904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16491,7 +14166,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16506,7 +14181,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16521,7 +14196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16534,9 +14209,2169 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "23",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.062753726676286,
+          -2.5946656244173805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.971381256211908,
+          -2.5734242412392203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.955855258665103,
+          -2.5856040058919336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90351287104166,
+          -2.5568601967788203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.903293188288751,
+          -2.5568120334057456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025478192405084,
+          -2.626961553456136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.01590667884425,
+          -3.3973946411858904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "136",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.01508542190373,
+          -23.179643198895093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.15606849880893,
+          -22.763090021860258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "138",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.91506924195889,
+          -22.96033591510486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "175",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.26778601640349,
+          -23.0049300079886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "174",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.244526722369535,
+          -23.005528457043283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "173",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.24466699928439,
+          -23.00445358920732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "172",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.41078203395854,
+          -22.961910155900704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.090949647845251,
+          -2.5339048377169124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.087594975911502,
+          -2.538005056296731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.165733280723538,
+          -2.577928767942366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92662436380366,
+          -2.525648538861346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95870912716894,
+          -2.534508540793426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.917574389869356,
+          -2.5258238897072847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "176",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.27482029789876,
+          -23.01261747556116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.865071418742144,
+          -2.496624178169697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80811732501841,
+          -2.4835779946390457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.845513069885431,
+          -2.4928069239562256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.820449412786,
+          -2.489143854759599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.066903523273757,
+          -2.576470213938038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.982129146877602,
+          -2.5497307272912986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.914072922389352,
+          -2.5312512679014696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "14",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934912643328984,
+          -2.5443597718593725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95992007783038,
+          -2.55256150721063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.881419547451504,
+          -2.523061218445612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.898695623412872,
+          -2.526801177486188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.814696978438135,
+          -2.482909020789601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.866853875401736,
+          -2.52343495218887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.722296561703461,
+          -15.91710251395152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.779455433957264,
+          -15.980901325817388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.40207315085908,
+          -2.869396350176148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.81133750846296,
+          -2.750536105062415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.38900677970434,
+          -2.6053903326762526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.40207315085908,
+          -2.869396350176148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.44093965734204,
+          -3.044845790503344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "184",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.43237426317084,
+          -22.99353811770947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "183",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.41558634555819,
+          -22.98627328423669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "182",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.36351991795736,
+          -23.009544926092712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "181",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3643139959189,
+          -22.985163182393013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "180",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.35507517923197,
+          -22.981937741333585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7226577398679455,
+          -15.92147961316572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "179",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3912306690563,
+          -22.97230799791996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.151386426293605,
+          -22.786634374473813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.15778142757416,
+          -22.79323371421476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13930121543574,
+          -22.80078776231964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.952725910344166,
+          -16.145858482605163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "177",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.345180223643546,
+          -22.984882145795904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.952611183711474,
+          -16.144369509351037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.687815316343084,
+          -16.00940876237666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7075191761304565,
+          -16.006240226786236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.632474478701673,
+          -15.98086914491678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.632338296282711,
+          -15.980837202060984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "178",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3574683802127,
+          -23.00702155428589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "137",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.03486260920949,
+          -23.186029290218933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.85411623409568,
+          -2.523646139123964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20343082540266,
+          -2.6188094529630166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "153",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.948056488200166,
+          -23.00341118211364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "152",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.95428907559391,
+          -23.00084280330512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "151",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9383392420203,
+          -22.998006954441205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "150",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.89740232740168,
+          -23.031433858672035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1124532002943,
+          -22.80163328250231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.111162482328766,
+          -22.801176590731448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.11436798469728,
+          -22.79612983834436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "149",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.05012191663339,
+          -22.968371335820184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "148",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.04330354838546,
+          -22.94969653831065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "147",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.04346113530026,
+          -22.948807075897573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "154",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.94686872364821,
+          -23.003504018203436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "146",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.000864135257615,
+          -22.962003774025774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "144",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.95221317348634,
+          -22.959370337081506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "143",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.93761531570861,
+          -22.980957065514307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "142",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9261671468449,
+          -22.98244545715093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.10158104652256,
+          -22.78836735414388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.06925239028839,
+          -22.808498635977305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1562126636044,
+          -22.763056541215303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.11949419338144,
+          -22.75636047851656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "141",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.91969614746392,
+          -22.9773582136094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "140",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.94074923538903,
+          -22.9637955912899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "139",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.95193100372546,
+          -22.95939002510579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "145",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.96469625152723,
+          -22.96724044247953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.204641590631068,
+          -2.6191684514943527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.119534882880245,
+          -22.802825308966437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1426145520101,
+          -22.77581196302616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.068206268758155,
+          -2.5960478010217893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "171",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.40156732622732,
+          -22.95759948890528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "155",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.94558424796733,
+          -23.01838142538915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "170",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.414105651345366,
+          -22.951590354139988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "169",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.36735292852742,
+          -22.96350869949174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "168",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.35052460231777,
+          -22.97559812527603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "167",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.33477864049342,
+          -22.977722742198797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "166",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.34492420948741,
+          -22.97471810641825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "165",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.33338712467849,
+          -22.97090855760169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "164",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.32280057847356,
+          -22.96530856372654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1119021419079,
+          -22.81811948211063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.762093079974656,
+          -3.702609349478312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "162",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.07161454333834,
+          -23.005549667906735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "161",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.32559903258712,
+          -22.94106102523376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "160",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.07133933556506,
+          -23.00509478179169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "159",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.05736771770742,
+          -22.98046065148648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "158",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.04628256739741,
+          -22.987649710463227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "157",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.04523728393206,
+          -22.987804557352824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "156",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.95515571314768,
+          -23.023157680755613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.129347413106686,
+          -22.78839598888874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.139971325038914,
+          -22.782477399786615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1342597910353,
+          -22.78205456141693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "163",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.24466699928439,
+          -23.00445358920732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.76597876971086,
+          -3.707033467326208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4898805902636,
+          -4.52949910446918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9559084977054,
+          -3.8414128162538335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16593688564818,
+          -22.81133822384207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13650985932409,
+          -22.82143462901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.15494686415978,
+          -22.819280266894253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14430431781475,
+          -22.82482499911217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.87190734731874,
+          -1.099718187271041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.972462566754686,
+          -0.7186640209871321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16828025553578,
+          -22.81958768207829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13763811265022,
+          -22.827886080384754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1361206969427,
+          -22.833344520226103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13453845159778,
+          -22.837967013588404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14694945904878,
+          -22.83787402701173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13827733761239,
+          -22.84177920540181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.151838278438575,
+          -22.8389134118874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13654345935443,
+          -22.844073012978768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14525912484625,
+          -22.84422363136179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14990247113269,
+          -22.84432718607241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13667949430023,
+          -22.849242008415363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.144218307115935,
+          -22.850138723067992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.24131289478048,
+          -22.790604335992366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.11165135125715,
+          -22.86191002372981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.12180881100732,
+          -22.86716277750436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.12692881557318,
+          -22.871788886340664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13485089836716,
+          -22.878222678284697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13714324592023,
+          -22.884640172879266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.15431188011237,
+          -22.85053665703636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.142430206554,
+          -22.816088316330283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "65",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.15308836452228,
+          -22.851482706299414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1181124000476,
+          -22.853695969347346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13186253749568,
+          -22.84809137665409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56036855789634,
+          -2.08224848395104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250515",
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16551,7 +16386,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16566,7 +16401,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16581,7 +16416,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16594,9 +16429,189 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "10",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.93937778964229,
+          -3.049417334011413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.954591757218743,
+          -3.825188491239052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.90668392403123,
+          -3.277173205334392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.97396119640477,
+          -2.9687444791172592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.975837557999405,
+          -2.961390182142211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.95825117752152,
+          -2.978097534744277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17053909037061,
+          -22.76789845022719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18505283274698,
+          -22.78116089017626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1845751043238,
+          -22.782217983866563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.19191030556842,
+          -22.78277815245416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.20220726894631,
+          -22.79338226044652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.23057621275299,
+          -22.78416944499861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "30",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16611,7 +16626,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16626,7 +16641,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16641,7 +16656,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16656,7 +16671,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16671,7 +16686,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16686,7 +16701,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16701,7 +16716,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16714,24 +16729,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "38",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13186253749568,
-          -22.84809137665409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "39",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16744,15 +16744,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "40",
+        "field_1": "66",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.1181124000476,
-          -22.853695969347346
+          -43.14401151685368,
+          -22.85458360938236
         ]
       }
     },
@@ -16761,7 +16761,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "67",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16774,24 +16774,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "77",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.590735595031198,
-          -3.876671192270326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "68",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16804,15 +16789,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "70",
+        "field_1": "99",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.16385996500632,
-          -22.85664007720997
+          -43.06995692108902,
+          -23.03469178029004
         ]
       }
     },
@@ -16821,7 +16806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "100",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16836,7 +16821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "101",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16851,7 +16836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "102",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16866,7 +16851,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "103",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16881,7 +16866,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "104",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16896,7 +16881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16911,7 +16896,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16926,7 +16911,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16941,7 +16926,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16956,7 +16941,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16971,7 +16956,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -16984,24 +16969,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "99",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.06995692108902,
-          -23.03469178029004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "6",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17014,9 +16984,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "7",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.22698633993225,
+          -4.4672189136827845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "8",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17031,7 +17016,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17046,7 +17031,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17061,7 +17046,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17076,7 +17061,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17091,7 +17076,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17106,7 +17091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17121,7 +17106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17136,7 +17121,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17151,7 +17136,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17166,7 +17151,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17179,24 +17164,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "7",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.22698633993225,
-          -4.4672189136827845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "98",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17211,7 +17181,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "97",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17226,7 +17196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "96",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17239,369 +17209,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "71",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14075356472496,
-          -22.86479587537466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.13924711021549,
-          -22.865429413736617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14063882291411,
-          -22.86609903266476
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.16944677316207,
-          -22.85903024043081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.16554062183906,
-          -22.861733997808745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.17428478122043,
-          -22.862445311081583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.16030931914816,
-          -22.87022977197297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.17754970004765,
-          -22.8687787363782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "79",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1465672087708,
-          -22.882546025179337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.16632929102172,
-          -22.878760030881804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.18141119901867,
-          -22.87955956862321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.15016634143969,
-          -22.888754569368714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1863281406128,
-          -22.8543010788753
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1829392851937,
-          -22.861332883296303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.18766295573818,
-          -22.860421066503083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.20258238108866,
-          -22.87042066088873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.247420813838495,
-          -22.83363087790249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.24670746888698,
-          -22.83493203722382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14497622408366,
-          -22.90003021711401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.14151877455405,
-          -22.90901233653563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "91",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1858933823962,
-          -22.88825784698016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.154592220247565,
-          -22.90933276307693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.95271666376545,
-          -22.992514544003985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "94",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.148359974430434,
-          -22.93418372380637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "95",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17616,7 +17226,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "69",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17629,45 +17239,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "76",
+        "field_1": "70",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.9631187878848,
-          -3.955668548913174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.05957886642844,
-          -3.410748830459979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.53875278492282,
-          -3.8120771392617714
+          -43.16385996500632,
+          -22.85664007720997
         ]
       }
     },
@@ -17676,7 +17256,442 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "71",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14075356472496,
+          -22.86479587537466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.13924711021549,
+          -22.865429413736617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14063882291411,
+          -22.86609903266476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16944677316207,
+          -22.85903024043081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16554062183906,
+          -22.861733997808745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17428478122043,
+          -22.862445311081583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16030931914816,
+          -22.87022977197297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17754970004765,
+          -22.8687787363782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1465672087708,
+          -22.882546025179337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16632929102172,
+          -22.878760030881804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.508813601879265,
+          -2.027937678192594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18141119901867,
+          -22.87955956862321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1863281406128,
+          -22.8543010788753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1829392851937,
+          -22.861332883296303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18766295573818,
+          -22.860421066503083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.20258238108866,
+          -22.87042066088873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.247420813838495,
+          -22.83363087790249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.24670746888698,
+          -22.83493203722382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14497622408366,
+          -22.90003021711401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14151877455405,
+          -22.90901233653563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1858933823962,
+          -22.88825784698016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.154592220247565,
+          -22.90933276307693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.95271666376545,
+          -22.992514544003985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.148359974430434,
+          -22.93418372380637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.15016634143969,
+          -22.888754569368714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.561806101631086,
+          -2.057769418850243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.79358737852574,
+          -3.090743951980586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.337616669926865,
+          -3.948098276476637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.148754963969443,
+          -3.95691654685773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "71",
+        "Date": "20250515",
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17689,9 +17704,84 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "73",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.937880709166883,
+          -3.913863234938997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53875278492282,
+          -3.8120771392617714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9631187878848,
+          -3.955668548913174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.590735595031198,
+          -3.876671192270326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.590735595031198,
+          -3.876671192270326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "70",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17706,7 +17796,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "69",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17719,15 +17809,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "68",
+        "field_1": "75",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.080556137639396,
-          -3.908852091725331
+          10.924480433940577,
+          -3.92704173772242
         ]
       }
     },
@@ -17736,7 +17826,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "67",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17751,7 +17841,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "66",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17766,7 +17856,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "65",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17779,24 +17869,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "72",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.148754963969443,
-          -3.95691654685773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "64",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17809,9 +17884,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "20",
+        "Date": "20250515",
+        "DaysOld": "5.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.63561998027561,
+          -5.139839310353309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "62",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17826,7 +17916,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17841,7 +17931,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17856,7 +17946,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -17869,465 +17959,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "58",
+        "field_1": "68",
         "Date": "20250515",
-        "DaysOld": "4.0"
+        "DaysOld": "5.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.9559084977054,
-          -3.8414128162538335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.954591757218743,
-          -3.825188491239052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.76597876971086,
-          -3.707033467326208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.63561998027561,
-          -5.139839310353309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.924480433940577,
-          -3.92704173772242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.337616669926865,
-          -3.948098276476637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20250515",
-        "DaysOld": "4.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.937880709166883,
-          -3.913863234938997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.48064177374834,
-          -2.2294414534329627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.43974501317213,
-          -33.84222092040964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.425349805679765,
-          -33.84724420756723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.43133175177068,
-          -33.849233345260544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.4487462315466,
-          -33.83076901661222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.44763612854442,
-          -33.83161841267798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.431381216777375,
-          -33.84969798007539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.42972112410123,
-          -33.86575720044887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.423434601913314,
-          -33.87290673339532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.42439195618528,
-          -33.88954812343042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.423162782518055,
-          -33.90153458010335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.28957228767175,
-          -34.03047479376009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.39576055531023,
-          -33.99114450676711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.409778236258106,
-          -33.984804281018725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.41210273996183,
-          -33.98613348723978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.78854532036628,
-          -33.94715956469117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.31734128002484,
-          -34.089599305702635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.353285490642094,
-          -34.077376503689365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.34083797227032,
-          -34.11223699563155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.34867204383177,
-          -34.11011108482456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.341149503352334,
-          -34.11296994600039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.20726987832652,
-          -34.16969543519222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.23841807614447,
-          -34.170842170955375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.30423429051676,
-          -34.149436491607226
+          11.080556137639396,
+          -3.908852091725331
         ]
       }
     },
@@ -18336,7 +17976,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18349,9 +17989,144 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "50",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.30423429051676,
+          -34.149436491607226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.23841807614447,
+          -34.170842170955375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.20726987832652,
+          -34.16969543519222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.341149503352334,
+          -34.11296994600039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.78854532036628,
+          -33.94715956469117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34083797227032,
+          -34.11223699563155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.353285490642094,
+          -34.077376503689365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.31734128002484,
+          -34.089599305702635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41210273996183,
+          -33.98613348723978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "52",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18364,9 +18139,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "46",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.34867204383177,
+          -34.11011108482456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "53",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18379,15 +18169,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "9",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.64659973434934,
-          -1.788915377193514
+          -49.8577962912889,
+          -1.8236602149285388
         ]
       }
     },
@@ -18396,7 +18186,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18411,7 +18201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18424,279 +18214,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "10",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.2003945174224,
-          -38.92778348076799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.369080679781526,
-          -38.82172611009595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.565223171335504,
-          -38.61340053692879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.814692015452565,
-          -38.42084160434039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.484020899100166,
-          -2.3000543532680884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.48888468847748,
-          -2.252659632268105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.496700037805205,
-          -2.2983152123208845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.45135328307602,
-          -2.350243985378377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.45242764951335,
-          -2.3496805011162705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.451856916129344,
-          -2.351307563457579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.49575015713231,
-          -2.31959989123274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.50421507050083,
-          -2.325212843680176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.50595102279984,
-          -2.33159292083413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.45642874123501,
-          -2.4142505336457507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.45472942981064,
-          -2.41382402332342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.55082591725042,
-          -2.4181995719594056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.54183030452605,
-          -2.545795984004134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.56742436399898,
-          -2.602115715647599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "3",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18709,249 +18229,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "52",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.65256583693271,
-          -2.6458058682596346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.51066116605025,
-          -33.7552206037839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.45843615752938,
-          -33.811466040060765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.695944264712914,
-          -2.9086891306945435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.72696652366136,
-          -2.9121589081908303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.64635582809775,
-          -3.075427117461834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.64630561939197,
-          -3.076048633895254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.65912666132439,
-          -3.311779511257406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.501644695373294,
-          -37.9988282021232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.501644695373294,
-          -37.9988282021232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.51541132249518,
-          -38.03588800985307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.52861980783143,
-          -38.03415874771867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "4",
         "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.52755229221345,
-          -38.03482985119064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.53089721123271,
-          -38.04680163502027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.814380442136496,
-          -38.41948629315088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.46125730339416,
-          -2.2727805664782026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18966,7 +18246,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18981,7 +18261,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -18994,519 +18274,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.10740620721528,
-          -33.05258862055939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.11106911004288,
-          -33.02433379295113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.0810644392619,
-          -1.7911249824019788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.09051419707779,
-          -1.7889195683438042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.08941231887297,
-          -1.790426383190897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.09748802078192,
-          -1.79339779907319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.103381850695605,
-          -1.8358122219174189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.29935099619219,
-          -2.054820626409932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.354981809118605,
-          -2.004803548286048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.13464835674012,
-          -1.843701414810892
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.308842732209605,
-          -2.072983198086256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.71979806732308,
-          -2.7262678688076987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.34376208679691,
-          -2.065834035277049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.30933642667038,
-          -2.0740021655596004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.1258122334867,
-          -33.07260761212519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.34431331785938,
-          -2.067122054533501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.4252746578624,
-          -2.131271880602039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.84497664001485,
-          -38.92642531374416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.76457532008526,
-          -39.27784282137918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.86421534986084,
-          -39.12534548441052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.82602590458577,
-          -39.19160171154606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.840435668049565,
-          -39.22613416221919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.76105234292413,
-          -39.32538102057503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.86541972622649,
-          -39.36744939983794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "7",
         "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.19341979305373,
-          -40.29954426548633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.42319512160279,
-          -40.29119988338952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.36251214708083,
-          -2.177364213866769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.40746983672017,
-          -2.171163102760519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.42629630084605,
-          -2.222303669949792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.45140859135542,
-          -2.2313698720220243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.34885928781674,
-          -2.072044993133542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.1408537801901,
-          -33.06335102612797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.14812788272523,
-          -33.061492850339974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.147027903452674,
-          -33.068391802457384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19521,7 +18291,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19534,15 +18304,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
+        "field_1": "40",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.8577962912889,
-          -1.8236602149285388
+          -58.409778236258106,
+          -33.984804281018725
         ]
       }
     },
@@ -19551,7 +18321,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19566,7 +18336,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19581,7 +18351,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19594,9 +18364,339 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "0",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.64659973434934,
+          -1.788915377193514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.39576055531023,
+          -33.99114450676711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.565223171335504,
+          -38.61340053692879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.423162782518055,
+          -33.90153458010335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.51066116605025,
+          -33.7552206037839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.45843615752938,
+          -33.811466040060765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43974501317213,
+          -33.84222092040964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.425349805679765,
+          -33.84724420756723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43133175177068,
+          -33.849233345260544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.695944264712914,
+          -2.9086891306945435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.72696652366136,
+          -2.9121589081908303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.64635582809775,
+          -3.075427117461834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.64630561939197,
+          -3.076048633895254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.65912666132439,
+          -3.311779511257406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.501644695373294,
+          -37.9988282021232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.501644695373294,
+          -37.9988282021232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.51541132249518,
+          -38.03588800985307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.52861980783143,
+          -38.03415874771867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.52755229221345,
+          -38.03482985119064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.53089721123271,
+          -38.04680163502027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.814380442136496,
+          -38.41948629315088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.814692015452565,
+          -38.42084160434039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "13",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19609,9 +18709,144 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "9",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.369080679781526,
+          -38.82172611009595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2003945174224,
+          -38.92778348076799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4487462315466,
+          -33.83076901661222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44763612854442,
+          -33.83161841267798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.431381216777375,
+          -33.84969798007539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42972112410123,
+          -33.86575720044887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.423434601913314,
+          -33.87290673339532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42439195618528,
+          -33.88954812343042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.28957228767175,
+          -34.03047479376009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "14",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19624,9 +18859,534 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "42",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.45242764951335,
+          -2.3496805011162705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0810644392619,
+          -1.7911249824019788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.19341979305373,
+          -40.29954426548633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.86541972622649,
+          -39.36744939983794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.76105234292413,
+          -39.32538102057503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.840435668049565,
+          -39.22613416221919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.82602590458577,
+          -39.19160171154606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.86421534986084,
+          -39.12534548441052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.76457532008526,
+          -39.27784282137918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.84497664001485,
+          -38.92642531374416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.45140859135542,
+          -2.2313698720220243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.42629630084605,
+          -2.222303669949792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.40746983672017,
+          -2.171163102760519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.36251214708083,
+          -2.177364213866769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4252746578624,
+          -2.131271880602039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.34885928781674,
+          -2.072044993133542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.34431331785938,
+          -2.067122054533501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.42319512160279,
+          -40.29119988338952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.30933642667038,
+          -2.0740021655596004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.71979806732308,
+          -2.7262678688076987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.480957471160735,
+          -2.229841876928035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.451856916129344,
+          -2.351307563457579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.49575015713231,
+          -2.31959989123274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.50421507050083,
+          -2.325212843680176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.50595102279984,
+          -2.33159292083413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.45642874123501,
+          -2.4142505336457507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.45472942981064,
+          -2.41382402332342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.55082591725042,
+          -2.4181995719594056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.54183030452605,
+          -2.545795984004134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.56742436399898,
+          -2.602115715647599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.65256583693271,
+          -2.6458058682596346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.496700037805205,
+          -2.2983152123208845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.48888468847748,
+          -2.252659632268105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.484020899100166,
+          -2.3000543532680884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.46125730339416,
+          -2.2727805664782026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "36",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19639,15 +19399,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "34",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.64417732567517,
-          -3.790619032792857
+          -49.48064177374834,
+          -2.2294414534329627
         ]
       }
     },
@@ -19656,7 +19416,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19671,28 +19431,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.50179142277323,
-          -33.76845176951708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.51719869646019,
-          -33.748820066729856
+          -49.34376208679691,
+          -2.065834035277049
         ]
       }
     },
@@ -19701,238 +19446,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.443346085489104,
-          -33.676734384799126
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.415695270154885,
-          -33.44015722106332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.40448978283168,
-          -33.44128327770272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.40303215926121,
-          -33.44031176622358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.16709895944912,
-          -33.07692492476514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.16874063247794,
-          -33.08499929924703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.16338333750193,
-          -33.088240966692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.19745668021809,
-          -33.10152921372771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.30488040998716,
-          -33.07917454746481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.31552543688522,
-          -33.08156146752455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.480957471160735,
-          -2.229841876928035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.24779917381967,
-          -33.10366083419855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.31933930989861,
-          -33.099249762167275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.4127891870713,
-          -33.08008012292428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.383442413928194,
-          -33.1025007231105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.40460132709536,
-          -33.18803609788438
+          -50.13464835674012,
+          -1.843701414810892
         ]
       }
     },
@@ -19941,7 +19461,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19956,7 +19476,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19969,15 +19489,75 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "13",
+        "field_1": "20",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.26178499841008,
-          -33.10732471237277
+          -58.40303215926121,
+          -33.44031176622358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40448978283168,
+          -33.44128327770272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.415695270154885,
+          -33.44015722106332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.443346085489104,
+          -33.676734384799126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.64417732567517,
+          -3.790619032792857
         ]
       }
     },
@@ -19986,7 +19566,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -19999,15 +19579,435 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "119",
+        "field_1": "24",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.94236020971368,
-          -1.5850014654638562
+          -58.51719869646019,
+          -33.748820066729856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.50179142277323,
+          -33.76845176951708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.29935099619219,
+          -2.054820626409932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.103381850695605,
+          -1.8358122219174189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.09748802078192,
+          -1.79339779907319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.45135328307602,
+          -2.350243985378377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.09051419707779,
+          -1.7889195683438042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40460132709536,
+          -33.18803609788438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.308842732209605,
+          -2.072983198086256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.383442413928194,
+          -33.1025007231105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.31933930989861,
+          -33.099249762167275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.354981809118605,
+          -2.004803548286048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.11106911004288,
+          -33.02433379295113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.10740620721528,
+          -33.05258862055939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1258122334867,
+          -33.07260761212519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1408537801901,
+          -33.06335102612797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.14812788272523,
+          -33.061492850339974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.147027903452674,
+          -33.068391802457384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.16709895944912,
+          -33.07692492476514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.16874063247794,
+          -33.08499929924703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.16338333750193,
+          -33.088240966692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.19745668021809,
+          -33.10152921372771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.30488040998716,
+          -33.07917454746481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.31552543688522,
+          -33.08156146752455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.24779917381967,
+          -33.10366083419855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.26178499841008,
+          -33.10732471237277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4127891870713,
+          -33.08008012292428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.08941231887297,
+          -1.790426383190897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "122",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.26331067619685,
+          -1.6343093139999332
         ]
       }
     },
@@ -20016,7 +20016,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "132",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20031,7 +20031,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20046,7 +20046,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20061,7 +20061,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20076,7 +20076,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20091,7 +20091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20106,7 +20106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20121,7 +20121,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20136,7 +20136,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20151,7 +20151,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20166,7 +20166,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20181,7 +20181,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20196,7 +20196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20211,7 +20211,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "53",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20226,7 +20226,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "54",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20241,7 +20241,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "55",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20256,7 +20256,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "56",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20271,7 +20271,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20286,7 +20286,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20301,7 +20301,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20316,7 +20316,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20331,7 +20331,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20346,7 +20346,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "62",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20361,7 +20361,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "63",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20376,7 +20376,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20391,7 +20391,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "64",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20406,7 +20406,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20421,7 +20421,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20436,7 +20436,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20451,7 +20451,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20466,7 +20466,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20481,7 +20481,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20496,7 +20496,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20511,7 +20511,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20526,7 +20526,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20541,7 +20541,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20556,7 +20556,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20571,7 +20571,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20586,7 +20586,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20601,7 +20601,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20616,7 +20616,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20631,7 +20631,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20646,7 +20646,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20661,7 +20661,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20676,7 +20676,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20691,7 +20691,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20706,7 +20706,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20721,7 +20721,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20736,7 +20736,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20751,7 +20751,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20766,7 +20766,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20781,7 +20781,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20796,7 +20796,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "65",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20811,7 +20811,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "66",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20826,7 +20826,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "67",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20841,7 +20841,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "96",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20856,7 +20856,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "97",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20869,24 +20869,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "98",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -57.08376216744551,
-          -35.111068007544404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "133",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20899,9 +20884,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "99",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.21641450051129,
+          -35.06931806868668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "100",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20916,7 +20916,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20931,7 +20931,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20946,7 +20946,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20961,7 +20961,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20976,7 +20976,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -20991,7 +20991,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21006,7 +21006,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21021,7 +21021,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21036,7 +21036,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21051,7 +21051,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21066,7 +21066,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21081,7 +21081,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21096,7 +21096,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21111,7 +21111,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21126,7 +21126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21141,7 +21141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21156,7 +21156,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21171,7 +21171,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21186,7 +21186,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "95",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21201,7 +21201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "94",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21216,7 +21216,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "93",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21231,7 +21231,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "92",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21246,7 +21246,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "68",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21261,7 +21261,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "69",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21276,7 +21276,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "70",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21291,7 +21291,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "71",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21306,7 +21306,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "72",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21321,7 +21321,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "73",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21336,7 +21336,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "74",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21351,7 +21351,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "75",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21366,7 +21366,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "76",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21381,7 +21381,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "77",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21396,7 +21396,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "78",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21411,7 +21411,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21426,7 +21426,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "79",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21441,7 +21441,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "81",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21456,7 +21456,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "82",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21471,7 +21471,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "83",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21486,7 +21486,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "84",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21501,7 +21501,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "85",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21516,7 +21516,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "86",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21531,7 +21531,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "87",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21546,7 +21546,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "88",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21561,7 +21561,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "89",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21576,7 +21576,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "90",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21591,7 +21591,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "91",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21606,7 +21606,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "80",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21621,7 +21621,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21636,7 +21636,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21651,7 +21651,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21666,7 +21666,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "55",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21681,7 +21681,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "54",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21696,7 +21696,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "53",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21711,7 +21711,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21726,7 +21726,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21741,7 +21741,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21756,7 +21756,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21771,7 +21771,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21786,7 +21786,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21801,7 +21801,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21816,7 +21816,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21831,7 +21831,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21846,7 +21846,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21861,7 +21861,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21876,7 +21876,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21891,7 +21891,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21906,7 +21906,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21921,7 +21921,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21936,7 +21936,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21951,7 +21951,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21966,7 +21966,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21981,7 +21981,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -21996,7 +21996,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22011,7 +22011,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "56",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22026,7 +22026,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22041,7 +22041,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22056,7 +22056,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22071,7 +22071,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "83",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22086,7 +22086,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "82",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22101,7 +22101,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "81",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22116,7 +22116,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "80",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22131,7 +22131,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "79",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22146,7 +22146,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "78",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22161,7 +22161,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "77",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22176,7 +22176,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "76",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22191,7 +22191,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "75",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22206,7 +22206,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "74",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22221,7 +22221,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "73",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22236,7 +22236,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22251,7 +22251,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "72",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22266,7 +22266,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "70",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22281,7 +22281,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "69",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22296,7 +22296,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "68",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22311,7 +22311,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "67",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22326,7 +22326,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "66",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22341,7 +22341,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "65",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22356,7 +22356,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "64",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22371,7 +22371,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "63",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22386,7 +22386,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "62",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22401,7 +22401,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22416,7 +22416,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22431,7 +22431,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "71",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22446,7 +22446,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22461,7 +22461,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22476,7 +22476,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22491,7 +22491,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22506,7 +22506,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22521,7 +22521,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22536,7 +22536,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22551,7 +22551,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22566,7 +22566,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22581,7 +22581,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22596,7 +22596,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22611,7 +22611,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22626,7 +22626,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22641,7 +22641,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22656,7 +22656,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22671,7 +22671,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22686,7 +22686,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22701,7 +22701,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22716,7 +22716,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22731,7 +22731,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22746,7 +22746,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22761,7 +22761,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22776,7 +22776,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22791,7 +22791,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22806,7 +22806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22821,7 +22821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22836,7 +22836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22851,7 +22851,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22866,7 +22866,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22881,7 +22881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22896,7 +22896,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22911,7 +22911,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22926,7 +22926,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22941,7 +22941,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22956,7 +22956,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22971,7 +22971,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -22986,7 +22986,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23001,7 +23001,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23016,7 +23016,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23031,7 +23031,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23046,7 +23046,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23061,7 +23061,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23076,7 +23076,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23091,7 +23091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23106,7 +23106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23121,7 +23121,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23136,7 +23136,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23151,7 +23151,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23166,7 +23166,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23181,7 +23181,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23196,7 +23196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23211,7 +23211,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23226,7 +23226,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23241,7 +23241,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23256,7 +23256,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23271,7 +23271,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23284,15 +23284,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "99",
+        "field_1": "98",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.21641450051129,
-          -35.06931806868668
+          -57.08376216744551,
+          -35.111068007544404
         ]
       }
     },
@@ -23301,7 +23301,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23316,7 +23316,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "53",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23331,7 +23331,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "54",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23346,7 +23346,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "55",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23361,7 +23361,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "56",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23376,7 +23376,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23391,7 +23391,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23406,7 +23406,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23421,7 +23421,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23436,7 +23436,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23451,7 +23451,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "62",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23466,7 +23466,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "63",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23481,7 +23481,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "64",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23496,7 +23496,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "65",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23511,7 +23511,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "66",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23526,7 +23526,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "67",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23541,7 +23541,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "68",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23556,7 +23556,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "69",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23571,7 +23571,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "70",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23586,7 +23586,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "71",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23601,7 +23601,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "72",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23616,7 +23616,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "73",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23631,7 +23631,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "74",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23646,7 +23646,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "75",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23661,7 +23661,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23676,7 +23676,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "76",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23691,7 +23691,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23706,7 +23706,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23721,7 +23721,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23736,7 +23736,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23751,7 +23751,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23766,7 +23766,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23781,7 +23781,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23796,7 +23796,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23811,7 +23811,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23826,7 +23826,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23841,7 +23841,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23856,7 +23856,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23871,7 +23871,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23886,7 +23886,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23899,15 +23899,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "20",
+        "field_1": "38",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.63501629405672,
-          -0.6081720545059064
+          -48.48491164599954,
+          -1.2725362602215724
         ]
       }
     },
@@ -23916,7 +23916,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23929,15 +23929,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "40",
+        "field_1": "20",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.55698690983291,
-          -1.2856628055375336
+          -47.63501629405672,
+          -0.6081720545059064
         ]
       }
     },
@@ -23946,7 +23946,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23961,7 +23961,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23976,7 +23976,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -23991,7 +23991,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24006,7 +24006,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24021,7 +24021,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24036,7 +24036,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24051,7 +24051,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24066,7 +24066,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24081,7 +24081,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "77",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24096,7 +24096,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "78",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24111,7 +24111,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "79",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24126,7 +24126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "108",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24141,7 +24141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "109",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24156,7 +24156,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "110",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24171,7 +24171,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "111",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24186,7 +24186,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "112",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24201,7 +24201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "113",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24216,7 +24216,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "114",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24231,7 +24231,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "115",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24246,7 +24246,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "116",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24261,7 +24261,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "117",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24276,7 +24276,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "118",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24289,9 +24289,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "119",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.94236020971368,
+          -1.5850014654638562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "120",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24306,7 +24321,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "121",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24319,24 +24334,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "122",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.26331067619685,
-          -1.6343093139999332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "123",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24351,7 +24351,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "124",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24366,7 +24366,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "125",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24381,7 +24381,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "126",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24396,7 +24396,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "127",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24411,7 +24411,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "128",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24426,7 +24426,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "129",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24441,7 +24441,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "130",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24456,7 +24456,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "131",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24471,7 +24471,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "107",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24486,7 +24486,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "106",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24501,7 +24501,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "105",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24516,7 +24516,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "104",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24531,7 +24531,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "80",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24546,7 +24546,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "81",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24561,7 +24561,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "82",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24576,7 +24576,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "83",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24591,7 +24591,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "84",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24606,7 +24606,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "85",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24621,7 +24621,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "86",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24636,7 +24636,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "87",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24651,7 +24651,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "88",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24666,7 +24666,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "89",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24681,7 +24681,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "90",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24696,7 +24696,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24711,7 +24711,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "91",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24726,7 +24726,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "93",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24741,7 +24741,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "94",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24756,7 +24756,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "95",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24771,7 +24771,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "96",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24786,7 +24786,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "97",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24801,7 +24801,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "98",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24816,7 +24816,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "99",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24831,7 +24831,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "100",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24846,7 +24846,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "101",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24861,7 +24861,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "102",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24876,7 +24876,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "103",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24891,7 +24891,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "92",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24906,7 +24906,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24919,15 +24919,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "38",
+        "field_1": "40",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.48491164599954,
-          -1.2725362602215724
+          -48.55698690983291,
+          -1.2856628055375336
         ]
       }
     },
@@ -24936,7 +24936,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24951,7 +24951,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24966,7 +24966,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24981,7 +24981,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -24996,7 +24996,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25011,7 +25011,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25026,7 +25026,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25041,7 +25041,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25056,7 +25056,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25071,7 +25071,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25086,7 +25086,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25101,7 +25101,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25116,7 +25116,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25131,7 +25131,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25146,7 +25146,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25161,7 +25161,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25176,7 +25176,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25191,7 +25191,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25206,7 +25206,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25221,7 +25221,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25236,7 +25236,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25251,7 +25251,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25266,7 +25266,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25281,7 +25281,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "53",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25294,24 +25294,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "54",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.28755974791172,
-          -2.4630002114971594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "23",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25324,9 +25309,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "55",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3017201525972,
+          -2.4429464455628467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "56",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25341,7 +25341,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25356,7 +25356,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25371,7 +25371,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25386,7 +25386,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25401,7 +25401,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25416,7 +25416,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25431,7 +25431,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25446,7 +25446,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25461,7 +25461,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25476,7 +25476,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25491,7 +25491,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25506,7 +25506,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25521,7 +25521,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25536,7 +25536,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25551,7 +25551,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25566,7 +25566,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25581,7 +25581,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25596,7 +25596,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25611,7 +25611,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25626,7 +25626,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25641,7 +25641,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25656,7 +25656,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25671,7 +25671,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25686,7 +25686,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25701,7 +25701,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25716,7 +25716,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25731,7 +25731,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25746,7 +25746,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25761,7 +25761,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25776,7 +25776,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25791,7 +25791,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25806,7 +25806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25821,7 +25821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25836,7 +25836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25851,7 +25851,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25866,7 +25866,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25881,7 +25881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25896,7 +25896,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25911,7 +25911,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25926,7 +25926,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "62",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25939,15 +25939,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "55",
+        "field_1": "54",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.3017201525972,
-          -2.4429464455628467
+          -44.28755974791172,
+          -2.4630002114971594
         ]
       }
     },
@@ -25956,7 +25956,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "64",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -25969,54 +25969,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "17",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.49231849442755,
-          -1.0645571518075327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.515047534956345,
-          -0.8863450255947435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.36655473810974,
-          -0.6268221334098981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "2",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26031,7 +25986,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26046,7 +26001,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26059,9 +26014,54 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "19",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.60351439763738,
+          -1.0323752914923898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.468011636839975,
+          -1.071224296042555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.49231849442755,
+          -1.0645571518075327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "16",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26076,7 +26076,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26091,7 +26091,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26106,7 +26106,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26121,7 +26121,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26134,39 +26134,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "11",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.36967363892988,
-          -1.0496706375920597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.51901221483461,
-          -0.9106991201071882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "63",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26179,24 +26149,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "9",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.51901875025162,
-          -0.9094301027899806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "5",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26211,7 +26166,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26224,45 +26179,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "18",
+        "field_1": "7",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.468011636839975,
-          -1.071224296042555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.60351439763738,
-          -1.0323752914923898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.63363879421004,
-          -0.6841416779556967
+          -48.515047534956345,
+          -0.8863450255947435
         ]
       }
     },
@@ -26271,7 +26196,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26284,9 +26209,84 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "9",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.51901875025162,
+          -0.9094301027899806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.51901221483461,
+          -0.9106991201071882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.63363879421004,
+          -0.6841416779556967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.36655473810974,
+          -0.6268221334098981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250516",
+        "DaysOld": "4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.49135631283139,
+          -1.0775839180464235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "65",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26301,7 +26301,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "66",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26314,24 +26314,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "21",
-        "Date": "20250516",
-        "DaysOld": "3.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.49135631283139,
-          -1.0775839180464235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "20",
         "Date": "20250516",
-        "DaysOld": "3.0"
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -26344,15 +26329,90 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
-        "Date": "20250517",
-        "DaysOld": "2.0"
+        "field_1": "11",
+        "Date": "20250516",
+        "DaysOld": "4.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.61364508813472,
-          -45.065631704709695
+          -48.36967363892988,
+          -1.0496706375920597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.82856012910864,
+          -7.552226496247362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.62667955395711,
+          -6.517650099218495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.61797399359262,
+          -6.804538211341678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.02629729071423,
+          -4.424953159198547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.05378691263409,
+          -4.3707485712602185
         ]
       }
     },
@@ -26361,7 +26421,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26374,9 +26434,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61364508813472,
+          -45.065631704709695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "5",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26391,7 +26466,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26406,7 +26481,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26421,7 +26496,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26436,7 +26511,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26449,15 +26524,60 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "0",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -34.67151450073354,
-          -6.5849275459753525
+          -36.10644650977017,
+          -12.783664014087762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.6055113267735,
+          -6.82680637898011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.92301908484231,
+          -6.76895772352308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.82059014793375,
+          -4.356164023756189
         ]
       }
     },
@@ -26466,7 +26586,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26481,7 +26601,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26496,7 +26616,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26511,7 +26631,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26526,7 +26646,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26541,7 +26661,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26554,24 +26674,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.82856012910864,
-          -7.552226496247362
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "5",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26584,90 +26689,30 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.92301908484231,
-          -6.76895772352308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.61797399359262,
-          -6.804538211341678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.6055113267735,
-          -6.82680637898011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.62667955395711,
-          -6.517650099218495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.10644650977017,
-          -12.783664014087762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "1",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -34.80852469517277,
-          -8.106197717497404
+          -34.67151450073354,
+          -6.5849275459753525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.83516995421886,
+          -8.068248338659286
         ]
       }
     },
@@ -26676,7 +26721,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26691,7 +26736,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26706,7 +26751,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26721,7 +26766,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26736,7 +26781,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26751,7 +26796,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26766,7 +26811,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26781,7 +26826,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26796,7 +26841,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26811,7 +26856,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26826,7 +26871,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26841,7 +26886,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26856,7 +26901,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26871,7 +26916,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26886,7 +26931,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26901,7 +26946,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26914,15 +26959,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "1",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -34.83516995421886,
-          -8.068248338659286
+          -34.80852469517277,
+          -8.106197717497404
         ]
       }
     },
@@ -26931,7 +26976,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26946,7 +26991,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26961,7 +27006,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26976,7 +27021,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -26991,7 +27036,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27006,7 +27051,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27021,7 +27066,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27036,7 +27081,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27051,7 +27096,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27066,7 +27111,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27081,7 +27126,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27096,7 +27141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27111,7 +27156,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27126,7 +27171,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27141,7 +27186,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27156,7 +27201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27171,7 +27216,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -27184,2304 +27229,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.05378691263409,
-          -4.3707485712602185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.63670813644373,
-          -44.72829271316317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.82059014793375,
-          -4.356164023756189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.95496878871091,
-          -10.976954814692691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.93799237958671,
-          -10.987389575804876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.93788984740031,
-          -10.988166375878448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.94843387640366,
-          -10.986879885221624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.92385080778807,
-          -10.99566824894949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.95669986365634,
-          -10.990776432005692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.02629729071423,
-          -4.424953159198547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.92481990043998,
-          -11.000483940043347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.93283363505908,
-          -11.007969533796327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.97743575816161,
-          -10.967945578692884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.96476282546448,
-          -10.985444603675642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.98227526953743,
-          -10.98486792523382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.99366779325586,
-          -10.99397966587668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.9722655333133,
-          -10.999873607807098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.92589258520276,
-          -11.006970850972383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.93290488928268,
-          -10.98262322475752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.04370842302745,
-          -10.894972485784256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.92062550837267,
-          -10.884778721857304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.56665928414824,
-          -10.362274803415197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.55826600405351,
-          -10.399441034661022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.41243230899315,
-          -10.487593771316462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.50326877975053,
-          -10.429613184310035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.543173266982805,
-          -10.415869505050798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.55666238443399,
-          -10.405972400867045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.59026042000032,
-          -10.717331217670678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.53162617815409,
-          -10.549830830735264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.63426743578983,
-          -10.653384052656264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.59531330480671,
-          -44.89721621651491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.8213767797206,
-          -10.99877827077886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.855716081695505,
-          -11.058225603568255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.88266378531713,
-          -10.85698781832757
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "3",
         "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.9190115778109,
-          -10.843578427903962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.882693968576056,
-          -10.85773417715466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.03035531929019,
-          -10.95142671452556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.47369794472981,
-          -10.413507250876137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.04441689499262,
-          -10.938970731367863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.00076807245194,
-          -11.027426389083187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.10846209171664,
-          -11.349760652265136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.40174547639849,
-          -11.432162779833352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.36260677990314,
-          -11.458910358951224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.01083024308419,
-          -12.099707704487844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.1117004008486,
-          -12.205266748639431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.23143279958767,
-          -12.25160907584997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.965729088541785,
-          -11.318397129479091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.23143279958767,
-          -12.25160907584997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.95209320649909,
-          -4.981832045928408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.2686688412842,
-          -4.875676517125841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.27002315871933,
-          -4.875749424183368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.3711075245245,
-          -4.874843778340629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.25944574049385,
-          -4.906923918458264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.25621836208858,
-          -4.916420292416086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.2921064632913,
-          -4.8584509079102185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.98852764796049,
-          -11.291456671863829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.98848304210311,
-          -11.29146690806112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.17114017894304,
-          -11.173467925169255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.95989635979256,
-          -11.09866193264784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.97903440569188,
-          -11.119934386086689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.97919262961946,
-          -11.120416025689597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.01863458735699,
-          -11.177522713904043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.047713309970746,
-          -11.131771167033138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.05757406812954,
-          -11.13878135312855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.04019042917564,
-          -11.143010772161515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.04921333701359,
-          -11.148848243079724
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.06222335767767,
-          -11.153392499604394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.05278350957645,
-          -11.164696312072552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.15931861159564,
-          -11.09732153829916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.07948401109418,
-          -11.200560800365086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.07967367839608,
-          -11.201788522713375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.16439087512641,
-          -11.154209857603748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.16661903142499,
-          -11.16019481107585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.98862594953359,
-          -11.01424956810132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.47166468632975,
-          -10.399001339611932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.45859565357373,
-          -10.412092223180789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.46509787132364,
-          -10.404165529634453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.772873567072002,
-          -5.965901171308559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.79223665821352,
-          -5.976375541004731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.791773714706776,
-          -5.977212038133235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.740556640634695,
-          -5.969019329502788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.8189610762461,
-          -6.000313907229267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.859983980837086,
-          -6.017256750166218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.754404960924331,
-          -5.934275340563945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.817821290920069,
-          -6.021035968854695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.815071282983842,
-          -5.997039654263659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.770261853036772,
-          -5.9901948607703615
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.797230271073404,
-          -6.010143907610637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.7981415950165,
-          -6.018957119176783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.809599828226007,
-          -6.02440710468664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.76769749924476,
-          -6.019485256005616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.82522690724652,
-          -6.02340769105319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.891750214019597,
-          -5.958404959237134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.76921267827523,
-          -5.910235057546132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.887218998741693,
-          -5.922530060587128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.589902739011558,
-          -5.6637295178846765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.547613015401968,
-          -5.7205441404613895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.547613015401968,
-          -5.7205441404613895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.508318815910776,
-          -5.791905435447468
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.50827458066714,
-          -5.791895553224773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.429598157999225,
-          -5.834921503735844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4295742406419,
-          -5.835433772380106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.43072234209651,
-          -5.853007409695734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.430149693090698,
-          -5.857961433340537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.036032905960312,
-          -5.869782130860509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.949636706144922,
-          -5.916052842764233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.855492205119871,
-          -5.869395898287242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.855078380733206,
-          -5.876875573347589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.896234440547971,
-          -5.92474513968541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.89538975700743,
-          -5.9316581511398185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.809369888009494,
-          -6.028776996072998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.756956916608498,
-          -6.01913577251787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.770580684616522,
-          -6.029589316784023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.4807226095486,
-          -13.900807401930724
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.782827540544936,
-          -10.402369142308554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.63409952400053,
-          -10.251362949766955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.61310941271845,
-          -10.264903179970169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.64725966419996,
-          -10.254198711681678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.77158664104427,
-          -10.224935166487228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.79115006513362,
-          -10.22531471490431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.82096782017768,
-          -10.211586579114469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.81430973680197,
-          -10.217578066952678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.87773234013179,
-          -10.489442860314258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.8779713446006,
-          -10.490707003990275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.569551156966114,
-          -10.316618965892427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.56860479837807,
-          -10.317399215933897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.58237958497384,
-          -10.307344546771622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.73201165404247,
-          -10.247811029920385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.73183574365371,
-          -10.248274820628346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.782746715570084,
-          -10.4020107742122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.32489747839661,
-          -4.919987302703042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.15210744183874,
-          -10.15937632968966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.97153009489568,
-          -9.833694173009595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.84938529711941,
-          -14.497402800273958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.38837365896437,
-          -14.874938236679444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.4199242071038,
-          -14.871297972057487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.47244690924936,
-          -14.868702535675943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.43398245697596,
-          -14.474367406790302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.33070461817307,
-          -14.58229461929358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.33127358126842,
-          -14.584047472978751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.435375282834144,
-          -14.580344616174678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.65907504804934,
-          -15.163658954566246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.737662398541744,
-          -9.706373613433763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.774457169002986,
-          -9.68247143516219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.78325577173592,
-          -9.696773549776069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.79769092736715,
-          -9.716912632787702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.92698339780758,
-          -9.839649598673914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.94421628767197,
-          -9.845127108451331
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.8189032365249,
-          -10.273887527685336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.3381279436086,
-          -4.917172008314842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.95364883749174,
-          -10.977539789223195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.33854179008181,
-          -4.931062509677007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.036224416176715,
-          -6.315445345018418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -29496,13 +27246,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -34.54379171308656,
-          -4.451886354243177
+          -65.63670813644373,
+          -44.72829271316317
         ]
       }
     },
@@ -29511,7 +27261,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -29524,15 +27274,1545 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "10",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -34.51339738100052,
-          -4.456927373955644
+          -36.93799237958671,
+          -10.987389575804876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.93788984740031,
+          -10.988166375878448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.94843387640366,
+          -10.986879885221624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.92385080778807,
+          -10.99566824894949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.95669986365634,
+          -10.990776432005692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.92481990043998,
+          -11.000483940043347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.54379171308656,
+          -4.451886354243177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.92589258520276,
+          -11.006970850972383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.97743575816161,
+          -10.967945578692884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.96476282546448,
+          -10.985444603675642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.98227526953743,
+          -10.98486792523382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.99366779325586,
+          -10.99397966587668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.9722655333133,
+          -10.999873607807098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.03035531929019,
+          -10.95142671452556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.93283363505908,
+          -11.007969533796327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.95364883749174,
+          -10.977539789223195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.93290488928268,
+          -10.98262322475752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.04370842302745,
+          -10.894972485784256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.55826600405351,
+          -10.399441034661022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.41243230899315,
+          -10.487593771316462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.50326877975053,
+          -10.429613184310035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.543173266982805,
+          -10.415869505050798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.55666238443399,
+          -10.405972400867045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.59026042000032,
+          -10.717331217670678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.53162617815409,
+          -10.549830830735264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.63426743578983,
+          -10.653384052656264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.59531330480671,
+          -44.89721621651491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.8213767797206,
+          -10.99877827077886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.855716081695505,
+          -11.058225603568255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.88266378531713,
+          -10.85698781832757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.9190115778109,
+          -10.843578427903962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.882693968576056,
+          -10.85773417715466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.92062550837267,
+          -10.884778721857304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.04441689499262,
+          -10.938970731367863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.98862594953359,
+          -11.01424956810132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.00076807245194,
+          -11.027426389083187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.95989635979256,
+          -11.09866193264784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.40174547639849,
+          -11.432162779833352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.36260677990314,
+          -11.458910358951224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.01083024308419,
+          -12.099707704487844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1117004008486,
+          -12.205266748639431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.23143279958767,
+          -12.25160907584997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.23143279958767,
+          -12.25160907584997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2921064632913,
+          -4.8584509079102185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.95209320649909,
+          -4.981832045928408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.2686688412842,
+          -4.875676517125841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.27002315871933,
+          -4.875749424183368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.3711075245245,
+          -4.874843778340629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.25944574049385,
+          -4.906923918458264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.25621836208858,
+          -4.916420292416086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.32489747839661,
+          -4.919987302703042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.3381279436086,
+          -4.917172008314842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.10846209171664,
+          -11.349760652265136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.56665928414824,
+          -10.362274803415197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.965729088541785,
+          -11.318397129479091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.98848304210311,
+          -11.29146690806112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.97903440569188,
+          -11.119934386086689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.97919262961946,
+          -11.120416025689597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.01863458735699,
+          -11.177522713904043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.047713309970746,
+          -11.131771167033138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.05757406812954,
+          -11.13878135312855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.04019042917564,
+          -11.143010772161515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.04921333701359,
+          -11.148848243079724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.06222335767767,
+          -11.153392499604394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.05278350957645,
+          -11.164696312072552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.15931861159564,
+          -11.09732153829916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.07948401109418,
+          -11.200560800365086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.07967367839608,
+          -11.201788522713375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.16439087512641,
+          -11.154209857603748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.16661903142499,
+          -11.16019481107585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.17114017894304,
+          -11.173467925169255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.98852764796049,
+          -11.291456671863829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.47369794472981,
+          -10.413507250876137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.47166468632975,
+          -10.399001339611932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.45859565357373,
+          -10.412092223180789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.772873567072002,
+          -5.965901171308559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.79223665821352,
+          -5.976375541004731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.791773714706776,
+          -5.977212038133235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.740556640634695,
+          -5.969019329502788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8189610762461,
+          -6.000313907229267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.859983980837086,
+          -6.017256750166218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.817821290920069,
+          -6.021035968854695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82522690724652,
+          -6.02340769105319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.815071282983842,
+          -5.997039654263659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.770261853036772,
+          -5.9901948607703615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.797230271073404,
+          -6.010143907610637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7981415950165,
+          -6.018957119176783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.809599828226007,
+          -6.02440710468664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76769749924476,
+          -6.019485256005616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.809369888009494,
+          -6.028776996072998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.754404960924331,
+          -5.934275340563945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.756956916608498,
+          -6.01913577251787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.891750214019597,
+          -5.958404959237134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.887218998741693,
+          -5.922530060587128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.589902739011558,
+          -5.6637295178846765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.547613015401968,
+          -5.7205441404613895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.547613015401968,
+          -5.7205441404613895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.508318815910776,
+          -5.791905435447468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50827458066714,
+          -5.791895553224773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.429598157999225,
+          -5.834921503735844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4295742406419,
+          -5.835433772380106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43072234209651,
+          -5.853007409695734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.430149693090698,
+          -5.857961433340537
         ]
       }
     },
@@ -29541,7 +28821,112 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.036032905960312,
+          -5.869782130860509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.949636706144922,
+          -5.916052842764233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.855492205119871,
+          -5.869395898287242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.855078380733206,
+          -5.876875573347589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.896234440547971,
+          -5.92474513968541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.89538975700743,
+          -5.9316581511398185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76921267827523,
+          -5.910235057546132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250517",
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -29554,195 +28939,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "15",
+        "field_1": "35",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.80937461145752,
-          -18.43758103835538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.83911951724048,
-          -18.392111345998327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.83885922692487,
-          -18.39108669126149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.062032743737234,
-          -18.48093718631832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.01736820298935,
-          -18.47644652964103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.17778168664684,
-          -17.739838853733755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.17709572318462,
-          -17.73981350111532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.96500522870094,
-          -17.980489508720495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.16536310386575,
-          -17.922267582352486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.49395672048671,
-          -17.569118267812524
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.005926215597725,
-          -17.436906658890152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.20271504373152,
-          -17.40796310222216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.202594925088086,
-          -17.406669629825597
+          12.770580684616522,
+          -6.029589316784023
         ]
       }
     },
@@ -29751,253 +28956,28 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.44212340290629,
-          -17.04929547884021
+          -36.84938529711941,
+          -14.497402800273958
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "11",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.44181951100877,
-          -17.04804421158133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.93618721023734,
-          -5.999186589398251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.70320225763368,
-          -5.917607411657476
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.72222460259441,
-          -17.081436270817427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.04385634708349,
-          -5.6401671792011046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.2278124617057,
-          -5.13451651888701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.17121193095071,
-          -5.122994747247345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.886188450143365,
-          -5.428957147277637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.299479121990586,
-          -5.064992881999431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.2449646241999,
-          -5.27855392390347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.404825365394174,
-          -4.929755732484659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.36160897959224,
-          -4.949322103991708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.36934541646379,
-          -4.94505790140536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.35437689197956,
-          -4.941600792463934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.26834363653742,
-          -4.963548330722693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250517",
-        "DaysOld": "2.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.41050133896795,
-          -4.909999876952001
+          -36.63409952400053,
+          -10.251362949766955
         ]
       }
     },
@@ -30006,7 +28986,547 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.61310941271845,
+          -10.264903179970169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.64725966419996,
+          -10.254198711681678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.77158664104427,
+          -10.224935166487228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.79115006513362,
+          -10.22531471490431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.82096782017768,
+          -10.211586579114469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.81430973680197,
+          -10.217578066952678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.87773234013179,
+          -10.489442860314258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.8779713446006,
+          -10.490707003990275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.569551156966114,
+          -10.316618965892427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.56860479837807,
+          -10.317399215933897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.58237958497384,
+          -10.307344546771622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.73201165404247,
+          -10.247811029920385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.73183574365371,
+          -10.248274820628346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.46509787132364,
+          -10.404165529634453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.782827540544936,
+          -10.402369142308554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4807226095486,
+          -13.900807401930724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.782746715570084,
+          -10.4020107742122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.8189032365249,
+          -10.273887527685336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.38837365896437,
+          -14.874938236679444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.4199242071038,
+          -14.871297972057487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.47244690924936,
+          -14.868702535675943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.43398245697596,
+          -14.474367406790302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.33070461817307,
+          -14.58229461929358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.33127358126842,
+          -14.584047472978751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.435375282834144,
+          -14.580344616174678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.65907504804934,
+          -15.163658954566246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.737662398541744,
+          -9.706373613433763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.774457169002986,
+          -9.68247143516219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.78325577173592,
+          -9.696773549776069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.79769092736715,
+          -9.716912632787702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.92698339780758,
+          -9.839649598673914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.94421628767197,
+          -9.845127108451331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.97153009489568,
+          -9.833694173009595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.15210744183874,
+          -10.15937632968966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.33854179008181,
+          -4.931062509677007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.95496878871091,
+          -10.976954814692691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250517",
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -30019,9 +29539,69 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "36",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.93618721023734,
+          -5.999186589398251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.036224416176715,
+          -6.315445345018418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.80937461145752,
+          -18.43758103835538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.51339738100052,
+          -4.456927373955644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "11",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -30034,15 +29614,285 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "24",
+        "field_1": "0",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -36.24501853894333,
-          -5.12086148661912
+          -37.44181951100877,
+          -17.04804421158133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.44212340290629,
+          -17.04929547884021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.72222460259441,
+          -17.081436270817427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.202594925088086,
+          -17.406669629825597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.20271504373152,
+          -17.40796310222216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.005926215597725,
+          -17.436906658890152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.49395672048671,
+          -17.569118267812524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.16536310386575,
+          -17.922267582352486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.96500522870094,
+          -17.980489508720495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.17709572318462,
+          -17.73981350111532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.17778168664684,
+          -17.739838853733755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.01736820298935,
+          -18.47644652964103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.062032743737234,
+          -18.48093718631832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.83885922692487,
+          -18.39108669126149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.70320225763368,
+          -5.917607411657476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.20184463688662,
+          -5.756515029965862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.83911951724048,
+          -18.392111345998327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.043768564922324,
+          -5.639763745359189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.04385634708349,
+          -5.6401671792011046
         ]
       }
     },
@@ -30051,7 +29901,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -30066,7 +29916,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -30079,30 +29929,45 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "24",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -35.043768564922324,
-          -5.639763745359189
+          -36.24501853894333,
+          -5.12086148661912
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "23",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -34.62499313594716,
-          -5.677757893838877
+          -36.2278124617057,
+          -5.13451651888701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.17121193095071,
+          -5.122994747247345
         ]
       }
     },
@@ -30111,7 +29976,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -30124,9 +29989,39 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "21",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.886188450143365,
+          -5.428957147277637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.299479121990586,
+          -5.064992881999431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "28",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -30139,9 +30034,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "18",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.404825365394174,
+          -4.929755732484659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "29",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -30154,15 +30064,75 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "17",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -35.20184463688662,
-          -5.756515029965862
+          -36.36160897959224,
+          -4.949322103991708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.36934541646379,
+          -4.94505790140536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.35437689197956,
+          -4.941600792463934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.26834363653742,
+          -4.963548330722693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250517",
+        "DaysOld": "3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.41050133896795,
+          -4.909999876952001
         ]
       }
     },
@@ -30171,7 +30141,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250517",
-        "DaysOld": "2.0"
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -30184,120 +30154,30 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "44",
-        "Date": "20250518",
-        "DaysOld": "1.0"
+        "field_1": "31",
+        "Date": "20250517",
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.031219985973856,
-          -32.41651800878409
+          -34.62499313594716,
+          -5.677757893838877
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "35",
-        "Date": "20250518",
-        "DaysOld": "1.0"
+        "field_1": "19",
+        "Date": "20250517",
+        "DaysOld": "3.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.63874083056877,
-          -32.68424078232904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.63099789635947,
-          -32.44711045355218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.790132585191216,
-          -32.41967193336174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.13499434063864,
-          -32.77818864527845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.637772835690498,
-          -32.682428328505026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.019376717733557,
-          -32.541364552154725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.80453907407967,
-          -32.367498578401204
+          -35.2449646241999,
+          -5.27855392390347
         ]
       }
     },
@@ -30306,7 +30186,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "53",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30321,7 +30201,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30334,39 +30214,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "51",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.080099315243654,
-          -32.2511501429636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.39737604095095,
-          -32.26469331560147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "49",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30379,45 +30229,135 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "48",
+        "field_1": "50",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.262217952037705,
-          -31.93276141249529
+          16.39737604095095,
+          -32.26469331560147
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "46",
+        "field_1": "34",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.14932542373921,
-          -32.454828514648625
+          16.65445262226339,
+          -32.724954643813604
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "45",
+        "field_1": "35",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.954638754661996,
-          -32.33798181163892
+          16.63874083056877,
+          -32.68424078232904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.63099789635947,
+          -32.44711045355218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.790132585191216,
+          -32.41967193336174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.13499434063864,
+          -32.77818864527845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.019376717733557,
+          -32.541364552154725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.080099315243654,
+          -32.2511501429636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.80453907407967,
+          -32.367498578401204
         ]
       }
     },
@@ -30426,7 +30366,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30439,15 +30379,45 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "42",
+        "field_1": "44",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.019139186539377,
-          -32.540803830097744
+          17.031219985973856,
+          -32.41651800878409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.954638754661996,
+          -32.33798181163892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.14932542373921,
+          -32.454828514648625
         ]
       }
     },
@@ -30456,7 +30426,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30469,15 +30439,60 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "56",
+        "field_1": "48",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.01240523881322,
-          -31.67345439956394
+          18.262217952037705,
+          -31.93276141249529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.019139186539377,
+          -32.540803830097744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.637772835690498,
+          -32.682428328505026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "66",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9051723895423,
+          -31.60117163870493
         ]
       }
     },
@@ -30486,7 +30501,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "55",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30501,7 +30516,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "38",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30516,7 +30531,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "37",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30531,7 +30546,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "36",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30546,7 +30561,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "35",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30561,7 +30576,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "34",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30576,7 +30591,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "33",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30591,7 +30606,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "39",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30606,7 +30621,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "32",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30621,7 +30636,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "30",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30636,7 +30651,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30651,7 +30666,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30666,7 +30681,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30681,7 +30696,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30696,7 +30711,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30711,7 +30726,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "31",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30726,7 +30741,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "54",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30741,7 +30756,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "40",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30756,7 +30771,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "42",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30769,15 +30784,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "34",
+        "field_1": "56",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.65445262226339,
-          -32.724954643813604
+          18.01240523881322,
+          -31.67345439956394
         ]
       }
     },
@@ -30786,7 +30801,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30801,7 +30816,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30816,7 +30831,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30831,7 +30846,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30846,7 +30861,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30861,7 +30876,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "41",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30876,7 +30891,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "62",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30891,7 +30906,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "64",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30906,7 +30921,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "65",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30919,15 +30934,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "66",
+        "field_1": "33",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.9051723895423,
-          -31.60117163870493
+          16.754602749831356,
+          -32.733028486378
         ]
       }
     },
@@ -30936,7 +30951,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "67",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30951,7 +30966,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "68",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30966,7 +30981,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "43",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30981,7 +30996,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "63",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -30994,60 +31009,45 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "33",
+        "field_1": "32",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.754602749831356,
-          -32.733028486378
+          16.36074825407262,
+          -32.89067137741807
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "21",
+        "field_1": "10",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.423158743460526,
-          -32.97659586628415
+          17.981743095609627,
+          -33.04223035738844
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "31",
+        "field_1": "30",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.841753553206328,
-          -32.654745893591034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.80376828877014,
-          -33.16317258530782
+          18.105589122921973,
+          -32.618346324055494
         ]
       }
     },
@@ -31056,7 +31056,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31071,7 +31071,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "44",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31086,7 +31086,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "45",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31101,7 +31101,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "46",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31116,7 +31116,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "47",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31131,7 +31131,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "48",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31146,7 +31146,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "49",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31161,7 +31161,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "50",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31176,7 +31176,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "51",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31191,7 +31191,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "52",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31204,24 +31204,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "2",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.011596318309227,
-          -33.09179816576346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "53",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31234,9 +31219,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "54",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4179569427392,
+          -33.878330275984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "55",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31251,7 +31251,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "56",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31266,7 +31266,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "57",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31281,7 +31281,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "58",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31296,7 +31296,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "59",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31311,7 +31311,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "60",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31326,7 +31326,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "61",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31341,7 +31341,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "62",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31356,7 +31356,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "63",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31371,7 +31371,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "64",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31386,7 +31386,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "65",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31399,54 +31399,69 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "54",
+        "field_1": "66",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.4179569427392,
-          -33.878330275984375
+          16.60637330078408,
+          -34.18916161731324
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "67",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.665425863798514,
-          -33.39653231699388
+          17.487921680994216,
+          -33.92310500876816
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "1",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.664938626805732,
-          -33.39588686010157
+          17.80376828877014,
+          -33.16317258530782
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
+        "field_1": "31",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.841753553206328,
+          -32.654745893591034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250518",
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31459,15 +31474,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "30",
+        "field_1": "4",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.105589122921973,
-          -32.618346324055494
+          16.664938626805732,
+          -33.39588686010157
         ]
       }
     },
@@ -31476,7 +31491,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "29",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31491,7 +31506,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "28",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31506,7 +31521,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "27",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31521,7 +31536,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "26",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31536,7 +31551,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "25",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31551,7 +31566,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "24",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31566,7 +31581,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31581,7 +31596,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "22",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31594,9 +31609,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "21",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.423158743460526,
+          -32.97659586628415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "20",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31611,7 +31641,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31626,7 +31656,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31641,7 +31671,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31656,7 +31686,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31671,7 +31701,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31686,7 +31716,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31701,7 +31731,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "13",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31716,7 +31746,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31729,24 +31759,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "24",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.2822596457008,
-          -34.16784083404402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "11",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31759,15 +31774,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "10",
+        "field_1": "24",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.981743095609627,
-          -33.04223035738844
+          18.2822596457008,
+          -34.16784083404402
         ]
       }
     },
@@ -31776,7 +31791,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31791,7 +31806,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31806,7 +31821,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31821,7 +31836,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31834,15 +31849,30 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "32",
+        "field_1": "5",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.36074825407262,
-          -32.89067137741807
+          18.011596318309227,
+          -33.09179816576346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.665425863798514,
+          -33.39653231699388
         ]
       }
     },
@@ -31851,7 +31881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "23",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31864,15 +31894,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "1",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.06750286433898,
-          -34.73510383898324
+          18.26141111794798,
+          -34.69993364898985
         ]
       }
     },
@@ -31881,7 +31911,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "21",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31894,24 +31924,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "5",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.25585070021106,
-          -35.22948850327606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "4",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31926,7 +31941,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "3",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31941,7 +31956,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31956,7 +31971,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31971,7 +31986,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -31984,3654 +31999,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.33848189952897,
-          -35.80136984287853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.482191476118928,
-          -35.74484463559086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.48175039477046,
-          -35.743808027660926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.319352562207783,
-          -35.75157358098371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.459221781683052,
-          -35.61876208875099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "5",
         "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.41385734813071,
-          -35.55535182935606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.41333741673688,
-          -35.55409620568904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.41333741673688,
-          -35.55409620568904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.241405996198235,
-          -35.54918982993548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.44088430507829,
-          -35.42791681882429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.263536462548124,
-          -35.41342017432232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.262959873239733,
-          -35.41294322008575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.476653982142825,
-          -35.348265111360554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.881816039871964,
-          -35.46646954599835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.894558832798065,
-          -35.41878517490406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.895033112371824,
-          -35.41866790196274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.25945378279412,
-          -35.31426221012426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.259214556415152,
-          -35.313605500264266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.25887963948367,
-          -35.31268610646028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.7090707345408,
-          -34.89167932841985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.436364847706493,
-          -35.231797506523954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.04524502312448,
-          -35.31507183700251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.37231972890426,
-          -35.01670517911932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.45540969011525,
-          -36.288544683050574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.56457619071001,
-          -36.93215329442582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.54824475007857,
-          -36.44425957435398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.38968301468692,
-          -36.71246895068888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.44897050680344,
-          -37.04028941782816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.449238706310574,
-          -37.04022227314247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.78849974329888,
-          -37.349531354097735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.85311870293072,
-          -37.33275280170698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.74473187167592,
-          -36.19423038840801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.74463914190058,
-          -36.19396695482801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.555151389375766,
-          -35.66166534684234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.356673141870935,
-          -35.88483812214038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.65788923458478,
-          -35.56116241391923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.5220549003451,
-          -35.80771414677436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.92558178460664,
-          -35.20868387699719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.92658808518078,
-          -35.18291942858514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.97583111332354,
-          -35.13888394122586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.937831538345655,
-          -35.15238780564541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.991784670410446,
-          -35.07917606873034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.99758816405656,
-          -35.077043838705706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.92632132710836,
-          -35.33753454538454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.87070547791421,
-          -35.02831271510512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.8852966094736,
-          -35.02355201107526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.99425473151592,
-          -34.952395483407216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.97131573306554,
-          -34.93906796338541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.37188405813077,
-          -35.015477084669925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.430440324095063,
-          -34.18742063721128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.436921473173797,
-          -35.23175253086416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.453638712136296,
-          -35.20295858448741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.66255025318365,
-          -34.80899134608455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.45420809602509,
-          -34.813246909219906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.240242664155577,
-          -34.81494099628439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.560348429392068,
-          -34.68240444164465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.60637330078408,
-          -34.18916161731324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.26141111794798,
-          -34.69993364898985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.303745022198225,
-          -34.67947996157607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.403868552966063,
-          -34.66410895457869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.06750286433898,
-          -34.73510383898324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.43911347899224,
-          -34.63827304691007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.448236282445464,
-          -34.60890540984079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.636735520541947,
-          -34.64769607620013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.14981210989576,
-          -34.5323861904802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.149281980576426,
-          -34.53118146967296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.752232044888935,
-          -34.349956655715886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.266782471540868,
-          -34.44768442655472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.266570156089585,
-          -34.44625925449596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.817036732745997,
-          -34.53925264038811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.935679193631284,
-          -34.49353659337844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.089716628868583,
-          -34.46012060837744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.472890355610275,
-          -34.35806884413784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.467262697188293,
-          -34.35206324443105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.414853155968338,
-          -34.32003806688205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.7562670405834,
-          -34.37189358028238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.755757831650023,
-          -34.3707312560042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.66173137808392,
-          -34.810052384284376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.8700056057933,
-          -35.33555424062369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.682189118366864,
-          -35.06084729905372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.84063882820758,
-          -34.81586515746917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.074729888779164,
-          -35.14734966309525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.65344060550448,
-          -35.223955282269706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.20099099128828,
-          -35.075696467510554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.85833686168608,
-          -35.13208234590308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.83903246685023,
-          -35.082981206158614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.18164344295523,
-          -35.01639008063716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.29435211880196,
-          -34.983437498371295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.746461945524064,
-          -35.096415604285134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.83903246685023,
-          -35.082981206158614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.081672721622027,
-          -34.98606102910841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.944019855474664,
-          -35.44727352950428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.77516933351722,
-          -34.98096041779526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.643040470445538,
-          -34.98330271171216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.832624375449225,
-          -34.94881679272921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.19483139797173,
-          -35.280183010056575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.558196131450025,
-          -34.95399217476049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.031967379662497,
-          -34.835031798112986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.03228128811811,
-          -34.8349533986189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.205496575742732,
-          -35.016914124157786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.778786737957347,
-          -34.87587162777109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.450035724881364,
-          -34.92883955038241
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.50156619491377,
-          -34.93502160986476
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.77881670244494,
-          -34.8439495435322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.87704860303735,
-          -34.839320739627226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.89771976239,
-          -34.83241973703828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.681669705082108,
-          -35.060827561680696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.487921680994216,
-          -33.92310500876816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.072667339137386,
-          -33.433600920699924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.070063288293344,
-          -33.91311382466035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "79",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.22025405500632,
-          -2.349231375550733
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "78",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.20369483310134,
-          -2.37086759954403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "77",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.18801856696071,
-          -2.356995644900737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "76",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.8652730803682,
-          -2.442707255537444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "75",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.20444074234496,
-          -2.340461302445713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "74",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.58561669445799,
-          -2.225337188368774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "73",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.56514393124244,
-          -2.2137872312449662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "72",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.58383533630458,
-          -2.151601834318872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "71",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.19061924494954,
-          -2.2340952882322904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "70",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.193135597203,
-          -2.2253771584823023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "69",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.18339271383749,
-          -2.2253822606729994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.18248233074413,
-          -2.224124430709573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "67",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.56896692278133,
-          -2.129864728645213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "66",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.170647374321,
-          -2.218385529788627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "65",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.179921897375166,
-          -2.204910926840541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "64",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.163221418554485,
-          -2.200933957005071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "63",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.15763374529626,
-          -2.1854306807152604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "62",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.140637068552536,
-          -2.178323764350675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "61",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.17366223723076,
-          -1.9525765686963008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "60",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.14040632468331,
-          -2.1776694963885426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "59",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.15537125007525,
-          -2.1700029058616277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "58",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.15189241557179,
-          -2.154041200794888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "57",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.133639903162425,
-          -2.156176091633538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "56",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.13269779042097,
-          -2.1404614924475904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "55",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.11283777825216,
-          -2.144118490047709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "54",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.53076814788059,
-          -2.022511036962828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "53",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.48026292492329,
-          -2.0398808342579864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "80",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.22213645772189,
-          -2.362675649578827
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "52",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.12345066705754,
-          -2.1202584713856685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "81",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.09231300891432,
-          -2.4104518206696324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "83",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.21837685720006,
-          -2.372087722712683
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "110",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.35966151240825,
-          -2.5231668444579904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "109",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.46218006753621,
-          -2.481625917905577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "108",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.46239601560781,
-          -2.48026407414804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "107",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.46218006753621,
-          -2.481625917905577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "106",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.89192844539204,
-          -2.5966814301604435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "105",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.93602740599867,
-          -2.570744192064164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "104",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.93157302857279,
-          -2.5597337636799677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "103",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.4062045599306,
-          -2.4151676182552717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "102",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.29056215142547,
-          -2.446169653222725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "101",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.31027652636641,
-          -2.435585969302976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "100",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.02409656468196,
-          -2.498324352676698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "99",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.02405257436831,
-          -2.49833392023717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "98",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.35917635641545,
-          -2.411931292294501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "97",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.35167464321051,
-          -2.403891313970771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "96",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.29689946272615,
-          -2.42501995626942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "95",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.273165361324686,
-          -2.424127497661346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "94",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.34339002231537,
-          -2.3861134681728777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "93",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.28297756638685,
-          -2.405508859631348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "92",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.27900330470767,
-          -2.38754262136826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "91",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.24976821843553,
-          -2.411608780689884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "90",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.263473999653485,
-          -2.404117871210651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "89",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.240744915569415,
-          -2.3947875613218925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "88",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.33219114975968,
-          -2.3565728567108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "87",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.25356495857092,
-          -2.384624996381638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "86",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.23377649728384,
-          -2.3775190454541577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "85",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.21837685720006,
-          -2.372087722712683
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "84",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.21546227736,
-          -2.381785656758392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "82",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.10951372877267,
-          -2.4180765859150157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "51",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.12686468174494,
-          -2.0938772620714032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "50",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.48611962790044,
-          -1.9784728765527653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "49",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.09803869359556,
-          -2.083420415096993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "16",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.51038746558658,
-          -1.2930524069853828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "15",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.35673183377747,
-          -1.3427181221425677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "14",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.30544148157264,
-          -1.3391448967268818
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "13",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.095437750165786,
-          -1.386319485981856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "12",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.8858195537998,
-          -1.4205862927135318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.577134294917954,
-          -1.2657469536349393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.95776189764295,
-          -1.3815609165060534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.9434979004085,
-          -1.4014026562074011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.8858195537998,
-          -1.4205862927135318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.87392997283695,
-          -1.413035627048253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.86711295888786,
-          -1.181046522026273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.87070177117808,
-          -1.150802704810509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.8089821337526,
-          -1.1622081340083794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.74942467601871,
-          -1.1543078352387943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.74871356156847,
-          -1.1533380309507202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.662954127114624,
-          -1.1589983975900693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.99027038599133,
-          -1.270902293816769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.303345419748275,
-          -30.920156331131924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.774335058741917,
-          -30.89912360290283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.257388095439637,
-          -31.024985801133266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.903770404061508,
-          -30.904700833976797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.387830200717467,
-          -31.061317774662403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.42828744927269,
-          -31.104071480405988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471230631908952,
-          -31.317839372734834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434005021197548,
-          -31.34100558169047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.505064954566848,
-          -31.62122124324923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.015403897431348,
-          -31.821802992334497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "17",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.662632614362,
-          -1.2525460484387438
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "18",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.66402612670702,
-          -1.252617882389291
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "19",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.65622846378597,
-          -1.257874729981003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "20",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.65826568963332,
-          -1.269427387226804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "48",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.07809066715997,
-          -2.066714418040063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "47",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.24928852659761,
-          -1.805463316463224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "46",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.29790371085703,
-          -1.7226476770326065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "45",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.00618998411852,
-          -1.9590058968559376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "44",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.73017632094964,
-          -1.717032723739924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "43",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.72107736527089,
-          -1.718118667430972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "42",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.58627516878419,
-          -1.7684846663565177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "41",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.5860994689562,
-          -1.7685228460102425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "40",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.65587252254496,
-          -1.7192437834170124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "39",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.530040173923474,
-          -1.410031788309691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "38",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.52885810913237,
-          -1.4105233685165366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "37",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.66307558574545,
-          -1.3701158318175168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "36",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.64096005625921,
-          -1.3672432853715244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "111",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.35904216768174,
-          -2.5431664015148856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "35",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.64131772352952,
-          -1.3659001206716812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "33",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.52877610742292,
-          -1.4103537238456667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "32",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.64862766095087,
-          -1.5998894950309923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "31",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.02271867209184,
-          -1.4892571490277806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "30",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.702939424142905,
-          -1.5621940825697624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "29",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.49941195104677,
-          -1.3608227307073844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "28",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.49506926114215,
-          -1.3425495480938492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "27",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.92557528421156,
-          -1.4688043162170137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.80053669732727,
-          -1.7125780090006582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.47898827154575,
-          -1.3371403209954251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.48472553268131,
-          -1.3342993012034154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.48448632230911,
-          -1.3290549103134923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.1103466576804,
-          -1.4189551277474397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "21",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.87641793328721,
-          -1.2114842563707062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "34",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.5300116101229,
-          -1.409897387806232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "68",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.761301650449838,
-          -33.85996950406953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "112",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.35828366584124,
-          -2.543707357569769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "114",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.3682232070127,
-          -2.530130203068827
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "4",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.4290111906215,
-          -33.7910696873648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.47744953606491,
-          -34.01782242413334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.47777778281409,
-          -34.01916940847645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.44383982343377,
-          -34.09990895449744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.10727507206259,
-          -34.26677926885796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.10825408544388,
-          -34.26835310493836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.14955294796079,
-          -34.405747321919605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "11",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.853646836238575,
-          -34.81797185192513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -35646,7 +32016,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -35659,30 +32029,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "0",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.649358223335973,
-          -29.280078702821616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.01793735441528,
-          -29.605506003314108
+          19.33848189952897,
+          -35.80136984287853
         ]
       }
     },
@@ -35691,133 +32046,43 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.477909874258074,
-          -30.04312583208773
+          19.482191476118928,
+          -35.74484463559086
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "2",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.2285268187532,
-          -30.184647645890973
+          19.48175039477046,
+          -35.743808027660926
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "11",
+        "field_1": "3",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.00671501787092,
-          -28.37264282187631
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "10",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.75935773585866,
-          -28.28819087953072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "9",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.778446910261316,
-          -28.310262400295425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "8",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.778221814124342,
-          -28.35952761658769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.814670229286916,
-          -28.50441308613764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.817760148334976,
-          -28.586293626152894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "5",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.271122775800514,
-          -28.503773911348816
+          19.319352562207783,
+          -35.75157358098371
         ]
       }
     },
@@ -35826,43 +32091,268 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "4",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.07494246617453,
-          -28.567891963576947
+          19.459221781683052,
+          -35.61876208875099
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "5",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.330935362955163,
-          -28.55713882142477
+          19.41385734813071,
+          -35.55535182935606
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "2",
+        "field_1": "6",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.10997701857374,
-          -28.633648218854376
+          19.41333741673688,
+          -35.55409620568904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.41333741673688,
+          -35.55409620568904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.241405996198235,
+          -35.54918982993548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.44088430507829,
+          -35.42791681882429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.263536462548124,
+          -35.41342017432232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.262959873239733,
+          -35.41294322008575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.476653982142825,
+          -35.348265111360554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.881816039871964,
+          -35.46646954599835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.894558832798065,
+          -35.41878517490406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.895033112371824,
+          -35.41866790196274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.25945378279412,
+          -35.31426221012426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.259214556415152,
+          -35.313605500264266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.25585070021106,
+          -35.22948850327606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.7090707345408,
+          -34.89167932841985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.04524502312448,
+          -35.31507183700251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.37188405813077,
+          -35.015477084669925
         ]
       }
     },
@@ -35871,73 +32361,13 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "1",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.9879430158201,
-          -28.667187523282436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.029884679082732,
-          -29.05980540999025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.85087126273651,
-          -3.2966744805651698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "3",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.42890718895036,
-          -33.79109391364574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.660558071727024,
-          -2.9219566619544493
+          -55.45540969011525,
+          -36.288544683050574
         ]
       }
     },
@@ -35946,13 +32376,493 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "2",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.33838899279221,
-          -33.73756831751273
+          -53.56457619071001,
+          -36.93215329442582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.54824475007857,
+          -36.44425957435398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.38968301468692,
+          -36.71246895068888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.44897050680344,
+          -37.04028941782816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.449238706310574,
+          -37.04022227314247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.78849974329888,
+          -37.349531354097735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.85311870293072,
+          -37.33275280170698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.74473187167592,
+          -36.19423038840801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.74463914190058,
+          -36.19396695482801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.555151389375766,
+          -35.66166534684234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.356673141870935,
+          -35.88483812214038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.25887963948367,
+          -35.31268610646028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.65788923458478,
+          -35.56116241391923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.92558178460664,
+          -35.20868387699719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.92658808518078,
+          -35.18291942858514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.97583111332354,
+          -35.13888394122586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.937831538345655,
+          -35.15238780564541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.991784670410446,
+          -35.07917606873034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.99758816405656,
+          -35.077043838705706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.92632132710836,
+          -35.33753454538454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.87070547791421,
+          -35.02831271510512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8852966094736,
+          -35.02355201107526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.99425473151592,
+          -34.952395483407216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.97131573306554,
+          -34.93906796338541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.37231972890426,
+          -35.01670517911932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5220549003451,
+          -35.80771414677436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.430440324095063,
+          -34.18742063721128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.436364847706493,
+          -35.231797506523954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8700056057933,
+          -35.33555424062369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.66255025318365,
+          -34.80899134608455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.45420809602509,
+          -34.813246909219906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.240242664155577,
+          -34.81494099628439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.560348429392068,
+          -34.68240444164465
         ]
       }
     },
@@ -35961,193 +32871,793 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.30615333001048,
-          -33.61188368764357
+          18.06750286433898,
+          -34.73510383898324
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "70",
+        "field_1": "68",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.50814296103011,
-          -33.803303608322295
+          17.761301650449838,
+          -33.85996950406953
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "71",
+        "field_1": "2",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.75990509124088,
-          -33.74701417006471
+          18.303745022198225,
+          -34.67947996157607
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "72",
+        "field_1": "3",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.968156346984,
-          -33.69067043705965
+          18.403868552966063,
+          -34.66410895457869
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "73",
+        "field_1": "4",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.222522988310875,
-          -33.63828849894206
+          18.06750286433898,
+          -34.73510383898324
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "74",
+        "field_1": "5",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.47720646187964,
-          -33.795299010428806
+          18.43911347899224,
+          -34.63827304691007
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "75",
+        "field_1": "6",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.06841783590596,
-          -33.62171682178567
+          18.448236282445464,
+          -34.60890540984079
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "76",
+        "field_1": "7",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.505165707554443,
-          -33.71796690177774
+          17.636735520541947,
+          -34.64769607620013
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "77",
+        "field_1": "8",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.994009082266263,
-          -33.5857533851455
+          18.14981210989576,
+          -34.5323861904802
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "78",
+        "field_1": "9",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.994060789594716,
-          -33.585740758577366
+          18.149281980576426,
+          -34.53118146967296
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "79",
+        "field_1": "10",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.303507427744726,
-          -33.48956621061825
+          18.752232044888935,
+          -34.349956655715886
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "80",
+        "field_1": "11",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.51419055389469,
-          -33.66103357900949
+          18.266782471540868,
+          -34.44768442655472
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "81",
+        "field_1": "12",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.43603470169382,
-          -33.627299251223256
+          18.266570156089585,
+          -34.44625925449596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.817036732745997,
+          -34.53925264038811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935679193631284,
+          -34.49353659337844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.089716628868583,
+          -34.46012060837744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.472890355610275,
+          -34.35806884413784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.467262697188293,
+          -34.35206324443105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.414853155968338,
+          -34.32003806688205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7562670405834,
+          -34.37189358028238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.755757831650023,
+          -34.3707312560042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.66173137808392,
+          -34.810052384284376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.682189118366864,
+          -35.06084729905372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "49",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.681669705082108,
+          -35.060827561680696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.84063882820758,
+          -34.81586515746917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.453638712136296,
+          -35.20295858448741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.074729888779164,
+          -35.14734966309525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65344060550448,
+          -35.223955282269706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.20099099128828,
+          -35.075696467510554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.85833686168608,
+          -35.13208234590308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.83903246685023,
+          -35.082981206158614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.18164344295523,
+          -35.01639008063716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.29435211880196,
+          -34.983437498371295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.746461945524064,
+          -35.096415604285134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.83903246685023,
+          -35.082981206158614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.081672721622027,
+          -34.98606102910841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.944019855474664,
+          -35.44727352950428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.436921473173797,
+          -35.23175253086416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77516933351722,
+          -34.98096041779526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.832624375449225,
+          -34.94881679272921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.19483139797173,
+          -35.280183010056575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.558196131450025,
+          -34.95399217476049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.031967379662497,
+          -34.835031798112986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03228128811811,
+          -34.8349533986189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.205496575742732,
+          -35.016914124157786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.778786737957347,
+          -34.87587162777109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.450035724881364,
+          -34.92883955038241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.50156619491377,
+          -34.93502160986476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77881670244494,
+          -34.8439495435322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.87704860303735,
+          -34.839320739627226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.89771976239,
+          -34.83241973703828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.643040470445538,
+          -34.98330271171216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "69",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.070063288293344,
+          -33.91311382466035
         ]
       }
     },
@@ -36156,7 +33666,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "83",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36169,195 +33679,645 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "84",
+        "field_1": "71",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.68770061179698,
-          -33.750321285627244
+          17.75990509124088,
+          -33.74701417006471
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "85",
+        "field_1": "76",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.30395377746976,
-          -33.598281597754955
+          -43.8652730803682,
+          -2.442707255537444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "86",
+        "field_1": "75",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.545314728606794,
-          -33.54945437241576
+          -44.20444074234496,
+          -2.340461302445713
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "87",
+        "field_1": "74",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.68047786627776,
-          -33.50921343126107
+          -44.58561669445799,
+          -2.225337188368774
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "88",
+        "field_1": "73",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.859453983083075,
-          -33.36016293357111
+          -44.56514393124244,
+          -2.2137872312449662
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "89",
+        "field_1": "72",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.492130593259276,
-          -33.432540626696735
+          -44.58383533630458,
+          -2.151601834318872
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "90",
+        "field_1": "71",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.51097025736712,
-          -33.421073962595074
+          -44.19061924494954,
+          -2.2340952882322904
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "91",
+        "field_1": "70",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.5843847010133,
-          -33.397367307150354
+          -44.193135597203,
+          -2.2253771584823023
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "92",
+        "field_1": "69",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.55355942584726,
-          -33.38897695246996
+          -44.18339271383749,
+          -2.2253822606729994
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "93",
+        "field_1": "68",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.15960118907916,
-          -33.47201563869606
+          -44.18248233074413,
+          -2.224124430709573
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "94",
+        "field_1": "67",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.15940138359549,
-          -33.470733530073375
+          -44.56896692278133,
+          -2.129864728645213
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "95",
+        "field_1": "66",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.552258427087292,
-          -33.35321669666084
+          -44.170647374321,
+          -2.218385529788627
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "96",
+        "field_1": "65",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.532391281699184,
-          -33.32834329930704
+          -44.179921897375166,
+          -2.204910926840541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "64",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.163221418554485,
+          -2.200933957005071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "63",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.15763374529626,
+          -2.1854306807152604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "62",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.140637068552536,
+          -2.178323764350675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "61",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.17366223723076,
+          -1.9525765686963008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "60",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.14040632468331,
+          -2.1776694963885426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "59",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.15537125007525,
+          -2.1700029058616277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "58",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.15189241557179,
+          -2.154041200794888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "57",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.133639903162425,
+          -2.156176091633538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "56",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.13269779042097,
+          -2.1404614924475904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "55",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.11283777825216,
+          -2.144118490047709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "54",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.53076814788059,
+          -2.022511036962828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "53",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.48026292492329,
+          -2.0398808342579864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "52",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.12345066705754,
+          -2.1202584713856685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "51",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.12686468174494,
+          -2.0938772620714032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "50",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.48611962790044,
+          -1.9784728765527653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.18801856696071,
+          -2.356995644900737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.20369483310134,
+          -2.37086759954403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.22025405500632,
+          -2.349231375550733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.22213645772189,
+          -2.362675649578827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "108",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.46239601560781,
+          -2.48026407414804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "107",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.46218006753621,
+          -2.481625917905577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "106",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.89192844539204,
+          -2.5966814301604435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "105",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.93602740599867,
+          -2.570744192064164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "104",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.93157302857279,
+          -2.5597337636799677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "103",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4062045599306,
+          -2.4151676182552717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "102",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.29056215142547,
+          -2.446169653222725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "101",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.31027652636641,
+          -2.435585969302976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "100",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.02409656468196,
+          -2.498324352676698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "99",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.02405257436831,
+          -2.49833392023717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "98",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.35917635641545,
+          -2.411931292294501
         ]
       }
     },
@@ -36366,133 +34326,328 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "97",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.578887575534107,
-          -33.3114609220946
+          -44.35167464321051,
+          -2.403891313970771
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "96",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.29434533112637,
-          -33.746731046481976
+          -44.29689946272615,
+          -2.42501995626942
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "29",
+        "field_1": "49",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.98509211077972,
-          -33.388149843458095
+          -44.09803869359556,
+          -2.083420415096993
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "28",
+        "field_1": "95",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.082348288966266,
-          -33.32906650196569
+          -44.273165361324686,
+          -2.424127497661346
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "27",
+        "field_1": "93",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.95407026465112,
-          -33.33652065360425
+          -44.28297756638685,
+          -2.405508859631348
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "92",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.20330643183565,
-          -0.9170466539041442
+          -44.27900330470767,
+          -2.38754262136826
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "2",
+        "field_1": "91",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.806371624887575,
-          -0.4886376723927289
+          -44.24976821843553,
+          -2.411608780689884
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "1",
+        "field_1": "90",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.299794823174565,
-          -0.5863824195198634
+          -44.263473999653485,
+          -2.404117871210651
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "0",
+        "field_1": "89",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.17769588213867,
-          -0.5776311863350239
+          -44.240744915569415,
+          -2.3947875613218925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.33219114975968,
+          -2.3565728567108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.25356495857092,
+          -2.384624996381638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.23377649728384,
+          -2.3775190454541577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.21837685720006,
+          -2.372087722712683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.21546227736,
+          -2.381785656758392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "83",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.21837685720006,
+          -2.372087722712683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.10951372877267,
+          -2.4180765859150157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.09231300891432,
+          -2.4104518206696324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.34339002231537,
+          -2.3861134681728777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "109",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.46218006753621,
+          -2.481625917905577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "48",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.07809066715997,
+          -2.066714418040063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "46",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.29790371085703,
+          -1.7226476770326065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "13",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.095437750165786,
+          -1.386319485981856
         ]
       }
     },
@@ -36501,7 +34656,202 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "12",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8858195537998,
+          -1.4205862927135318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.577134294917954,
+          -1.2657469536349393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.95776189764295,
+          -1.3815609165060534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9434979004085,
+          -1.4014026562074011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8858195537998,
+          -1.4205862927135318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.87392997283695,
+          -1.413035627048253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.86711295888786,
+          -1.181046522026273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.87070177117808,
+          -1.150802704810509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.8089821337526,
+          -1.1622081340083794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.74942467601871,
+          -1.1543078352387943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.74871356156847,
+          -1.1533380309507202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.662954127114624,
+          -1.1589983975900693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.99027038599133,
+          -1.270902293816769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "12",
+        "Date": "20250518",
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36516,7 +34866,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "11",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36531,7 +34881,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36544,9 +34894,1674 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "9",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.303345419748275,
+          -30.920156331131924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.774335058741917,
+          -30.89912360290283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.257388095439637,
+          -31.024985801133266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.903770404061508,
+          -30.904700833976797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.387830200717467,
+          -31.061317774662403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42828744927269,
+          -31.104071480405988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.471230631908952,
+          -31.317839372734834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434005021197548,
+          -31.34100558169047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.505064954566848,
+          -31.62122124324923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.015403897431348,
+          -31.821802992334497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "14",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.30544148157264,
+          -1.3391448967268818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "15",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.35673183377747,
+          -1.3427181221425677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "16",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.51038746558658,
+          -1.2930524069853828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "17",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.662632614362,
+          -1.2525460484387438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "45",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.00618998411852,
+          -1.9590058968559376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "44",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.73017632094964,
+          -1.717032723739924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "43",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.72107736527089,
+          -1.718118667430972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "42",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.58627516878419,
+          -1.7684846663565177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "41",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5860994689562,
+          -1.7685228460102425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "40",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.65587252254496,
+          -1.7192437834170124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "39",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.530040173923474,
+          -1.410031788309691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "38",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.52885810913237,
+          -1.4105233685165366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "37",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.66307558574545,
+          -1.3701158318175168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "36",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.64096005625921,
+          -1.3672432853715244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "35",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.64131772352952,
+          -1.3659001206716812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "34",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5300116101229,
+          -1.409897387806232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "33",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.52877610742292,
+          -1.4103537238456667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "47",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.24928852659761,
+          -1.805463316463224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "32",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.64862766095087,
+          -1.5998894950309923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "30",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.702939424142905,
+          -1.5621940825697624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.49941195104677,
+          -1.3608227307073844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.49506926114215,
+          -1.3425495480938492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.92557528421156,
+          -1.4688043162170137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.80053669732727,
+          -1.7125780090006582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.47898827154575,
+          -1.3371403209954251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.48472553268131,
+          -1.3342993012034154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.48448632230911,
+          -1.3290549103134923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.1103466576804,
+          -1.4189551277474397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "21",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.87641793328721,
+          -1.2114842563707062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "20",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.65826568963332,
+          -1.269427387226804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "19",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.65622846378597,
+          -1.257874729981003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "18",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.66402612670702,
+          -1.252617882389291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "31",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.02271867209184,
+          -1.4892571490277806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "70",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.50814296103011,
+          -33.803303608322295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "110",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.35966151240825,
+          -2.5231668444579904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "112",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.35828366584124,
+          -2.543707357569769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.44383982343377,
+          -34.09990895449744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.10727507206259,
+          -34.26677926885796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.10825408544388,
+          -34.26835310493836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.14955294796079,
+          -34.405747321919605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.853646836238575,
+          -34.81797185192513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.649358223335973,
+          -29.280078702821616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.01793735441528,
+          -29.605506003314108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.477909874258074,
+          -30.04312583208773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2285268187532,
+          -30.184647645890973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "11",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.00671501787092,
+          -28.37264282187631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "10",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.75935773585866,
+          -28.28819087953072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "9",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.778446910261316,
+          -28.310262400295425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "8",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.778221814124342,
+          -28.35952761658769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "7",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.814670229286916,
+          -28.50441308613764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.817760148334976,
+          -28.586293626152894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.271122775800514,
+          -28.503773911348816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.07494246617453,
+          -28.567891963576947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.330935362955163,
+          -28.55713882142477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.10997701857374,
+          -28.633648218854376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9879430158201,
+          -28.667187523282436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.029884679082732,
+          -29.05980540999025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.85087126273651,
+          -3.2966744805651698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.660558071727024,
+          -2.9219566619544493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "29",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98509211077972,
+          -33.388149843458095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "28",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.082348288966266,
+          -33.32906650196569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "27",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.95407026465112,
+          -33.33652065360425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "26",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.27879345018956,
+          -33.05004817319835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "6",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47777778281409,
+          -34.01916940847645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.47744953606491,
+          -34.01782242413334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4290111906215,
+          -33.7910696873648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.42890718895036,
+          -33.79109391364574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "72",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.968156346984,
+          -33.69067043705965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "73",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.222522988310875,
+          -33.63828849894206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "74",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.47720646187964,
+          -33.795299010428806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "75",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06841783590596,
+          -33.62171682178567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "76",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.505165707554443,
+          -33.71796690177774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "77",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.994009082266263,
+          -33.5857533851455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "78",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.994060789594716,
+          -33.585740758577366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "79",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.303507427744726,
+          -33.48956621061825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "80",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51419055389469,
+          -33.66103357900949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "81",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.43603470169382,
+          -33.627299251223256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "82",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.072667339137386,
+          -33.433600920699924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "84",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.68770061179698,
+          -33.750321285627244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "85",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.30395377746976,
+          -33.598281597754955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "25",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.715306029491884,
+          -32.87805040974561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "86",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.545314728606794,
+          -33.54945437241576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "88",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859453983083075,
+          -33.36016293357111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "89",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.492130593259276,
+          -33.432540626696735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "90",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51097025736712,
+          -33.421073962595074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "91",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5843847010133,
+          -33.397367307150354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "92",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.55355942584726,
+          -33.38897695246996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "93",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.15960118907916,
+          -33.47201563869606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "94",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.15940138359549,
+          -33.470733530073375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "95",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.552258427087292,
+          -33.35321669666084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "96",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.532391281699184,
+          -33.32834329930704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "97",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.578887575534107,
+          -33.3114609220946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.30615333001048,
+          -33.61188368764357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.29434533112637,
+          -33.746731046481976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.33838899279221,
+          -33.73756831751273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "87",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.68047786627776,
+          -33.50921343126107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "111",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.35904216768174,
+          -2.5431664015148856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "24",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.71497096447079,
+          -32.87751160375133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "22",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.94933799919242,
+          -32.27636168722898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "23",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.10783064902122,
+          -32.292584112606015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.17769588213867,
+          -0.5776311863350239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "134",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36561,7 +36576,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "133",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36576,7 +36591,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "132",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36591,7 +36606,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "131",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36606,7 +36621,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "130",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36621,7 +36636,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "129",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36636,7 +36651,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "128",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36651,7 +36666,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "127",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36666,7 +36681,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "126",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36679,9 +36694,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "2",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.806371624887575,
+          -0.4886376723927289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "125",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36694,24 +36724,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "124",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.36766351725882,
-          -2.595152930834001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "123",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36726,7 +36741,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "122",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36741,7 +36756,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "121",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36756,7 +36771,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "120",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36771,7 +36786,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "119",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36786,7 +36801,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "118",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36801,7 +36816,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "117",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36816,7 +36831,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "116",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36831,7 +36846,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "115",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36844,15 +36859,75 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "114",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.7309802221556,
-          -1.4067842495585774
+          -44.3682232070127,
+          -2.530130203068827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "113",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.36501788365037,
+          -2.544024617535596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "124",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.36766351725882,
+          -2.595152930834001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.20330643183565,
+          -0.9170466539041442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.299794823174565,
+          -0.5863824195198634
         ]
       }
     },
@@ -36861,7 +36936,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36874,114 +36949,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "6",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.85051412926778,
-          -1.4904071323210886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "7",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.94828664115968,
-          -1.2719955085433703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "26",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.27879345018956,
-          -33.05004817319835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "25",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.715306029491884,
-          -32.87805040974561
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "24",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.71497096447079,
-          -32.87751160375133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "23",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.10783064902122,
-          -32.292584112606015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "22",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.94933799919242,
-          -32.27636168722898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "21",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -36996,7 +36966,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "20",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37011,7 +36981,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "19",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37026,7 +36996,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "18",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37041,7 +37011,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "17",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37056,7 +37026,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "16",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37071,7 +37041,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "15",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37086,7 +37056,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "14",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37099,24 +37069,9 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "113",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.36501788365037,
-          -2.544024617535596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "field_1": "13",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37129,9 +37084,24 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
+        "field_1": "12",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.904680974711255,
+          -32.12349424744861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "field_1": "11",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37146,7 +37116,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "10",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37161,7 +37131,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "9",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37176,7 +37146,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37191,7 +37161,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "7",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37206,7 +37176,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "6",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37221,7 +37191,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "5",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37234,75 +37204,30 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "4",
+        "field_1": "6",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.57798826543626,
-          -31.951836108423155
+          -43.85051412926778,
+          -1.4904071323210886
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "field_1": "3",
+        "field_1": "7",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.0696123846506,
-          -31.66326710277972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "2",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.02906963256884,
-          -31.71704762192859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "1",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.853709602902384,
-          -31.660696849050247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "field_1": "0",
-        "Date": "20250518",
-        "DaysOld": "1.0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.61535421363868,
-          -31.72954138266142
+          -44.94828664115968,
+          -1.2719955085433703
         ]
       }
     },
@@ -37311,7 +37236,7 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "8",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -37324,15 +37249,15 @@ var json_SouthAtlantic_9 = {
     {
       "type": "Feature",
       "properties": {
-        "field_1": "12",
+        "field_1": "4",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.904680974711255,
-          -32.12349424744861
+          -43.7309802221556,
+          -1.4067842495585774
         ]
       }
     },
@@ -37341,13 +37266,178 @@ var json_SouthAtlantic_9 = {
       "properties": {
         "field_1": "0",
         "Date": "20250518",
-        "DaysOld": "1.0"
+        "DaysOld": "2.0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -55.39669447852062,
           -36.06269787247373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.853709602902384,
+          -31.660696849050247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02906963256884,
+          -31.71704762192859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0696123846506,
+          -31.66326710277972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.57798826543626,
+          -31.951836108423155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250518",
+        "DaysOld": "2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.61535421363868,
+          -31.72954138266142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "0",
+        "Date": "20250519",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.14109028724927,
+          -2.3365763714158856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "1",
+        "Date": "20250519",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.17558442028915,
+          -2.349383877598725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "3",
+        "Date": "20250519",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.52648050628565,
+          -2.4387616881342367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "4",
+        "Date": "20250519",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.50879962776106,
+          -2.4431264461702766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "5",
+        "Date": "20250519",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.52798116175647,
+          -2.43932770821304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_1": "2",
+        "Date": "20250519",
+        "DaysOld": "1.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.22133528103492,
+          -2.3987921165146684
         ]
       }
     }
